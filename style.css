@@ -20,6 +20,8 @@ th,td {
   padding-top: 30px;              /* 次問・前問・目次ボタン */
   display: flex;
   justify-content: space-evenly;
+  position: fixed;
+  bottom: 0;
 }
 .downmrgn{                          /* 目次の年号ボタンの下にマージン*/
   margin-bottom: 0.5rem;
@@ -35,7 +37,9 @@ th,td {
     width: 100%;
     margin: 0 auto;
 }  
-  .tab-list{
+.tab-list{
+  /* position: fixed;
+  bottom: 100px; */
   display: flex;
 }
 .tab-list-item{
