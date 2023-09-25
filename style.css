@@ -56,6 +56,9 @@ background-color: #ffffcc;
 font-weight: bold;
 border-top: 1px solid #ffffcc ;
 }
+.is-btn-active:hover{
+background-color: #ffffcc;  
+}
 .is-contents-active{
 display: block;
 }
