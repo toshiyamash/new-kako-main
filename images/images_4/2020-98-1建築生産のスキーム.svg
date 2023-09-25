@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="142.45358mm"
+   height="87.966484mm"
+   viewBox="0 0 142.45359 87.966483"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="2020-98-1建築生産のスキーム.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.0809568"
+     inkscape:cx="366.80468"
+     inkscape:cy="350.61532"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     inkscape:snap-global="false"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="false"
+     inkscape:object-nodes="true"
+     inkscape:object-paths="true"
+     inkscape:snap-midpoints="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3862"
+       originx="21.049406"
+       originy="31.803959" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(21.049402,31.803957)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     transform="translate(21.049402,31.803957)">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.635062;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect17504"
+       width="20.736282"
+       height="20.736282"
+       x="28.828226"
+       y="-24.289658"
+       transform="matrix(0.94464201,0.32810285,-0.94464201,0.32810285,0,0)" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.635062;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect17668"
+       width="20.736282"
+       height="20.736282"
+       x="28.828226"
+       y="29.739822"
+       transform="matrix(0.94464201,0.32810285,-0.94464201,0.32810285,0,0)" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.635062;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect17670"
+       width="20.736282"
+       height="20.736282"
+       x="82.857704"
+       y="29.739822"
+       transform="matrix(0.94464201,0.32810285,-0.94464201,0.32810285,0,0)" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.635062;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect17672"
+       width="20.736282"
+       height="20.736282"
+       x="82.857704"
+       y="-24.289658"
+       transform="matrix(0.94464201,0.32810285,-0.94464201,0.32810285,0,0)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 8.1270222,21.152734 37.870632,10.821875"
+       id="path18663"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 9.8247523,22.927876 38.830034,12.853461"
+       id="path18745"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;stroke:#000000;stroke-width:1.21703;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path18986"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="94.197456"
+       sodipodi:cy="84.712296"
+       sodipodi:r1="3.9554384"
+       sodipodi:r2="1.9777192"
+       sodipodi:arg1="2.6179939"
+       sodipodi:arg2="3.6651914"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       transform="matrix(-0.06743241,-0.17813344,0.2983573,-0.11294315,-10.576615,47.402646)"
+       inkscape:transform-center-y="-0.19341392"
+       inkscape:transform-center-x="0.17953797"
+       d="m 90.771946,86.690015 3.42551,-5.933158 3.42551,5.933158 z" />
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;stroke:#000000;stroke-width:1.21703;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path19489"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="94.197456"
+       sodipodi:cy="84.712296"
+       sodipodi:r1="3.9554384"
+       sodipodi:r2="1.9777192"
+       sodipodi:arg1="2.6179939"
+       sodipodi:arg2="3.6651914"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       transform="matrix(-0.05821554,-0.18135491,-0.30375296,0.09750575,70.658136,21.400439)"
+       inkscape:transform-center-y="0.19283892"
+       inkscape:transform-center-x="-0.20066045"
+       d="m 90.771946,86.690015 3.42551,-5.933158 3.42551,5.933158 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 58.900682,39.939233 87.905964,29.864818"
+       id="path19864"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;stroke:#000000;stroke-width:1.21703;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path19866"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="94.197456"
+       sodipodi:cy="84.712296"
+       sodipodi:r1="3.9554384"
+       sodipodi:r2="1.9777192"
+       sodipodi:arg1="2.6179939"
+       sodipodi:arg2="3.6651914"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       transform="matrix(-0.19044647,0.00296541,-0.00496678,-0.31898051,68.496435,61.785736)"
+       inkscape:transform-center-y="0.31034834"
+       inkscape:transform-center-x="0.0098222234"
+       d="m 90.771946,86.690015 3.42551,-5.933158 3.42551,5.933158 z" />
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;stroke:#000000;stroke-width:1.21703;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path19868"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="94.197456"
+       sodipodi:cy="84.712296"
+       sodipodi:r1="3.9554384"
+       sodipodi:r2="1.9777192"
+       sodipodi:arg1="2.6179939"
+       sodipodi:arg2="3.6651914"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       transform="matrix(-0.05821554,-0.18135491,-0.30375296,0.09750575,119.73407,38.411796)"
+       inkscape:transform-center-y="0.19283892"
+       inkscape:transform-center-x="-0.20066045"
+       d="m 90.771946,86.690015 3.42551,-5.933158 3.42551,5.933158 z" />
+    <g
+       id="g19986"
+       transform="translate(-3.1809253,1.5428447)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
+         d="M 91.825139,21.03035 62.081529,10.699491"
+         id="path19963"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000000;stroke:#000000;stroke-width:1.21703;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path19967"
+         inkscape:flatsided="true"
+         sodipodi:sides="3"
+         sodipodi:cx="94.197456"
+         sodipodi:cy="84.712296"
+         sodipodi:r1="3.9554384"
+         sodipodi:r2="1.9777192"
+         sodipodi:arg1="2.6179939"
+         sodipodi:arg2="3.6651914"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         transform="matrix(0.06743241,-0.17813344,-0.2983573,-0.11294315,110.52878,47.280262)"
+         inkscape:transform-center-y="-0.19341392"
+         inkscape:transform-center-x="0.17953797"
+         d="m 90.771946,86.690015 3.42551,-5.933158 3.42551,5.933158 z" />
+    </g>
+    <g
+       id="g19990"
+       transform="translate(2.9781531,-0.82953928)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
+         d="M 90.127409,22.805492 61.122127,12.731077"
+         id="path19965"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000000;stroke:#000000;stroke-width:1.21703;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path19969"
+         inkscape:flatsided="true"
+         sodipodi:sides="3"
+         sodipodi:cx="94.197456"
+         sodipodi:cy="84.712296"
+         sodipodi:r1="3.9554384"
+         sodipodi:r2="1.9777192"
+         sodipodi:arg1="2.6179939"
+         sodipodi:arg2="3.6651914"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         transform="matrix(0.05821554,-0.18135491,0.30375296,0.09750575,29.294025,21.278055)"
+         inkscape:transform-center-y="0.19283892"
+         inkscape:transform-center-x="-0.20066045"
+         d="m 90.771946,86.690015 3.42551,-5.933158 3.42551,5.933158 z" />
+    </g>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 50.177382,15.096383 v 20.15017"
+       id="path20025"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:0.6, 0.6;stroke-dashoffset:0"
+       d="M 8.9330476,29.421793 40.3832,40.345386"
+       id="path20235" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.635062;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect43876"
+       width="20.736282"
+       height="20.736282"
+       x="-16.445864"
+       y="-69.746971"
+       transform="matrix(0.94464201,0.32810285,-0.94464201,0.32810285,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;word-spacing:0px;stroke-width:0.264583"
+       x="43.35577"
+       y="-23.019232"
+       id="text45882"><tspan
+         sodipodi:role="line"
+         id="tspan45880"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="43.35577"
+         y="-23.019232">特定行政庁</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M 50.350464,-14.672848 V 0.34615385"
+       id="path46087"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;stroke:#000000;stroke-width:1.21703;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path46330"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="94.197456"
+       sodipodi:cy="84.712296"
+       sodipodi:r1="3.9554384"
+       sodipodi:r2="1.9777192"
+       sodipodi:arg1="2.6179939"
+       sodipodi:arg2="3.6651914"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       transform="matrix(-0.19044647,0.00296541,-0.00496678,-0.31898051,68.691139,26.255027)"
+       inkscape:transform-center-y="0.31034834"
+       inkscape:transform-center-x="0.0098222234"
+       d="m 90.771946,86.690015 3.42551,-5.933158 3.42551,5.933158 z" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.635062;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect384"
+       width="20.736282"
+       height="20.736282"
+       x="118.10664"
+       y="10.959275"
+       transform="matrix(0.94464201,0.32810285,-0.94464201,0.32810285,0,0)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-dasharray:none"
+       d="M 101.21208,33.059491 V 42.23828"
+       id="path657"
+       sodipodi:nodetypes="cc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 3"
+     transform="translate(21.049402,31.803957)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;word-spacing:0px;stroke-width:0.264583"
+       x="45"
+       y="9.5192308"
+       id="text23699"><tspan
+         sodipodi:role="line"
+         id="tspan23697"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="45"
+         y="9.5192308">建築主</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';word-spacing:0px;stroke-width:0.264583"
+       x="96.403847"
+       y="24.403847"
+       id="text25969"><tspan
+         sodipodi:role="line"
+         id="tspan25967"
+         style="stroke-width:0.264583"
+         x="96.403847"
+         y="24.403847">施工者</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';word-spacing:0px;stroke-width:0.264583"
+       x="91.03846"
+       y="28.384613"
+       id="text26985"><tspan
+         sodipodi:role="line"
+         id="tspan26983"
+         style="stroke-width:0.264583"
+         x="91.03846"
+         y="28.384613">総合工事業者</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';word-spacing:0px;stroke-width:0.264583"
+       x="41.192307"
+       y="45"
+       id="text28367"><tspan
+         sodipodi:role="line"
+         id="tspan28365"
+         style="stroke-width:0.264583"
+         x="41.192307"
+         y="45">工事監理者</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';word-spacing:0px;stroke-width:0.264583"
+       x="-6.0576921"
+       y="27.173075"
+       id="text31055"><tspan
+         sodipodi:role="line"
+         id="tspan31053"
+         style="stroke-width:0.264583"
+         x="-6.0576921"
+         y="27.173075">設計者</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';word-spacing:0px;stroke-width:0.264583"
+       x="53.788849"
+       y="61.401539"
+       id="text33089"
+       transform="rotate(-19.489078)"><tspan
+         sodipodi:role="line"
+         id="tspan33087"
+         style="stroke-width:0.264583"
+         x="53.788849"
+         y="61.401539">工事監理</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';word-spacing:0px;stroke-width:0.264583"
+       x="71.816658"
+       y="-12.355995"
+       id="text35065"
+       transform="rotate(20.044842)"><tspan
+         sodipodi:role="line"
+         id="tspan35063"
+         style="stroke-width:0.264583"
+         x="71.816658"
+         y="-12.355995">建築物</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';word-spacing:0px;stroke-width:0.264583"
+       x="65.96463"
+       y="-4.6701913"
+       id="text36565"
+       transform="rotate(19.722908)"><tspan
+         sodipodi:role="line"
+         id="tspan36563"
+         style="stroke-width:0.264583"
+         x="65.96463"
+         y="-4.6701913">工事発注</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';word-spacing:0px;stroke-width:0.264583"
+       x="7.7255478"
+       y="21.66802"
+       id="text37873"
+       transform="rotate(-20.852149)"><tspan
+         sodipodi:role="line"
+         id="tspan37871"
+         style="stroke-width:0.264583"
+         x="7.7255478"
+         y="21.66802">設計依頼</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';word-spacing:0px;stroke-width:0.264583"
+       x="11.51411"
+       y="28.970064"
+       id="text38449"
+       transform="rotate(-20.371636)"><tspan
+         sodipodi:role="line"
+         id="tspan38447"
+         style="stroke-width:0.264583"
+         x="11.51411"
+         y="28.970064">設計図書</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;word-spacing:0px;stroke-width:0.264583"
+       x="18.795174"
+       y="28.190851"
+       id="text38915"
+       transform="rotate(19.021638)"><tspan
+         sodipodi:role="line"
+         id="tspan38913"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="18.795174"
+         y="28.190851">多くの場合同一人物</tspan></text>
+    <g
+       id="g43783"
+       transform="translate(0.43269231,0.43269231)">
+      <text
+         xml:space="preserve"
+         style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';word-spacing:0px;stroke-width:0.264583"
+         x="45.328514"
+         y="23.884615"
+         id="text41087"><tspan
+           sodipodi:role="line"
+           id="tspan41085"
+           style="stroke-width:0.264583"
+           x="45.328514"
+           y="23.884615">依</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';word-spacing:0px;stroke-width:0.264583"
+         x="45.259613"
+         y="27.865385"
+         id="text41795"><tspan
+           sodipodi:role="line"
+           id="tspan41793"
+           style="stroke-width:0.264583"
+           x="45.259613"
+           y="27.865385">頼</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;word-spacing:0px;stroke-width:0.264583"
+       x="34.436954"
+       y="-10.199857"
+       id="text52426"><tspan
+         sodipodi:role="line"
+         id="tspan52424"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="34.436954"
+         y="-10.199857">建築確認</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;word-spacing:0px;stroke-width:0.264583"
+       x="31.254974"
+       y="-6.1611886"
+       id="text53574"><tspan
+         sodipodi:role="line"
+         id="tspan53572"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="31.254974"
+         y="-6.1611886">（中間検査）</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;word-spacing:0px;stroke-width:0.264583"
+       x="34.681728"
+       y="-2.0001371"
+       id="text54678"><tspan
+         sodipodi:role="line"
+         id="tspan54676"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="34.681728"
+         y="-2.0001371">完了検査</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;word-spacing:0px;stroke-width:0.264583"
+       x="52.625061"
+       y="-9.4511185"
+       id="text62730"><tspan
+         sodipodi:role="line"
+         id="tspan62728"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="52.625061"
+         y="-9.4511185">確認済証</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;word-spacing:0px;stroke-width:0.264583"
+       x="52.600258"
+       y="-2.8148286"
+       id="text65314"><tspan
+         sodipodi:role="line"
+         id="tspan65312"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="52.600258"
+         y="-2.8148286">検査済証</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';word-spacing:0px;stroke-width:0.264583"
+       x="-12.605537"
+       y="73.552704"
+       id="text67348"><tspan
+         sodipodi:role="line"
+         id="tspan67346"
+         style="stroke-width:0.264583"
+         x="-12.605537"
+         y="73.552704">新建築物の環境衛生管理　H31.3.31第1版第1刷 下163 図342-(1) を基に作成</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;word-spacing:0px;stroke-width:0.264583"
+       x="39.079277"
+       y="-19.520306"
+       id="text72058"><tspan
+         sodipodi:role="line"
+         id="tspan72056"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="39.079277"
+         y="-19.520306">指定確認検査機関</tspan></text>
+    <g
+       id="g13798"
+       transform="translate(4.8461538,-3.2019232)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect13491"
+         width="10.248077"
+         height="4.0173078"
+         x="84.666771"
+         y="-28.452034" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';word-spacing:0px;stroke-width:0.264583"
+         x="85.550423"
+         y="-25.491461"
+         id="text1601"><tspan
+           sodipodi:role="line"
+           id="tspan1599"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="85.550423"
+           y="-25.491461">消防署</tspan></text>
+    </g>
+    <g
+       id="g13804"
+       transform="translate(4.7596154,5.1057693)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect13595"
+         width="10.248077"
+         height="4.0173078"
+         x="84.666771"
+         y="-20.230881" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';word-spacing:0px;stroke-width:0.264583"
+         x="85.723503"
+         y="-17.183767"
+         id="text2679"><tspan
+           sodipodi:role="line"
+           id="tspan2677"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="85.723503"
+           y="-17.183767">保健所</tspan></text>
+    </g>
+    <g
+       id="g23915"
+       transform="translate(-0.25961541,-2.0769237)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 70.838892,-21.683767 17.740385,-6.490384"
+         id="path13630"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000000;stroke:#000000;stroke-width:1.21703;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path13806"
+         inkscape:flatsided="true"
+         sodipodi:sides="3"
+         sodipodi:cx="94.197456"
+         sodipodi:cy="84.712296"
+         sodipodi:r1="3.9554384"
+         sodipodi:r2="1.9777192"
+         sodipodi:arg1="2.6179939"
+         sodipodi:arg2="3.6651914"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         transform="matrix(0.07076156,0.17683736,-0.2961865,0.11851916,106.18378,-54.704102)"
+         inkscape:transform-center-y="0.18567955"
+         inkscape:transform-center-x="-0.17169234"
+         d="m 90.771946,86.690015 3.42551,-5.933158 3.42551,5.933158 z" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 70.882161,-22.376075 17.740385,-6.490384"
+       id="path24003"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;stroke:#000000;stroke-width:1.21703;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path24005"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="94.197456"
+       sodipodi:cy="84.712296"
+       sodipodi:r1="3.9554384"
+       sodipodi:r2="1.9777192"
+       sodipodi:arg1="2.6179939"
+       sodipodi:arg2="3.6651914"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       transform="matrix(0.06787455,0.17796544,0.29807591,-0.11368371,40.380737,-29.942366)"
+       inkscape:transform-center-y="-0.19239159"
+       inkscape:transform-center-x="0.17850558"
+       d="m 90.771946,86.690015 3.42551,-5.933158 3.42551,5.933158 z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;word-spacing:0px;stroke-width:0.264583"
+       x="81.152847"
+       y="2.8185265"
+       id="text19328"
+       transform="rotate(-21.394839)"><tspan
+         sodipodi:role="line"
+         id="tspan19326"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="81.152847"
+         y="2.8185265">通知</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;word-spacing:0px;stroke-width:0.264583"
+       x="81.817444"
+       y="4.432653"
+       id="text20388"
+       transform="rotate(-18.857542)"><tspan
+         sodipodi:role="line"
+         id="tspan20386"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="81.817444"
+         y="4.432653">同意</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;word-spacing:0px;stroke-width:0.264583"
+       x="60.003956"
+       y="-38.786888"
+       id="text21668"
+       transform="rotate(20.021517)"><tspan
+         sodipodi:role="line"
+         id="tspan21666"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="60.003956"
+         y="-38.786888">意見を述べる</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 70.838892,-18.91611 17.740385,6.490384"
+       id="path24143"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;stroke:#000000;stroke-width:1.21703;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path24145"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="94.197456"
+       sodipodi:cy="84.712296"
+       sodipodi:r1="3.9554384"
+       sodipodi:r2="1.9777192"
+       sodipodi:arg1="2.6179939"
+       sodipodi:arg2="3.6651914"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       transform="matrix(0.07076156,-0.17683736,-0.2961865,-0.11851916,105.86297,12.174505)"
+       inkscape:transform-center-y="0.18567955"
+       inkscape:transform-center-x="-0.17169234"
+       d="m 90.771946,86.690015 3.42551,-5.933158 3.42551,5.933158 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 70.882161,-20.517072 17.740385,6.490384"
+       id="path24149"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;stroke:#000000;stroke-width:1.21703;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path24151"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="94.197456"
+       sodipodi:cy="84.712296"
+       sodipodi:r1="3.9554384"
+       sodipodi:r2="1.9777192"
+       sodipodi:arg1="2.6179939"
+       sodipodi:arg2="3.6651914"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       transform="matrix(0.06787455,-0.17796544,0.29807591,0.11368371,40.299821,-11.44723)"
+       inkscape:transform-center-y="-0.19239159"
+       inkscape:transform-center-x="0.17850558"
+       d="m 90.771946,86.690015 3.42551,-5.933158 3.42551,5.933158 z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;word-spacing:0px;stroke-width:0.264583"
+       x="64.56015"
+       y="-47.351688"
+       id="text24157"
+       transform="rotate(22.468555)"><tspan
+         sodipodi:role="line"
+         id="tspan24155"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="64.56015"
+         y="-47.351688">通知</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;word-spacing:0px;stroke-width:0.264583"
+       x="75.095467"
+       y="3.2695215"
+       id="text25137"><tspan
+         sodipodi:role="line"
+         id="tspan25135"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="75.095467"
+         y="3.2695215">申請・手続き代行</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;stroke:#000000;stroke-width:1.21703;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path25466"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="94.197456"
+       sodipodi:cy="84.712296"
+       sodipodi:r1="3.9554384"
+       sodipodi:r2="1.9777192"
+       sodipodi:arg1="2.6179939"
+       sodipodi:arg2="3.6651914"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       transform="matrix(0.0468165,-0.18462629,0.30923223,0.07841342,30.048691,-6.3399288)"
+       inkscape:transform-center-y="-0.22711718"
+       inkscape:transform-center-x="0.27014917"
+       d="m 90.771946,86.690015 3.42551,-5.933158 3.42551,5.933158 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 101.12484,18.251044 C 98.745113,14.396197 96.067093,10.291472 92.991954,6.2735676 M 86.106126,-1.7279146 C 79.504502,-8.4716688 71.39425,-14.186994 61.1971,-16.903721"
+       id="path26268"
+       sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';word-spacing:0px;stroke-width:0.264583"
+       x="88.606544"
+       y="50.315613"
+       id="text592"><tspan
+         sodipodi:role="line"
+         id="tspan590"
+         style="stroke-width:0.264583"
+         x="88.606544"
+         y="50.315613">下請け工事業者</tspan></text>
+  </g>
+</svg>

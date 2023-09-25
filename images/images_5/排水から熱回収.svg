@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="排水から熱回収.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.5404784"
+     inkscape:cx="65.682551"
+     inkscape:cy="415.37275"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid863" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 26.458333,31.75 0,13.229167 L 31.75,47.624999 21.166666,52.916666 31.75,58.208333 21.166666,63.499999 31.75,68.791666 26.458333,71.4375 l 0,13.229166"
+       id="path865"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 42.333333,31.75 V 44.979167 L 47.625,47.624999 37.041666,52.916666 47.625,58.208333 37.041666,63.499999 47.625,68.791666 42.333333,71.4375 v 13.229166"
+       id="path947"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 79.375,31.75 v 13.229167 l -5.291667,2.645832 10.583334,5.291667 -10.583334,5.291667 10.583334,5.291666 L 74.083333,68.791666 79.375,71.4375 v 13.229166"
+       id="path949"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 95.25001,31.75 v 10.583333 l -5.29167,5.291666 10.58333,5.291667 -10.58333,5.291667 10.58333,5.291666 -10.58333,5.291667 5.29167,5.291666 v 10.583334"
+       id="path951" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 42.333333,31.75 H 79.375"
+       id="path986" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 42.333332,84.666666 H 79.374999"
+       id="path988" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 10.583333,31.75 15.875,0"
+       id="path990"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 10.583333,84.666667 15.875,-10e-7"
+       id="path992"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 95.25,31.75 h 15.875"
+       id="path1107" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 95.25,84.666666 h 15.875"
+       id="path1109" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1232"
+       width="31.749998"
+       height="63.5"
+       x="18.520834"
+       y="26.458332" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1234"
+       width="31.749996"
+       height="63.5"
+       x="71.4375"
+       y="26.458334" />
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2128"
+       cx="60.854168"
+       cy="84.666664"
+       r="3.3072915" />
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;stroke:#000000;stroke-width:1.88976;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2252"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="194.27234"
+       sodipodi:cy="376.51831"
+       sodipodi:r1="13.253582"
+       sodipodi:r2="6.626791"
+       sodipodi:arg1="2.0812846"
+       sodipodi:arg2="3.1284822"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 187.79659,388.08214 -0.30095,-22.9539 20.02914,11.21631 z"
+       transform="matrix(0.22725237,0,0,0.22725237,16.631646,-0.87133745)"
+       inkscape:transform-center-x="-0.73581335"
+       inkscape:transform-center-y="0.019740962" />
+    <path
+       id="rect15499"
+       style="fill:#000000;stroke:#000000;stroke-width:0.2"
+       d="m 4.4993047,29.315753 v 0.913122 H 0.4897303 v 2.937288 h 4.0095744 v 0.913122 l 4.1253295,-2.381766 z" />
+    <path
+       id="path15704"
+       style="fill:#000000;stroke:#000000;stroke-width:0.2"
+       d="m 4.7150594,82.063197 v 0.913122 h 4.0095744 v 2.937288 H 4.7150594 v 0.913122 L 0.58972993,84.444963 Z" />
+    <path
+       id="path15946"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 117.58199,29.315753 v 0.913122 h -4.00957 v 2.937288 h 4.00957 v 0.913122 l 4.12533,-2.381766 z" />
+    <path
+       id="path15948"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 117.79775,82.063197 v 0.913122 h 4.00957 v 2.937288 h -4.00957 v 0.913122 l -4.12533,-2.381766 z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 3">
+    <g
+       id="g13081"
+       transform="translate(1.8357579,4.6505867)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="5.8350511"
+         y="46.078712"
+         id="text4762"><tspan
+           sodipodi:role="line"
+           id="tspan4760"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="5.8350511"
+           y="46.078712">排</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:6.35px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+         x="5.8350511"
+         y="52.625057"
+         id="text9993"><tspan
+           sodipodi:role="line"
+           id="tspan9991"
+           style="stroke-width:0.264583"
+           x="5.8350511"
+           y="52.625057">水</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:6.35px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+         x="5.7606368"
+         y="59.723328"
+         id="text10579"><tspan
+           sodipodi:role="line"
+           id="tspan10577"
+           style="stroke-width:0.264583"
+           x="5.7606368"
+           y="59.723328">系</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:6.35px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+         x="5.8226485"
+         y="66.454437"
+         id="text11023"><tspan
+           sodipodi:role="line"
+           id="tspan11021"
+           style="stroke-width:0.264583"
+           x="5.8226485"
+           y="66.454437">統</tspan></text>
+    </g>
+    <g
+       id="g13179"
+       transform="translate(102.31291,4.6505867)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="5.8350511"
+         y="46.078712"
+         id="text13165"><tspan
+           sodipodi:role="line"
+           id="tspan13163"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="5.8350511"
+           y="46.078712">給</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:6.35px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+         x="5.8350511"
+         y="52.625057"
+         id="text13169"><tspan
+           sodipodi:role="line"
+           id="tspan13167"
+           style="stroke-width:0.264583"
+           x="5.8350511"
+           y="52.625057">水</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:6.35px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+         x="5.7606368"
+         y="59.723328"
+         id="text13173"><tspan
+           sodipodi:role="line"
+           id="tspan13171"
+           style="stroke-width:0.264583"
+           x="5.7606368"
+           y="59.723328">系</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:6.35px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+         x="5.8226485"
+         y="66.454437"
+         id="text13177"><tspan
+           sodipodi:role="line"
+           id="tspan13175"
+           style="stroke-width:0.264583"
+           x="5.8226485"
+           y="66.454437">統</tspan></text>
+    </g>
+    <g
+       id="g20176"
+       transform="translate(-89.095451,-1.9581418)">
+      <text
+         xml:space="preserve"
+         style="font-size:6.35px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+         x="147.22118"
+         y="50.177383"
+         id="text16784"><tspan
+           sodipodi:role="line"
+           id="tspan16782"
+           style="stroke-width:0.264583"
+           x="147.22118"
+           y="50.177383">熱</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:6.35px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+         x="147.4196"
+         y="57.030876"
+         id="text17686"><tspan
+           sodipodi:role="line"
+           id="tspan17684"
+           style="stroke-width:0.264583"
+           x="147.4196"
+           y="57.030876">交</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:6.35px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+         x="147.29558"
+         y="63.578415"
+         id="text18166"><tspan
+           sodipodi:role="line"
+           id="tspan18164"
+           style="stroke-width:0.264583"
+           x="147.29558"
+           y="63.578415">換</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:6.35px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+         x="147.28319"
+         y="70.248337"
+         id="text18632"><tspan
+           sodipodi:role="line"
+           id="tspan18630"
+           style="stroke-width:0.264583"
+           x="147.28319"
+           y="70.248337">系</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:6.35px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+         x="147.3452"
+         y="77.040642"
+         id="text19376"><tspan
+           sodipodi:role="line"
+           id="tspan19374"
+           style="stroke-width:0.264583"
+           x="147.3452"
+           y="77.040642">統</tspan></text>
+    </g>
+  </g>
+</svg>

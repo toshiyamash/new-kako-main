@@ -1,0 +1,102 @@
+body {
+  height: 100vh;
+  width: 100%;
+  margin: 0 auto;
+}
+
+
+/* ▼table関係 */
+table {
+  width: 100%;
+  border-collapse:  collapse;     /* セルの線を重ねる */
+}
+th,td {
+  border: solid 1px;              /* 枠線指定 */
+  padding: 5px;                   /* セル内余白 */
+}
+
+/* ▼ボタン配置関係 */
+.inner {
+  padding-top: 30px;              /* 次問・前問・目次ボタン */
+  display: flex;
+  justify-content: space-evenly;
+}
+.downmrgn{                          /* 目次の年号ボタンの下にマージン*/
+  margin-bottom: 0.5rem;
+}
+.upmrgn{                          /* 目次年号位置調整*/
+  margin-top: 1.5rem;
+  margin-bottom: -0.1rem;
+}
+
+
+/* ▼タブ表示関係 */
+.tab{
+    width: 100%;
+    margin: 0 auto;
+}  
+  .tab-list{
+  display: flex;
+}
+.tab-list-item{
+  width: 25%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 8px 0;
+  cursor: pointer;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  border-radius: 0 0 3px 3px;
+  margin-top: -1px;
+  position: relative;
+  z-index: 10;
+
+
+}
+.tab-contents{
+  background-color: #ffffcc;
+  display: none;
+  padding: 20px;
+  position: relative;
+  z-index: 0;
+  border: 1px solid black;
+
+
+  
+}
+.is-btn-active{
+  background-color: #ffffcc;
+  font-weight: bold;
+  border-top: 1px solid #ffffcc ;
+}
+.is-contents-active{
+  display: block;
+}
+/* ▲タブ表示関係ここまで */
+
+
+/* ▼一般装飾 */
+.bold{
+  font-weight: bold;           /* 太字 */
+}
+.space{
+  padding-left: 1rem;         /* 1文字空白 */
+}
+caption{
+  font-weight: bold;
+}
+
+/* ▼レスポンシブル対応 */
+@media (width>768px){
+  table{
+    width: 80%;
+    margin: auto;
+  } 
+}
+@media (width>1024px){
+  table{
+    width: 60%;
+    margin: auto;
+  } 
+}

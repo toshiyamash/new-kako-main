@@ -1,0 +1,2069 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="湿り空気線図・バイパスファクタ.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.27023919"
+     inkscape:cx="-1417.263"
+     inkscape:cy="16.651915"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-global="false"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="false"
+     inkscape:object-paths="true"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-others="true"
+     inkscape:snap-intersection-paths="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid879" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-2"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-1"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-9"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-8"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 3" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <g
+       id="g124672"
+       transform="translate(1143.1212,179.22592)">
+      <path
+         d="m -1432.36,-284.44 c 0,0 -6.91,22.933 -22.5,37.076 -7.41,6.723 -16.97,10.748 -28.5,12.942"
+         id="path11240"
+         stroke="#000000"
+         stroke-width="0.296041"
+         stroke-linejoin="round"
+         fill="none" />
+      <path
+         d="m -1483.31,-232.138 71.2,0.255 v -52.508 l -20.18,-0.024"
+         id="path11242"
+         stroke="#000000"
+         stroke-width="0.296041"
+         stroke-linejoin="round"
+         fill="none" />
+      <path
+         d="m -1483.36,-234.422 0.05,2.284"
+         id="path11246"
+         stroke="#000000"
+         stroke-width="0.296041"
+         stroke-linecap="square"
+         fill="#ffffff" />
+      <text
+         id="text82556"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-weight="400"
+         font-size="2.82222px"
+         xml:space="preserve"
+         transform="rotate(-67.531401)"
+         x="-295.72699"
+         y="-1428.11"><tspan
+           font-size="2.82222px"
+           x="-295.72699"
+           y="-1428.11"
+           id="tspan1082">飽和線</tspan></text>
+    </g>
+    <g
+       id="g124679"
+       transform="translate(1143.1212,179.22592)">
+      <path
+         d="m -1432.46,-252.729 -16.57,5.62"
+         id="path89952"
+         stroke="#000000"
+         stroke-width="0.3"
+         stroke-linecap="square"
+         fill="#ffffff" />
+      <circle
+         cx="-1432.46"
+         cy="-252.729"
+         r="0.61817199"
+         id="circle90034"
+         stroke="#000000"
+         stroke-width="0.3"
+         stroke-linecap="square" />
+      <circle
+         cx="-1449.3"
+         cy="-247.019"
+         r="0.61817199"
+         id="circle90036"
+         stroke="#000000"
+         stroke-width="0.3"
+         stroke-linecap="square" />
+      <path
+         d="m -1449.3,-247.019 -10.57,3.587"
+         id="path122303"
+         stroke="#000000"
+         stroke-width="0.3"
+         stroke-linecap="square"
+         stroke-dasharray="0.9, 0.9"
+         fill="#ffffff" />
+      <circle
+         cx="-1459.87"
+         cy="-243.43201"
+         r="0.61817199"
+         id="circle90038"
+         stroke="#000000"
+         stroke-width="0.3"
+         stroke-linecap="square"
+         fill="#ffffff" />
+      <path
+         d="m -5451.37,-964.457 v 8.496 l -7.36,-4.248 z"
+         id="path124562"
+         stroke="#000000"
+         stroke-width="1.13386"
+         stroke-linecap="square"
+         transform="matrix(0.16856,-0.0560264,0.0560264,0.16856,-468.687,-393.304)" />
+    </g>
+    <g
+       id="g124687"
+       transform="translate(1143.1212,179.22592)">
+      <text
+         id="text93136"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="3.175px"
+         xml:space="preserve"
+         x="-1477.1"
+         y="-263.17599"><tspan
+           x="-1477.1"
+           y="-263.17599"
+           id="tspan1093">A 冷水コイル入口</tspan></text>
+      <text
+         id="text93842"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="3.175px"
+         xml:space="preserve"
+         x="-1477.37"
+         y="-258.86401"><tspan
+           x="-1477.37"
+           y="-258.86401"
+           id="tspan1096">B 冷水コイル出口</tspan></text>
+      <text
+         id="text94572"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="3.175px"
+         xml:space="preserve"
+         x="-1477.23"
+         y="-254.38699"><tspan
+           x="-1477.23"
+           y="-254.38699"
+           id="tspan1099">C 装置露点温度</tspan></text>
+      <text
+         id="text99646"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="3.175px"
+         xml:space="preserve"
+         transform="rotate(-18.295201)"
+         x="-1296.8101"
+         y="-685.23901"><tspan
+           x="-1296.8101"
+           y="-685.23901"
+           id="tspan1102">冷却除湿</tspan></text>
+      <text
+         id="text101226"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="3.175px"
+         xml:space="preserve"
+         x="-1433.58"
+         y="-254.01401"><tspan
+           x="-1433.58"
+           y="-254.01401"
+           id="tspan1105">A</tspan></text>
+      <text
+         id="text102990"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="3.175px"
+         xml:space="preserve"
+         x="-1450.49"
+         y="-248.666"><tspan
+           x="-1450.49"
+           y="-248.666"
+           id="tspan1108">B</tspan></text>
+      <text
+         id="text103726"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="3.175px"
+         xml:space="preserve"
+         x="-1461.23"
+         y="-245.26601"><tspan
+           x="-1461.23"
+           y="-245.26601"
+           id="tspan1111">C</tspan></text>
+      <text
+         id="text105182"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-weight="400"
+         font-size="2.82222px"
+         xml:space="preserve"
+         x="-1461.23"
+         y="-238.51601"><tspan
+           font-size="2.82222px"
+           x="-1461.23"
+           y="-238.51601"
+           id="tspan1114">バイパスファクタ＝BC/AC</tspan></text>
+      <text
+         id="text107078"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-weight="400"
+         font-size="2.82222px"
+         xml:space="preserve"
+         x="-1466"
+         y="-234.839"><tspan
+           font-size="2.82222px"
+           x="-1466"
+           y="-234.839"
+           id="tspan1117">（コンタクトファクタ＝AB/AC</tspan></text>
+    </g>
+    <g
+       id="g85168"
+       transform="translate(1152.8919,170.78833)">
+      <path
+         d="m -1434.72,-172.475 c 0,0 -6.91,22.922 -22.49,37.057 -7.4,6.72 -16.96,10.744 -28.49,12.936"
+         id="path9858"
+         stroke="#000000"
+         stroke-width="0.3"
+         stroke-linejoin="round"
+         fill="none" />
+      <path
+         d="m -1485.65,-120.2 71.17,0.256 v -52.482 l -20.17,-0.024"
+         id="path9860"
+         stroke="#000000"
+         stroke-width="0.3"
+         stroke-linejoin="round"
+         fill="none" />
+      <path
+         d="m -1451.54,-166.395 c 0,0 -5.06,-5.866 -14.48,-5.858 -5.15,0.004 -9.93,1.901 -14.46,6.714 -2.34,2.483 -4.78,6.832 -4.9,13.616 -0.09,4.869 1.55,9.477 5.78,14.199"
+         id="path9864"
+         stroke="#000000"
+         stroke-width="0.3"
+         stroke-linejoin="round"
+         fill="none" />
+      <path
+         d="m -1454.06,-163.807 c -0.96,-1.152 -11.66,-10.096 -22.52,-0.347 -7.24,6.504 -6.84,18.086 0.38,24.762"
+         id="path9866"
+         stroke="#000000"
+         stroke-width="0.3"
+         stroke-linejoin="round"
+         fill="none" />
+      <path
+         d="m -1465.59,-152.035 -2.74,-1.298 m -9.7,-4.598 -1.83,-0.865"
+         id="path10022"
+         stroke="#000000"
+         stroke-width="0.135006"
+         stroke-linejoin="round"
+         fill="none" />
+      <path
+         d="m -1485.7,-122.482 0.05,2.282"
+         id="path10098"
+         stroke="#000000"
+         stroke-width="0.3"
+         stroke-linecap="square"
+         fill="#ffffff" />
+    </g>
+    <g
+       id="g85176"
+       transform="translate(1152.8919,170.78833)">
+      <path
+         d="m -1451.03,-141.956 10.07,4.724 m 12.62,5.918 13.86,6.502"
+         id="path11282"
+         stroke="#000000"
+         stroke-width="0.3"
+         stroke-linecap="square"
+         stroke-dasharray="0.9, 0.9"
+         fill="#ffffff" />
+      <path
+         d="m -1465.59,-152.035 8.13,-12.885"
+         id="path11284"
+         stroke="#000000"
+         stroke-width="0.3"
+         stroke-linecap="square"
+         fill="#ffffff" />
+      <path
+         d="m -1465.43,-167.265 -0.16,15.23 -8.98,-12.527"
+         id="path11286"
+         stroke="#000000"
+         stroke-width="0.3"
+         stroke-linecap="square"
+         fill="#ffffff" />
+      <path
+         d="m -1465.59,-152.035 -13.6,-6.443"
+         id="path11288"
+         stroke="#000000"
+         stroke-width="0.3"
+         stroke-linecap="square"
+         fill="#ffffff" />
+      <path
+         d="m -5502.93,-603.591 2.27,-3.939 2.28,3.939 z"
+         id="path11635"
+         stroke="#000000"
+         stroke-width="1.13386"
+         stroke-linecap="square"
+         transform="matrix(0.231961,0.127272,-0.127272,0.231961,-258.502,675.475)" />
+      <path
+         d="m -5502.93,-603.591 2.27,-3.939 2.28,3.939 z"
+         id="path11739"
+         stroke="#000000"
+         stroke-width="1.13386"
+         stroke-linecap="square"
+         transform="matrix(0.264493,0.00690799,-0.00690799,0.264493,-14.7503,30.5203)" />
+      <path
+         d="m -5502.93,-603.591 2.27,-3.939 2.28,3.939 z"
+         id="path11878"
+         stroke="#000000"
+         stroke-width="1.13386"
+         stroke-linecap="square"
+         transform="matrix(0.225555,-0.138309,0.138309,0.225555,-150.073,-788.702)" />
+      <path
+         d="m -5502.93,-603.591 2.27,-3.939 2.28,3.939 z"
+         id="path11880"
+         stroke="#000000"
+         stroke-width="1.13386"
+         stroke-linecap="square"
+         transform="matrix(0.115213,-0.238181,0.238181,0.115213,-701.441,-1398.93)" />
+      <path
+         d="m -1428.73,-131.547 6.18,-9.801"
+         id="path11882"
+         stroke="#000000"
+         stroke-width="0.3"
+         stroke-linecap="square"
+         fill="#ffffff" />
+      <path
+         d="m -1428.61,-143.121 -0.12,11.574 -6.92,-9.656"
+         id="path11884"
+         stroke="#000000"
+         stroke-width="0.3"
+         stroke-linecap="square"
+         fill="#ffffff" />
+      <path
+         d="m -1428.73,-131.547 -11.26,-5.332"
+         id="path11886"
+         stroke="#000000"
+         stroke-width="0.3"
+         stroke-linecap="square"
+         fill="#ffffff" />
+      <path
+         d="m -5502.93,-603.591 2.27,-3.939 2.28,3.939 z"
+         id="path11888"
+         stroke="#000000"
+         stroke-width="1.13386"
+         stroke-linecap="square"
+         transform="matrix(0.231961,0.127272,-0.127272,0.231961,-223.649,699.024)" />
+      <path
+         d="m -5502.93,-603.591 2.27,-3.939 2.28,3.939 z"
+         id="path11890"
+         stroke="#000000"
+         stroke-width="1.13386"
+         stroke-linecap="square"
+         transform="matrix(0.264493,0.00690799,-0.00690799,0.264493,22.1045,54.8939)" />
+      <path
+         d="m -5502.93,-603.591 2.27,-3.939 2.28,3.939 z"
+         id="path11892"
+         stroke="#000000"
+         stroke-width="1.13386"
+         stroke-linecap="square"
+         transform="matrix(0.225555,-0.138309,0.138309,0.225555,-111.216,-765.506)" />
+      <path
+         d="m -5502.93,-603.591 2.27,-3.939 2.28,3.939 z"
+         id="path11894"
+         stroke="#000000"
+         stroke-width="1.13386"
+         stroke-linecap="square"
+         transform="matrix(0.115213,-0.238181,0.238181,0.115213,-662.114,-1377.26)" />
+      <circle
+         cx="-1428.73"
+         cy="-131.547"
+         r="0.61817199"
+         id="path12891"
+         stroke="#000000"
+         stroke-width="0.3"
+         stroke-linecap="square" />
+      <circle
+         cx="-1465.59"
+         cy="-152.035"
+         r="0.81620699"
+         id="circle10092"
+         stroke="#000000"
+         stroke-width="0.132475"
+         stroke-linejoin="round"
+         fill="#ffffff" />
+      <path
+         d="m -1465.59,-152.851 v 1.632"
+         id="path10094"
+         stroke="#000000"
+         stroke-width="0.135006"
+         stroke-linejoin="round"
+         fill="none" />
+      <path
+         d="m -1466.41,-152.035 h 1.64"
+         id="path10096"
+         stroke="#000000"
+         stroke-width="0.135006"
+         stroke-linejoin="round"
+         fill="none" />
+    </g>
+    <g
+       id="g85197"
+       transform="translate(1152.8919,170.78833)">
+      <text
+         id="text14846"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-weight="400"
+         font-size="3.175px"
+         xml:space="preserve"
+         x="-1500.8"
+         y="-158.338"><tspan
+           font-size="3.175px"
+           x="-1500.8"
+           y="-158.338"
+           id="tspan1184">①水加湿</tspan></text>
+      <text
+         id="text23621"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="3.175px"
+         xml:space="preserve"
+         x="-1496.96"
+         y="-154.162"><tspan
+           x="-1496.96"
+           y="-154.162"
+           id="tspan1189"><tspan
+   font-style="italic"
+   font-weight="400"
+   font-size="3.175px"
+   id="tspan1187">u</tspan>≒0</tspan></text>
+      <text
+         id="text32673"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="3.175px"
+         xml:space="preserve"
+         x="-1494.48"
+         y="-169.812"><tspan
+           x="-1494.48"
+           y="-169.812"
+           id="tspan1192">②温水加湿</tspan></text>
+      <text
+         id="text34261"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="3.175px"
+         xml:space="preserve"
+         x="-1473.59"
+         y="-178.27"><tspan
+           x="-1473.59"
+           y="-178.27"
+           id="tspan1195">③蒸気加湿</tspan></text>
+      <text
+         id="text35159"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="3.175px"
+         xml:space="preserve"
+         x="-1472.76"
+         y="-174.28999"><tspan
+           x="-1472.76"
+           y="-174.28999"
+           id="tspan1200"><tspan
+   font-style="italic"
+   font-weight="400"
+   font-size="3.175px"
+   id="tspan1198">u</tspan>≒2,600</tspan></text>
+      <text
+         id="text42648"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="3.175px"
+         xml:space="preserve"
+         x="-1454.1801"
+         y="-170.31"><tspan
+           x="-1454.1801"
+           y="-170.31"
+           id="tspan1203">④パン型</tspan></text>
+      <text
+         id="text43752"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="3.175px"
+         xml:space="preserve"
+         x="-1450.37"
+         y="-166.496"><tspan
+           x="-1450.37"
+           y="-166.496"
+           id="tspan1206">加湿</tspan></text>
+      <text
+         id="text45340"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="3.175px"
+         xml:space="preserve"
+         x="-1444.23"
+         y="-133.661"><tspan
+           x="-1444.23"
+           y="-133.661"
+           id="tspan1209">①</tspan></text>
+      <text
+         id="text46356"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="3.175px"
+         xml:space="preserve"
+         x="-1439.4301"
+         y="-142.782"><tspan
+           x="-1439.4301"
+           y="-142.782"
+           id="tspan1212">②</tspan></text>
+      <text
+         id="text47708"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="3.175px"
+         xml:space="preserve"
+         x="-1430.3"
+         y="-145.933"><tspan
+           x="-1430.3"
+           y="-145.933"
+           id="tspan1215">③</tspan></text>
+      <text
+         id="text48206"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="3.175px"
+         xml:space="preserve"
+         x="-1422.01"
+         y="-142.782"><tspan
+           x="-1422.01"
+           y="-142.782"
+           id="tspan1218">④</tspan></text>
+      <text
+         id="text50914"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="3.175px"
+         xml:space="preserve"
+         x="-1463.64"
+         y="-125.867"><tspan
+           x="-1463.64"
+           y="-125.867"
+           id="tspan1221">比エンタルピー一定</tspan></text>
+      <path
+         d="m -1453.19,-129.349 5.64,-10.282"
+         id="path51909"
+         stroke="#000000"
+         stroke-width="0.2"
+         stroke-linecap="square" />
+      <text
+         id="text55773"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="3.175px"
+         xml:space="preserve"
+         x="-1473.75"
+         y="-148.088"><tspan
+           x="-1473.75"
+           y="-148.088"
+           id="tspan1227">熱水分比 <tspan
+   font-style="italic"
+   font-weight="400"
+   font-size="3.175px"
+   id="tspan1225">u</tspan></tspan></text>
+      <text
+         id="text63840"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-weight="400"
+         font-size="2.82222px"
+         xml:space="preserve"
+         x="-1477.9"
+         y="-144.772"><tspan
+           font-size="2.82222px"
+           x="-1477.9"
+           y="-144.772"
+           id="tspan1236"><tspan
+   font-size="2.82222px"
+   id="tspan1230">u</tspan>＝d<tspan
+   font-size="2.82222px"
+   id="tspan1232">h</tspan>/d<tspan
+   font-size="2.82222px"
+   id="tspan1234">x</tspan>[kJ/kg]</tspan></text>
+      <text
+         id="text78610"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-weight="400"
+         font-size="2.82222px"
+         xml:space="preserve"
+         transform="rotate(-67.531401)"
+         x="-399.72101"
+         y="-1387.97"><tspan
+           font-size="2.82222px"
+           x="-399.72101"
+           y="-1387.97"
+           id="tspan1239">飽和線</tspan></text>
+      <text
+         id="text84454"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="3.175px"
+         xml:space="preserve"
+         x="-1482.71"
+         y="-158.453"><tspan
+           x="-1482.71"
+           y="-158.453"
+           id="tspan1242">0</tspan></text>
+    </g>
+    <g
+       id="g16203"
+       transform="translate(690.67672,-196.16942)">
+      <path
+         d="m -1012.24,284.927 c 0,0 -6.81,22.627 -22.19,36.581 -7.31,6.633 -16.74,10.605 -28.12,12.769"
+         id="path10742"
+         stroke="#000000"
+         stroke-width="0.292082"
+         stroke-linejoin="round"
+         fill="none" />
+      <path
+         d="m -1062.5,336.53 70.244,0.252 v -51.806 l -19.904,-0.024"
+         id="path10744"
+         stroke="#000000"
+         stroke-width="0.292082"
+         stroke-linejoin="round"
+         fill="none" />
+      <path
+         d="m -1062.55,331.035 45.21,-46.084"
+         id="path10746"
+         stroke="#000000"
+         stroke-width="0.292082"
+         stroke-linejoin="round"
+         fill="none" />
+      <path
+         d="m -1028.84,290.929 c 0,0 -4.99,-5.79 -14.29,-5.782 -5.09,0.004 -9.8,1.876 -14.28,6.627 -2.3,2.451 -4.71,6.744 -4.83,13.44 -0.09,4.807 1.53,9.356 5.7,14.017"
+         id="path10748"
+         stroke="#000000"
+         stroke-width="0.133268"
+         stroke-linejoin="round"
+         fill="none" />
+      <path
+         d="m -1031.33,293.483 c -0.94,-1.137 -11.5,-9.966 -22.22,-0.342 -7.15,6.421 -6.75,17.853 0.37,24.443"
+         id="path10750"
+         stroke="#000000"
+         stroke-width="0.133268"
+         stroke-linejoin="round"
+         fill="none" />
+      <path
+         d="m -1058.74,305.11 c -0.06,3.833 1.93,9.231 5.56,12.46"
+         id="path10794"
+         stroke="#000000"
+         stroke-width="0.133268"
+         fill="none" />
+      <path
+         d="m -1055.56,305.054 c 0.16,4.66 1.61,7.301 4.53,10.02"
+         id="path10796"
+         stroke="#000000"
+         stroke-width="0.292082"
+         fill="none" />
+      <circle
+         cx="-1042.7"
+         cy="305.104"
+         r="0.80570102"
+         id="circle10818"
+         stroke="#000000"
+         stroke-width="0.13077"
+         stroke-linejoin="round"
+         fill="#ffffff" />
+      <path
+         d="m -1042.7,304.298 v 1.612"
+         id="path10820"
+         stroke="#000000"
+         stroke-width="0.133268"
+         stroke-linejoin="round"
+         fill="none" />
+      <path
+         d="m -1043.51,305.104 h 1.61"
+         id="path10822"
+         stroke="#000000"
+         stroke-width="0.133268"
+         stroke-linejoin="round"
+         fill="none" />
+      <path
+         d="m -1062.55,334.277 0.05,2.253"
+         id="path10824"
+         stroke="#000000"
+         stroke-width="0.292082"
+         stroke-linecap="square"
+         fill="#ffffff" />
+      <text
+         id="text82560"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-weight="400"
+         font-size="2.46944px"
+         xml:space="preserve"
+         transform="rotate(-67.531401)"
+         x="-660.94598"
+         y="-822.76099"><tspan
+           font-size="2.46944px"
+           x="-660.94598"
+           y="-822.76099"
+           id="tspan1328">飽和線</tspan></text>
+      <path
+         d="m -930.01,284.927 c 0,0 -6.817,22.627 -22.195,36.581 -7.31,6.633 -16.742,10.605 -28.123,12.769"
+         id="path9704"
+         stroke="#000000"
+         stroke-width="0.292082"
+         stroke-linejoin="round"
+         fill="none" />
+      <path
+         d="m -980.277,336.53 70.246,0.252 v -51.806 l -19.907,-0.024"
+         id="path9706"
+         stroke="#000000"
+         stroke-width="0.292082"
+         stroke-linejoin="round"
+         fill="none" />
+      <path
+         d="m -980.328,331.035 45.216,-46.084"
+         id="path9708"
+         stroke="#000000"
+         stroke-width="0.292082"
+         stroke-linejoin="round"
+         fill="none" />
+      <path
+         d="m -946.614,290.929 c 0,0 -4.995,-5.79 -14.287,-5.782 -5.09,0.004 -9.808,1.876 -14.28,6.627 -2.305,2.451 -4.716,6.744 -4.838,13.44 -0.088,4.807 1.53,9.356 5.707,14.017"
+         id="path9710"
+         stroke="#000000"
+         stroke-width="0.133268"
+         stroke-linejoin="round"
+         fill="none" />
+      <path
+         d="m -949.102,293.483 c -0.945,-1.137 -11.505,-9.966 -22.224,-0.342 -7.15,6.421 -6.75,17.853 0.375,24.443"
+         id="path9712"
+         stroke="#000000"
+         stroke-width="0.133268"
+         stroke-linejoin="round"
+         fill="none" />
+      <path
+         d="m -976.518,305.11 c -0.056,3.833 1.932,9.231 5.56,12.46"
+         id="path9714"
+         stroke="#000000"
+         stroke-width="0.133268"
+         fill="none" />
+      <path
+         d="m -973.333,305.054 c 0.16,4.66 1.609,7.301 4.527,10.02"
+         id="path9716"
+         stroke="#000000"
+         stroke-width="0.292082"
+         fill="none" />
+      <circle
+         cx="-960.47803"
+         cy="305.104"
+         r="0.80570102"
+         id="circle9718"
+         stroke="#000000"
+         stroke-width="0.13077"
+         stroke-linejoin="round"
+         fill="#ffffff" />
+      <path
+         d="m -960.478,304.298 v 1.612"
+         id="path9720"
+         stroke="#000000"
+         stroke-width="0.133268"
+         stroke-linejoin="round"
+         fill="none" />
+      <path
+         d="m -961.284,305.104 h 1.611"
+         id="path9722"
+         stroke="#000000"
+         stroke-width="0.133268"
+         stroke-linejoin="round"
+         fill="none" />
+      <path
+         d="m -980.328,334.277 0.051,2.253"
+         id="path9724"
+         stroke="#000000"
+         stroke-width="0.292082"
+         stroke-linecap="square"
+         fill="#ffffff" />
+      <text
+         id="text9728"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-weight="400"
+         font-size="2.46944px"
+         xml:space="preserve"
+         transform="rotate(-67.531401)"
+         x="-629.521"
+         y="-746.77802"><tspan
+           font-size="2.46944px"
+           x="-629.521"
+           y="-746.77802"
+           id="tspan1342">飽和線</tspan></text>
+    </g>
+    <g
+       id="g16231"
+       transform="translate(690.67672,-196.16942)">
+      <path
+         d="m -1012.31,320.426 h 20.054"
+         id="path128947"
+         stroke="#000000"
+         stroke-width="0.2"
+         stroke-linecap="square"
+         stroke-dasharray="0.6, 0.6"
+         fill="none" />
+      <path
+         d="m -1027.74,322.582 h 35.409"
+         id="path128949"
+         stroke="#000000"
+         stroke-width="0.2"
+         stroke-linecap="square"
+         stroke-dasharray="0.600001, 0.600001"
+         fill="none" />
+      <path
+         d="m -1027.74,322.582 14.09,-1.969"
+         id="path126913"
+         stroke="#000000"
+         stroke-width="0.3"
+         stroke-linecap="square" />
+      <circle
+         cx="-1027.74"
+         cy="322.582"
+         r="0.61817199"
+         id="circle126995"
+         stroke="#000000"
+         stroke-width="0.3"
+         stroke-linecap="square" />
+      <circle
+         cx="-1012.31"
+         cy="320.42599"
+         r="0.61817199"
+         id="circle126997"
+         stroke="#000000"
+         stroke-width="0.3"
+         stroke-linecap="square" />
+      <path
+         d="m -1055.1,306.833 11.57,-1.613"
+         id="path126999"
+         stroke="#000000"
+         stroke-width="0.3"
+         stroke-linecap="square" />
+      <path
+         d="m -5568.91,-123.639 h -4.86 l 2.43,-4.204 z"
+         id="path127607"
+         stroke="#000000"
+         stroke-width="1.13386"
+         stroke-linecap="square"
+         transform="matrix(-0.213539,0.156223,0.156223,0.213539,-2184.26,1217.72)" />
+      <path
+         d="m -1049.87,306.082 29.1,15.505"
+         id="path128832"
+         stroke="#000000"
+         stroke-width="0.1"
+         stroke-linecap="square"
+         fill="none" />
+      <path
+         d="m -930.089,320.426 h 20.058"
+         id="path9730"
+         stroke="#000000"
+         stroke-width="0.2"
+         stroke-linecap="square"
+         stroke-dasharray="0.6, 0.6"
+         fill="none" />
+      <path
+         d="m -921.073,315.734 h 10.833"
+         id="path9732"
+         stroke="#000000"
+         stroke-width="0.2"
+         stroke-linecap="square"
+         stroke-dasharray="0.600001, 0.600001"
+         fill="none" />
+      <path
+         d="m -928.707,319.633 6.747,-3.883"
+         id="path9734"
+         stroke="#000000"
+         stroke-width="0.3"
+         stroke-linecap="square" />
+      <circle
+         cx="-921.91302"
+         cy="315.703"
+         r="0.61817199"
+         id="circle9736"
+         stroke="#000000"
+         stroke-width="0.3"
+         stroke-linecap="square" />
+      <circle
+         cx="-930.08899"
+         cy="320.42599"
+         r="0.61817199"
+         id="circle9738"
+         stroke="#000000"
+         stroke-width="0.3"
+         stroke-linecap="square" />
+      <path
+         d="m -5568.91,-123.639 h -4.86 l 2.43,-4.204 z"
+         id="path9742"
+         stroke="#000000"
+         stroke-width="1.13386"
+         stroke-linecap="square"
+         transform="matrix(-0.264578,0.00163321,0.00163321,0.264578,-2402.3,361.686)" />
+      <path
+         d="m -965.276,308.313 39.083,8.977"
+         id="path9744"
+         stroke="#000000"
+         stroke-width="0.1"
+         stroke-linecap="square"
+         fill="none" />
+      <path
+         d="m -971.73,311.478 11.067,-6.21"
+         id="path13139"
+         stroke="#000000"
+         stroke-width="0.3"
+         stroke-linecap="square" />
+    </g>
+    <g
+       id="g16249"
+       transform="translate(690.67672,-196.16942)">
+      <text
+         id="text10790"
+         stroke-width="0.0705211"
+         font-family="Arial"
+         font-weight="400"
+         font-size="2.11667px"
+         xml:space="preserve"
+         transform="rotate(-7.0355433)"
+         x="-1083.88"
+         y="174.252"><tspan
+           font-size="2.11667px"
+           letter-spacing="-0.0352607"
+           x="-1083.88"
+           y="174.252"
+           id="tspan1365">顕熱比 <tspan
+   font-style="italic"
+   font-size="2.11667px"
+   id="tspan1363">SHF</tspan></tspan></text>
+      <text
+         id="text142377"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-style="italic"
+         font-size="2.11667px"
+         xml:space="preserve"
+         x="-1053.25"
+         y="297.785"><tspan
+           x="-1053.25"
+           y="297.785"
+           id="tspan1370">SHF<tspan
+   font-style="normal"
+   font-weight="400"
+   font-size="2.11667px"
+   id="tspan1368">＝</tspan></tspan></text>
+      <text
+         id="text143165"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-weight="400"
+         font-size="2.11667px"
+         xml:space="preserve"
+         x="-1043.96"
+         y="296.10699"><tspan
+           font-size="2.11667px"
+           x="-1043.96"
+           y="296.10699"
+           id="tspan1373">顕熱</tspan></text>
+      <text
+         id="text144305"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-weight="400"
+         font-size="2.11667px"
+         xml:space="preserve"
+         x="-1046.54"
+         y="299.32599"><tspan
+           font-size="2.11667px"
+           x="-1046.54"
+           y="299.32599"
+           id="tspan1376">顕熱+潜熱</tspan></text>
+      <path
+         d="m -1046.53,297.054 h 10.28"
+         id="path144720"
+         stroke="#000000"
+         stroke-width="0.2"
+         stroke-linecap="square"
+         fill="none" />
+      <text
+         id="text156233"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-weight="400"
+         font-size="2.82222px"
+         letter-spacing="-0.211667"
+         xml:space="preserve"
+         x="-1024.52"
+         y="312.646"><tspan
+           font-size="2.82222px"
+           x="-1024.52"
+           y="312.646"
+           id="tspan1380">室内空気の状態点</tspan></text>
+      <text
+         id="text164469"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-weight="400"
+         font-size="2.82222px"
+         letter-spacing="-0.211667"
+         xml:space="preserve"
+         x="-1041.1801"
+         y="329.71799"><tspan
+           font-size="2.82222px"
+           x="-1041.1801"
+           y="329.71799"
+           id="tspan1383">吹出し空気の状態点</tspan></text>
+      <text
+         id="text167421"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-weight="400"
+         font-size="2.57528px"
+         letter-spacing="-0.211667"
+         xml:space="preserve"
+         x="-1050.86"
+         y="333.871"><tspan
+           font-size="2.57528px"
+           x="-1050.86"
+           y="333.871"
+           id="tspan1388">室の顕熱比<tspan
+   font-style="italic"
+   font-size="2.57528px"
+   id="tspan1386">SHF</tspan>の勾配に沿って移動</tspan></text>
+      <path
+         d="m -1009.66,313.702 -2.23,5.863"
+         id="path170375"
+         stroke="#000000"
+         stroke-width="0.1"
+         stroke-linecap="square"
+         fill="none" />
+      <path
+         d="m -1025.84,326.6 -1.64,-3.4"
+         id="path170377"
+         stroke="#000000"
+         stroke-width="0.1"
+         stroke-linecap="square"
+         fill="none" />
+      <text
+         id="text10762"
+         stroke-width="0.0705211"
+         font-family="Arial"
+         font-size="1.03431px"
+         letter-spacing="-0.0705211"
+         xml:space="preserve"
+         transform="rotate(-6.2675864)"
+         x="-1085.0699"
+         y="190.088"><tspan
+           x="-1085.0699"
+           y="190.088"
+           id="tspan1393">0.8</tspan></text>
+      <text
+         id="text172265"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-weight="400"
+         font-size="1.41111px"
+         xml:space="preserve"
+         x="-1058.37"
+         y="305.58401"><tspan
+           font-size="1.41111px"
+           x="-1058.37"
+           y="305.58401"
+           id="tspan1396">1.0</tspan></text>
+      <text
+         id="text177018"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="1.03431px"
+         xml:space="preserve"
+         transform="rotate(-46.582201)"
+         x="-953.74701"
+         y="-546.74298"><tspan
+           x="-953.74701"
+           y="-546.74298"
+           id="tspan1399">0.3</tspan></text>
+      <text
+         id="text180350"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="1.03431px"
+         xml:space="preserve"
+         transform="rotate(-28.875554)"
+         x="-1075.5699"
+         y="-237.371"><tspan
+           x="-1075.5699"
+           y="-237.371"
+           id="tspan1402">0.5</tspan></text>
+      <text
+         id="text3822"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-weight="400"
+         font-size="3.52778px"
+         xml:space="preserve"
+         x="-1030"
+         y="342.573"><tspan
+           font-size="3.52778px"
+           x="-1030"
+           y="342.573"
+           id="tspan1405">冷房時</tspan></text>
+      <text
+         id="text9750"
+         stroke-width="0.0705211"
+         font-family="Arial"
+         font-weight="400"
+         font-size="2.11667px"
+         xml:space="preserve"
+         transform="rotate(-7.0355433)"
+         x="-1002.27"
+         y="184.323"><tspan
+           font-size="2.11667px"
+           letter-spacing="-0.0352607"
+           x="-1002.27"
+           y="184.323"
+           id="tspan1410">顕熱比 <tspan
+   font-style="italic"
+   font-size="2.11667px"
+   id="tspan1408">SHF</tspan></tspan></text>
+      <text
+         id="text9756"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-style="italic"
+         font-size="2.11667px"
+         xml:space="preserve"
+         x="-971.02301"
+         y="297.785"><tspan
+           x="-971.02301"
+           y="297.785"
+           id="tspan1415">SHF<tspan
+   font-style="normal"
+   font-weight="400"
+   font-size="2.11667px"
+   id="tspan1413">＝</tspan></tspan></text>
+      <text
+         id="text9760"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-weight="400"
+         font-size="2.11667px"
+         xml:space="preserve"
+         x="-961.737"
+         y="296.10699"><tspan
+           font-size="2.11667px"
+           x="-961.737"
+           y="296.10699"
+           id="tspan1418">顕熱</tspan></text>
+      <text
+         id="text9764"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-weight="400"
+         font-size="2.11667px"
+         xml:space="preserve"
+         x="-964.31201"
+         y="299.32599"><tspan
+           font-size="2.11667px"
+           x="-964.31201"
+           y="299.32599"
+           id="tspan1421">顕熱+潜熱</tspan></text>
+      <path
+         d="m -964.304,297.054 h 10.282"
+         id="path9766"
+         stroke="#000000"
+         stroke-width="0.2"
+         stroke-linecap="square"
+         fill="none" />
+      <text
+         id="text9770"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-weight="400"
+         font-size="2.82222px"
+         letter-spacing="-0.211667"
+         xml:space="preserve"
+         x="-951.73901"
+         y="327.80301"><tspan
+           font-size="2.82222px"
+           x="-951.73901"
+           y="327.80301"
+           id="tspan1425">室内空気の状態点</tspan></text>
+      <text
+         id="text9774"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-weight="400"
+         font-size="2.82222px"
+         letter-spacing="-0.211667"
+         xml:space="preserve"
+         x="-936.73102"
+         y="309.77802"><tspan
+           font-size="2.82222px"
+           x="-936.73102"
+           y="309.77802"
+           id="tspan1428">吹出し空気の状態点</tspan></text>
+      <text
+         id="text9780"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-weight="400"
+         font-size="2.57528px"
+         letter-spacing="-0.211667"
+         xml:space="preserve"
+         x="-968.63501"
+         y="333.871"><tspan
+           font-size="2.57528px"
+           x="-968.63501"
+           y="333.871"
+           id="tspan1433">室の顕熱比<tspan
+   font-style="italic"
+   font-size="2.57528px"
+   id="tspan1431">SHF</tspan>の勾配に沿って移動</tspan></text>
+      <path
+         d="m -931.127,321.154 -4.444,3.916"
+         id="path9782"
+         stroke="#000000"
+         stroke-width="0.1"
+         stroke-linecap="square"
+         fill="none" />
+      <path
+         d="m -922.695,314.164 -1.642,-3.4"
+         id="path9784"
+         stroke="#000000"
+         stroke-width="0.1"
+         stroke-linecap="square"
+         fill="none" />
+      <text
+         id="text9788"
+         stroke-width="0.0705211"
+         font-family="Arial"
+         font-size="1.03431px"
+         letter-spacing="-0.0705211"
+         xml:space="preserve"
+         transform="rotate(-6.2675864)"
+         x="-1003.34"
+         y="199.065"><tspan
+           x="-1003.34"
+           y="199.065"
+           id="tspan1438">0.8</tspan></text>
+      <text
+         id="text9792"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-weight="400"
+         font-size="1.41111px"
+         xml:space="preserve"
+         x="-976.14899"
+         y="305.58401"><tspan
+           font-size="1.41111px"
+           x="-976.14899"
+           y="305.58401"
+           id="tspan1441">1.0</tspan></text>
+      <text
+         id="text9796"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="1.03431px"
+         xml:space="preserve"
+         transform="rotate(-46.582201)"
+         x="-897.23199"
+         y="-487.01801"><tspan
+           x="-897.23199"
+           y="-487.01801"
+           id="tspan1444">0.3</tspan></text>
+      <text
+         id="text9800"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="1.03431px"
+         xml:space="preserve"
+         transform="rotate(-28.875554)"
+         x="-1003.56"
+         y="-197.66299"><tspan
+           x="-1003.56"
+           y="-197.66299"
+           id="tspan1447">0.5</tspan></text>
+      <text
+         id="text9804"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-weight="400"
+         font-size="3.52778px"
+         xml:space="preserve"
+         x="-947.77197"
+         y="342.573"><tspan
+           font-size="3.52778px"
+           x="-947.77197"
+           y="342.573"
+           id="tspan1450">暖房時</tspan></text>
+    </g>
+    <g
+       id="g18720"
+       transform="translate(730.61991,-216.62214)">
+      <path
+         d="m -1011.55,396.318 c 0,0 -6.91,22.933 -22.5,37.076 -7.41,6.723 -16.97,10.749 -28.5,12.942"
+         id="path10828"
+         stroke="#000000"
+         stroke-width="0.296041"
+         stroke-linejoin="round"
+         fill="none" />
+      <path
+         d="m -1062.5,448.62 71.198,0.255 v -52.508 l -20.178,-0.024"
+         id="path10830"
+         stroke="#000000"
+         stroke-width="0.296041"
+         stroke-linejoin="round"
+         fill="none" />
+      <path
+         d="m -1062.55,443.05 45.83,-46.708"
+         id="path10832"
+         stroke="#000000"
+         stroke-width="0.296041"
+         stroke-linejoin="round"
+         fill="none" />
+      <path
+         d="m -1062.55,446.336 0.05,2.284"
+         id="path10910"
+         stroke="#000000"
+         stroke-width="0.296041"
+         stroke-linecap="square"
+         fill="#ffffff" />
+      <text
+         id="text82564"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-weight="400"
+         font-size="2.11667px"
+         xml:space="preserve"
+         transform="rotate(-67.531401)"
+         x="-762.922"
+         y="-780.48401"><tspan
+           font-size="2.11667px"
+           x="-762.922"
+           y="-780.48401"
+           id="tspan1567">飽和線</tspan></text>
+    </g>
+    <g
+       id="g18728"
+       transform="translate(730.61991,-216.62214)">
+      <path
+         d="m -1017.88,433.44 v 15.34"
+         id="path201919"
+         stroke="#000000"
+         stroke-width="0.2"
+         stroke-linecap="square"
+         stroke-dasharray="0.6, 0.6"
+         fill="none" />
+      <path
+         d="m -1006.74,433.44 v 15.38"
+         id="path201921"
+         stroke="#000000"
+         stroke-width="0.2"
+         stroke-linecap="square"
+         stroke-dasharray="0.6, 0.6"
+         fill="none" />
+      <circle
+         cx="-1006.74"
+         cy="433.44"
+         r="0.61817199"
+         id="circle201510"
+         stroke="#000000"
+         stroke-width="0.3"
+         stroke-linecap="square" />
+      <circle
+         cx="-1017.88"
+         cy="433.44"
+         r="0.61817199"
+         id="circle201512"
+         stroke="#000000"
+         stroke-width="0.3"
+         stroke-linecap="square" />
+      <path
+         d="m -5451.37,-964.457 v 8.496 l -7.36,-4.248 z"
+         id="path201616"
+         stroke="#000000"
+         stroke-width="1.13386"
+         stroke-linecap="square"
+         transform="matrix(0.0893459,0.153521,-0.153521,0.0893459,-672.224,1356.52)" />
+      <path
+         d="m -1021.03,436.474 c 4.81,-4.437 10.5,-11.119 12.43,-18.527"
+         id="path201651"
+         stroke="#000000"
+         stroke-width="0.2"
+         stroke-linecap="square"
+         stroke-dasharray="0.6, 0.6"
+         fill="none" />
+      <path
+         d="m -1007.94,434.472 c 3.93,-2.923 8.893,-8.526 11.648,-16.525"
+         id="path201781"
+         stroke="#000000"
+         stroke-width="0.2"
+         stroke-linecap="square"
+         stroke-dasharray="0.6, 0.6"
+         fill="none" />
+      <path
+         d="m -1034.5,414.462 27.76,18.978"
+         id="path201911"
+         stroke="#000000"
+         stroke-width="0.2"
+         stroke-linecap="square"
+         stroke-dasharray="0.6, 0.6"
+         fill="none" />
+      <path
+         d="m -1017.88,433.44 -21.23,-14.279"
+         id="path201913"
+         stroke="#000000"
+         stroke-width="0.2"
+         stroke-linecap="square"
+         stroke-dasharray="0.6, 0.6"
+         fill="none" />
+      <path
+         d="m -1027.8,426.771 v 21.973"
+         id="path201915"
+         stroke="#000000"
+         stroke-width="0.2"
+         stroke-linecap="square"
+         stroke-dasharray="0.6, 0.6"
+         fill="none" />
+      <path
+         d="m -1023.97,421.66 v 27.098"
+         id="path201917"
+         stroke="#000000"
+         stroke-width="0.2"
+         stroke-linecap="square"
+         stroke-dasharray="0.6, 0.6"
+         fill="none" />
+      <path
+         d="m -1010.84,445.718 v 0.547 h -4.74 v 1.056 h 4.74 v 0.488 l 1.82,-1.045 z"
+         id="rect202712"
+         stroke="#000000"
+         stroke-width="0.2"
+         stroke-linecap="square"
+         fill="none" />
+      <path
+         d="m -1018.51,433.44 h 12.25"
+         id="path201426"
+         stroke="#000000"
+         stroke-width="0.3"
+         stroke-linecap="square"
+         fill="none" />
+      <path
+         d="m -1006.74,433.44 h 15.438"
+         id="path202608"
+         stroke="#000000"
+         stroke-width="0.2"
+         stroke-linecap="square"
+         stroke-dasharray="0.600001, 0.600001"
+         fill="none" />
+      <path
+         d="m -1026.14,445.718 v 0.547 h -1.35 v 1.056 h 1.35 v 0.488 l 1.81,-1.045 z"
+         id="path204976"
+         stroke="#000000"
+         stroke-width="0.2"
+         stroke-linecap="square"
+         fill="none" />
+      <path
+         d="m -1001.94,422.118 -0.25,0.49 -4.25,-2.109 -0.47,0.945 4.25,2.11 -0.21,0.437 2.08,-0.132 z"
+         id="path205499"
+         stroke="#000000"
+         stroke-width="0.2"
+         stroke-linecap="square"
+         fill="none" />
+      <path
+         d="m -1038.3,414.27 0.39,0.387 -2.22,2.212 0.75,0.747 2.21,-2.212 0.35,0.345 0.54,-2.02 z"
+         id="path205501"
+         stroke="#000000"
+         stroke-width="0.2"
+         stroke-linecap="square"
+         fill="none" />
+    </g>
+    <g
+       id="g18747"
+       transform="translate(730.61991,-216.62214)">
+      <path
+         d="m -1017.88,433.44 h -16.05"
+         id="path202606"
+         stroke="#000000"
+         stroke-width="0.2"
+         stroke-linecap="square"
+         stroke-dasharray="0.6, 0.6"
+         fill="none" />
+      <text
+         id="text208527"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-weight="400"
+         font-size="2.46944px"
+         xml:space="preserve"
+         x="-1055.25"
+         y="412.35901"><tspan
+           font-size="2.46944px"
+           x="-1055.25"
+           y="412.35901"
+           id="tspan1590">比エンタルピー上昇</tspan></text>
+      <text
+         id="text216621"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="2.46944px"
+         xml:space="preserve"
+         x="-1045.95"
+         y="432.48801"><tspan
+           x="-1045.95"
+           y="432.48801"
+           id="tspan1593">露点温度</tspan></text>
+      <text
+         id="text217549"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="2.46944px"
+         xml:space="preserve"
+         x="-1045.85"
+         y="435.242"><tspan
+           x="-1045.85"
+           y="435.242"
+           id="tspan1596">変化なし</tspan></text>
+      <text
+         id="text218513"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="2.46944px"
+         xml:space="preserve"
+         x="-1031.52"
+         y="451.953"><tspan
+           x="-1031.52"
+           y="451.953"
+           id="tspan1599">湿球温度</tspan></text>
+      <text
+         id="text219089"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="2.46944px"
+         xml:space="preserve"
+         x="-1029.4301"
+         y="454.991"><tspan
+           x="-1029.4301"
+           y="454.991"
+           id="tspan1602">上昇</tspan></text>
+      <text
+         id="text219587"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="2.46944px"
+         xml:space="preserve"
+         x="-1016.99"
+         y="451.858"><tspan
+           x="-1016.99"
+           y="451.858"
+           id="tspan1605">乾球温度</tspan></text>
+      <text
+         id="text220163"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="2.46944px"
+         xml:space="preserve"
+         x="-1014.52"
+         y="454.991"><tspan
+           x="-1014.52"
+           y="454.991"
+           id="tspan1608">上昇</tspan></text>
+      <text
+         id="text222917"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-weight="400"
+         font-size="2.82222px"
+         xml:space="preserve"
+         x="-1015.75"
+         y="438.09"><tspan
+           font-size="2.82222px"
+           x="-1015.75"
+           y="438.09"
+           id="tspan1611">単純</tspan></text>
+      <text
+         id="text223669"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-weight="400"
+         font-size="2.82222px"
+         xml:space="preserve"
+         x="-1015.56"
+         y="441.129"><tspan
+           font-size="2.82222px"
+           x="-1015.56"
+           y="441.129"
+           id="tspan1614">加熱</tspan></text>
+      <text
+         id="text230409"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="2.46944px"
+         xml:space="preserve"
+         x="-1006.16"
+         y="416.91699"><tspan
+           x="-1006.16"
+           y="416.91699"
+           id="tspan1617">相対湿度</tspan></text>
+      <text
+         id="text230633"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="2.46944px"
+         xml:space="preserve"
+         x="-1005.12"
+         y="419.67001"><tspan
+           x="-1005.12"
+           y="419.67001"
+           id="tspan1620">低下</tspan></text>
+      <g
+         id="g18712"
+         transform="translate(0.469969,0.0671384)">
+        <text
+           id="text226269"
+           stroke-width="0.264583"
+           font-family="Arial"
+           font-size="2.46944px"
+           xml:space="preserve"
+           x="-1003.93"
+           y="436.181"><tspan
+             x="-1003.93"
+             y="436.181"
+             id="tspan1623">絶対湿度</tspan></text>
+        <text
+           id="text227813"
+           stroke-width="0.264583"
+           font-family="Arial"
+           font-size="2.46944px"
+           xml:space="preserve"
+           x="-1005.28"
+           y="441.021"><tspan
+             x="-1005.28"
+             y="441.021"
+             id="tspan1626">水蒸気分圧</tspan></text>
+        <text
+           id="text228917"
+           stroke-width="0.264583"
+           font-family="Arial"
+           font-size="2.46944px"
+           xml:space="preserve"
+           x="-1003.6"
+           y="443.84201"><tspan
+             x="-1003.6"
+             y="443.84201"
+             id="tspan1629">変化なし</tspan></text>
+        <text
+           id="text235249"
+           stroke-width="0.264583"
+           font-family="Arial"
+           font-size="2.46944px"
+           xml:space="preserve"
+           x="-1000.36"
+           y="438.564"><tspan
+             x="-1000.36"
+             y="438.564"
+             id="tspan1632">＆</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g51782"
+       transform="translate(1151.358,109.87372)">
+      <path
+         d="m -1432.36,162.527 c 0,0 -5.77,16.945 -16.44,30.457 m -5.3,5.67 c -7.41,6.723 -17.73,11.698 -29.26,13.891"
+         id="path11152"
+         stroke="#000000"
+         stroke-width="0.296041"
+         stroke-linejoin="round"
+         fill="none" />
+      <path
+         d="m -1483.31,214.829 71.2,0.255 v -2.255 m 0,-10.474 v -39.779 l -20.18,-0.024"
+         id="path11154"
+         stroke="#000000"
+         stroke-width="0.296041"
+         stroke-linejoin="round"
+         fill="none" />
+      <path
+         d="m -1483.36,212.545 0.05,2.284"
+         id="path11158"
+         stroke="#000000"
+         stroke-width="0.296041"
+         stroke-linecap="square"
+         fill="#ffffff" />
+      <text
+         id="text82568"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-weight="400"
+         font-size="2.11667px"
+         xml:space="preserve"
+         transform="rotate(-67.531401)"
+         x="-705.61603"
+         y="-1258.36"><tspan
+           font-size="2.11667px"
+           x="-705.61603"
+           y="-1258.36"
+           id="tspan1702">飽和線</tspan></text>
+      <text
+         id="text13775"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-weight="400"
+         font-size="2.82222px"
+         xml:space="preserve"
+         x="-1468.28"
+         y="220.46899"><tspan
+           font-size="2.82222px"
+           x="-1468.28"
+           y="220.46899"
+           id="tspan1705">A，B二つの空気の混合</tspan></text>
+      <text
+         id="text24513"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="2.82223px"
+         xml:space="preserve"
+         x="-1481.01"
+         y="224.83701"><tspan
+           x="-1481.01"
+           y="224.83701"
+           id="tspan1708">A，Bの量がｍ：nの場合，混合の結果Cは，</tspan></text>
+      <text
+         id="text26673"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="2.82223px"
+         xml:space="preserve"
+         x="-1481.28"
+         y="229.584"><tspan
+           x="-1481.28"
+           y="229.584"
+           id="tspan1711">線分ABを量の逆比n：mに内分する．</tspan></text>
+    </g>
+    <g
+       id="g51795"
+       transform="translate(1151.358,109.87372)">
+      <path
+         d="m -1450.62,205.278 19.56,-12.723"
+         id="path243823"
+         stroke="#000000"
+         stroke-width="0.3"
+         stroke-linecap="square"
+         fill="none" />
+      <circle
+         cx="-1431.0601"
+         cy="192.55499"
+         r="0.61817199"
+         id="circle243905"
+         stroke="#000000"
+         stroke-width="0.3"
+         stroke-linecap="square" />
+      <circle
+         cx="-1450.62"
+         cy="205.278"
+         r="0.61817199"
+         id="circle243907"
+         stroke="#000000"
+         stroke-width="0.3"
+         stroke-linecap="square" />
+      <circle
+         cx="-1443.89"
+         cy="200.903"
+         r="0.61817199"
+         id="circle246102"
+         stroke="#000000"
+         stroke-width="0.3"
+         stroke-linecap="square" />
+      <path
+         d="m -1450.62,205.278 v 9.668"
+         id="path246137"
+         stroke="#000000"
+         stroke-width="0.2"
+         stroke-linecap="square"
+         stroke-dasharray="0.6, 0.6"
+         fill="none" />
+      <path
+         d="m -1443.89,201.322 v 13.622"
+         id="path246139"
+         stroke="#000000"
+         stroke-width="0.2"
+         stroke-linecap="square"
+         stroke-dasharray="0.6, 0.6"
+         fill="none" />
+      <path
+         d="m -1431.06,192.555 v 22.461"
+         id="path246141"
+         stroke="#000000"
+         stroke-width="0.2"
+         stroke-linecap="square"
+         stroke-dasharray="0.6, 0.6"
+         fill="none" />
+      <path
+         d="m -1449.65,205.846 c 0.63,0.078 1.18,0.099 1.68,0.072 m 2.86,-1.3 c 0.48,-0.642 0.71,-1.475 0.83,-2.397"
+         id="path250098"
+         stroke="#000000"
+         stroke-width="0.2"
+         stroke-linecap="square"
+         fill="none" />
+      <path
+         d="m -1443.07,201.55 c 2.18,0.278 4.15,0.18 5.83,-0.396 m 2.59,-1.308 c 1.7,-1.35 2.77,-4.007 3.26,-6.085"
+         id="path250190"
+         stroke="#000000"
+         stroke-width="0.2"
+         stroke-linecap="square"
+         fill="none" />
+      <path
+         d="m -1450.59,214.642 c 0.56,-0.694 1.11,-1.236 1.65,-1.617 m 3.37,-0.057 c 0.47,0.377 0.92,0.932 1.36,1.674"
+         id="path250320"
+         stroke="#000000"
+         stroke-width="0.2"
+         stroke-linecap="square"
+         fill="none" />
+      <path
+         d="m -1443.68,214.642 c 1.45,-1.541 3.01,-2.869 4.68,-3.277 m 2.99,-0.002 c 1.96,0.39 2.96,1.582 4.08,3.111"
+         id="path250412"
+         stroke="#000000"
+         stroke-width="0.2"
+         stroke-linecap="square"
+         fill="none" />
+    </g>
+    <g
+       id="g51808"
+       transform="translate(1151.358,109.87372)">
+      <text
+         id="text255574"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-weight="400"
+         font-size="2.82222px"
+         xml:space="preserve"
+         x="-1432.24"
+         y="190.80299"><tspan
+           font-size="2.82222px"
+           x="-1432.24"
+           y="190.80299"
+           id="tspan1727">A</tspan></text>
+      <text
+         id="text256942"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-weight="400"
+         font-size="2.82222px"
+         xml:space="preserve"
+         x="-1451.89"
+         y="203.168"><tspan
+           font-size="2.82222px"
+           x="-1451.89"
+           y="203.168"
+           id="tspan1730">B</tspan></text>
+      <text
+         id="text258838"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="2.46944px"
+         xml:space="preserve"
+         x="-1457.92"
+         y="196.80701"><tspan
+           x="-1457.92"
+           y="196.80701"
+           id="tspan1733">混合した結果</tspan></text>
+      <text
+         id="text259954"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-weight="400"
+         font-size="2.82222px"
+         xml:space="preserve"
+         x="-1445.15"
+         y="198.83099"><tspan
+           font-size="2.82222px"
+           x="-1445.15"
+           y="198.83099"
+           id="tspan1736">C</tspan></text>
+      <text
+         id="text265647"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="2.46944px"
+         xml:space="preserve"
+         x="-1430.27"
+         y="193.12601"><tspan
+           x="-1430.27"
+           y="193.12601"
+           id="tspan1739">m [kg]</tspan></text>
+      <text
+         id="text271827"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="2.46944px"
+         xml:space="preserve"
+         x="-1458.28"
+         y="206.246"><tspan
+           x="-1458.28"
+           y="206.246"
+           id="tspan1742">n [kg]</tspan></text>
+      <text
+         id="text273773"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="2.46944px"
+         xml:space="preserve"
+         x="-1447.77"
+         y="206.08099"><tspan
+           x="-1447.77"
+           y="206.08099"
+           id="tspan1745">m</tspan></text>
+      <text
+         id="text275133"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="2.46944px"
+         xml:space="preserve"
+         x="-1436.73"
+         y="201.24699"><tspan
+           x="-1436.73"
+           y="201.24699"
+           id="tspan1748">n</tspan></text>
+      <text
+         id="text276721"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="2.46944px"
+         xml:space="preserve"
+         x="-1448.51"
+         y="213.332"><tspan
+           x="-1448.51"
+           y="213.332"
+           id="tspan1751">m</tspan></text>
+      <text
+         id="text277121"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="2.46944px"
+         xml:space="preserve"
+         x="-1438.21"
+         y="212.12399"><tspan
+           x="-1438.21"
+           y="212.12399"
+           id="tspan1754">n</tspan></text>
+      <text
+         id="text281847"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="2.46944px"
+         xml:space="preserve"
+         x="-1428.5699"
+         y="206.24899"><tspan
+           x="-1428.5699"
+           y="206.24899"
+           id="tspan1757">線分ABの分割は</tspan></text>
+      <text
+         id="text282529"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="2.46944px"
+         xml:space="preserve"
+         x="-1428.71"
+         y="209.338"><tspan
+           x="-1428.71"
+           y="209.338"
+           id="tspan1760">温度の軸上でやれ</tspan></text>
+      <text
+         id="text283369"
+         stroke-width="0.264583"
+         font-family="Arial"
+         font-size="2.46944px"
+         xml:space="preserve"
+         x="-1428.5699"
+         y="212.56"><tspan
+           x="-1428.5699"
+           y="212.56"
+           id="tspan1763">ばよい</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Layer 4" />
+</svg>

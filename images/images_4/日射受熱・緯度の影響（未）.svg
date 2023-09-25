@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="緯度の影響.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-others="false"
+     inkscape:zoom="0.54047838"
+     inkscape:cx="1346.0298"
+     inkscape:cy="111.01277"
+     inkscape:window-width="1132"
+     inkscape:window-height="1040"
+     inkscape:window-x="750"
+     inkscape:window-y="9"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-intersection-paths="true" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       x="264.83868"
+       y="68.534966"
+       id="text2885"><tspan
+         sodipodi:role="line"
+         id="tspan2883"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="264.83868"
+         y="68.534966">那覇：北緯： ２６°１２′４５″ </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.87777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+       x="266.30731"
+       y="109.1664"
+       id="text19025"><tspan
+         sodipodi:role="line"
+         id="tspan19023"
+         style="stroke-width:0.264583"
+         x="266.30731"
+         y="109.1664">札幌：北緯:41.28度</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:square"
+       d="M 130.5,159.23077 H 62.307691"
+       id="path23546" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:square"
+       d="M 130.5,159.23077 69.209155,129.33723"
+       id="path23708" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:square"
+       d="M 130.5,159.23077 79.034611,114.49259"
+       id="path23790" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:square"
+       d="M 130.5,159.23077 67.916192,132.14833"
+       id="path23872" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.369466;stroke-linecap:square"
+       id="circle23874"
+       cx="130.5"
+       cy="159.23077"
+       r="50.38953" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.87777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+       x="269.30768"
+       y="153.69231"
+       id="text25696"><tspan
+         sodipodi:role="line"
+         id="tspan25694"
+         style="stroke-width:0.264583"
+         x="269.30768"
+         y="153.69231">太陽高度：23.4°（緯度0°）</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:square"
+       d="M 125.04808,140.36539 62.464269,113.28295"
+       id="path32042" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:square"
+       d="M 114.84025,100.44011 70.10206,151.90549"
+       id="path32044" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:square"
+       d="M 105.92038,94.985774 78.837942,157.56959"
+       id="path32046" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:square"
+       d="M 127.38462,135.34616 64.800807,108.26372"
+       id="path32048" />
+    <circle
+       style="fill:#000000;stroke:#000000;stroke-width:0.499999;stroke-linecap:square"
+       id="path32072"
+       cx="89.177879"
+       cy="126.73558"
+       r="0.64903843" />
+    <circle
+       style="fill:#000000;stroke:#000000;stroke-width:0.499999;stroke-linecap:square"
+       id="circle32176"
+       cx="91.947113"
+       cy="123.1875"
+       r="0.64903843" />
+  </g>
+</svg>
