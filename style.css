@@ -69,7 +69,7 @@ display: block;
 .inner button {
   width: 75px;
   height: 50px;
-  /* background-color: rgb(159, 225, 241); */
+  background-color: rgb(225, 159, 241);
   border-radius: 0.3rem;
   /* transition: 0.5s; */
 }
