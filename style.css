@@ -28,7 +28,7 @@ justify-content: flex-end;
 .tab-list-item{
 width: 75px;
 height: 50px;
-/* background-color: rgb(10, 235, 160); */
+background-color: rgb(225, 159, 241);
 text-align: center;
 padding: 8px 0;
 cursor: pointer;
@@ -39,6 +39,9 @@ border-radius: 0 0 3px 3px;
 margin-top: -1px;
 position: relative;
 z-index: 10;
+}
+.tab-list-item:hover {
+	background: #96ecec;
 }
 .tab-contents{
 background-color: #ffffcc;
