@@ -29,6 +29,7 @@ justify-content: flex-end;
 width: 75px;
 height: 50px;
 background-color: rgb(225, 159, 241);
+font-weight: bold;
 text-align: center;
 padding: 8px 0;
 cursor: pointer;
@@ -55,6 +56,7 @@ z-index: 0;
 background-color: #ffffcc;
 font-weight: bold;
 border-top: 1px solid #ffffcc ;
+cursor: default;
 }
 .is-btn-active:hover{
 background-color: #ffffcc;  
@@ -75,8 +77,10 @@ display: block;
 .inner button {
   width: 75px;
   height: 50px;
+  font-weight: bold;
   background-color: rgb(225, 159, 241);
   border-radius: 0.3rem;
+  cursor: pointer;
 }
 .inner button:hover {
 	background: #96ecec;
