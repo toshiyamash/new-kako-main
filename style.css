@@ -8,6 +8,11 @@ body {
 /* 目次ページ関係 */
 .downmrgn{                          /* 目次の年号ボタンの下にマージン*/
   margin-bottom: 0.5rem;
+  cursor: pointer;
+}
+button.downmrgn:hover{
+  font-weight: bold;
+	background-color: #96ecec;
 }
 .upmrgn{                          /* 目次年号位置調整*/
   margin-top: 1.5rem;
