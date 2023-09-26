@@ -110,6 +110,14 @@ th,td {
 caption{
   font-weight: bold;
 }
+.underln {
+  text-decoration: underline red;
+  text-underline-offset:0.2em;
+}
+.underlnblue {
+  text-decoration: underline rgb(4, 0, 255);
+  text-underline-offset:0.2em;
+}
 
 
 /* ▼レスポンシブル対応 */
