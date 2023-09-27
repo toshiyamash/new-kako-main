@@ -3,7 +3,6 @@ body {
   width: 100%;
   margin: 0 auto;
   background-color: black;
-  text-size-adjust: none;
   }
 
 /* 目次ページ関係 */
@@ -138,6 +137,9 @@ caption{
 
 /* ▼レスポンシブル対応 */
 @media (width>768px){
+  body{
+    text-size-adjust: none;
+  }
   table{
     width: 80%;
     margin: auto;
