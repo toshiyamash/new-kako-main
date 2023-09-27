@@ -3,7 +3,8 @@ body {
   width: 100%;
   margin: 0 auto;
   background-color: black;
-}
+  text-size-adjust: none;
+  }
 
 /* 目次ページ関係 */
 .downmrgn{                          /* 目次の年号ボタンの下にマージン*/
