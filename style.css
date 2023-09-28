@@ -104,6 +104,9 @@ th,td {
 .bold{
   font-weight: bold;           /* 太字 */
 }
+.textCenter{
+  text-align: center;
+}
 .space{
   padding-left: 1rem;         /* 1文字空白 */
 }
