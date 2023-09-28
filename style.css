@@ -137,20 +137,67 @@ caption{
 }
 
 
+/* .varForm{              
+  padding: 0px 3px;
+  width: auto;
+  vertical-align: middle;
+} */
+
+.es11{
+  padding: 0px 3px;
+  width: auto;
+  vertical-align: middle;
+  height: 11pt;
+}
+/* 画像キャプション */
+.imgcap {
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 1rem; 
+}
+/* 画像コピーライト */
+.imgcr {
+  text-align: center;
+  font-size: 0.5rem;
+}
+
 
 /* ▼レスポンシブル対応 */
-@media (width>768px){
+@media (width<1024px){
+  table{
+    width: 60%;
+    margin: auto;
+  }
+  img {
+    background-color: transparent;
+    margin: auto;
+    width: 60%;
+    }  
+}
+
+@media (width<768px){
   body{
     text-size-adjust: none;
   }
   table{
     width: 80%;
     margin: auto;
-  } 
-}
-@media (width>1024px){
-  table{
-    width: 60%;
+  }
+  img {
+    background-color: transparent;
     margin: auto;
-  } 
+    width: 100%;
+    }  
 }
+
+
+
+
+
+
+
+
+
+
+
+
