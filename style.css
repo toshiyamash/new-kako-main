@@ -140,11 +140,35 @@ caption{
 }
 
 /* 変数定義文中の変数svgサイズ */
+.varSize15{
+  padding: 0px 3px;
+  width: auto;
+  vertical-align: middle;
+  height: 15px;
+}
+.varSize16{
+  padding: 0px 3px;
+  width: auto;
+  vertical-align: middle;
+  height: 16px;
+}
 .varSize17{
   padding: 0px 3px;
   width: auto;
   vertical-align: middle;
   height: 17px;
+}
+.varSize18{
+  padding: 0px 3px;
+  width: auto;
+  vertical-align: middle;
+  height: 18px;
+}
+.varSize19{
+  padding: 0px 3px;
+  width: auto;
+  vertical-align: middle;
+  height: 19px;
 }
 .varSize20{
   padding: 0px 3px;
