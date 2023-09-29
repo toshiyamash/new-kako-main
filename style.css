@@ -101,6 +101,9 @@ th,td {
   border: solid 1px;              /* 枠線指定 */
   padding: 5px;                   /* セル内余白 */
 }
+.tdVertical{                    /* 表内縦書き */
+  writing-mode: vertical-rl;
+}
 .bold{
   font-weight: bold;           /* 太字 */
 }
