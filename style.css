@@ -135,20 +135,24 @@ caption{
 .fontTransparent{       /* 文字透明 */
   opacity: 0;
 }
-
-
-/* .varForm{              
-  padding: 0px 3px;
-  width: auto;
-  vertical-align: middle;
-} */
-
-.es11{
-  padding: 0px 3px;
-  width: auto;
-  vertical-align: middle;
-  height: 11pt;
+.connectLine{
+  text-decoration-line: line-through;
 }
+
+/* 変数定義文中の変数svgサイズ */
+.varSize17{
+  padding: 0px 3px;
+  width: auto;
+  vertical-align: middle;
+  height: 17px;
+}
+.varSize20{
+  padding: 0px 3px;
+  width: auto;
+  vertical-align: middle;
+  height: 20px;
+}
+
 /* 画像キャプション */
 .imgcap {
   text-align: center;
@@ -165,7 +169,7 @@ caption{
 /* ▼レスポンシブル対応 */
 @media (width<1024px){
   table{
-    width: 60%;
+    width: 75%;
     margin: auto;
   }
   img {
@@ -180,13 +184,13 @@ caption{
     text-size-adjust: none;
   }
   table{
-    width: 80%;
+    width: 95%;
     margin: auto;
   }
   img {
     background-color: transparent;
     margin: auto;
-    width: 100%;
+    width: 95%;
     }  
 }
 
