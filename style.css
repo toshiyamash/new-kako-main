@@ -28,7 +28,11 @@ button.downmrgn:hover{
 }  
 .tab-list{
 display: flex;
-justify-content: flex-end; 
+/* justify-content: flex-end;  */
+padding-top: 30px;  
+position: fixed;
+right:0px;
+bottom: 0;
 }
 .tab-list-item{
 width: 75px;
@@ -41,7 +45,7 @@ cursor: pointer;
 border-bottom: 1px solid black;
 border-left: 1px solid black;
 border-right: 1px solid black;
-border-radius: 0 0 0.3rem 0.3rem;
+border-radius: 0.3rem;
 margin-top: -1px;
 position: relative;
 z-index: 10;
