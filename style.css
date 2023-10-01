@@ -274,6 +274,10 @@ caption{
   height: 30px;
 }
 
+.flex{             /*要素（表など）横並び*/
+  display: flex;
+  padding: 15px;
+}
 
 
 
