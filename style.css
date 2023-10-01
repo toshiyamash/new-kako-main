@@ -32,7 +32,7 @@ display: flex;
 padding-top: 30px;  
 position: fixed;
 right:0px;
-bottom: 0;
+bottom: 5px;
 }
 .tab-list-item{
 width: 75px;
@@ -47,8 +47,8 @@ border-left: 1px solid black;
 border-right: 1px solid black;
 border-radius: 0.3rem;
 margin-top: -1px;
-position: relative;
-z-index: 10;
+/* position: relative; */
+/* z-index: 10; */
 }
 .tab-list-item:hover {
 	background: #96ecec;
@@ -58,8 +58,9 @@ background-color: #ffffcc;
 display: none;
 padding: 20px;
 border: 1px solid black;
-position: relative;
-z-index: 0;
+/* position: relative; */
+/* z-index: 0; */
+padding-bottom: 55px;
 }
 .is-btn-active{
 background-color: #ffffcc;
@@ -80,8 +81,7 @@ display: block;
   display: flex;
   padding-top: 30px;              
   position: fixed;
-  bottom: 0;
-  /* z-index: 20; */
+  bottom: 5px;
 }
 .inner button {
   width: 75px;
