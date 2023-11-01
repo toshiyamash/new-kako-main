@@ -7,7 +7,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    sodipodi:docname="独立型照明器具と建築化照明.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="1.0809568"
-     inkscape:cx="236.36467"
-     inkscape:cy="933.89486"
+     inkscape:cx="615.65828"
+     inkscape:cy="915.85529"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -35,7 +35,9 @@
      inkscape:current-layer="layer3"
      inkscape:snap-global="false"
      inkscape:snap-grids="false"
-     inkscape:snap-to-guides="false">
+     inkscape:snap-to-guides="false"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid861" />
@@ -201,44 +203,44 @@
        id="rect2259"
        width="21.115383"
        height="5.625"
-       x="101.33654"
+       x="99.08654"
        y="86.798073" />
     <rect
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect2261"
        width="2.5961537"
        height="1.9038461"
-       x="109.99039"
+       x="107.74039"
        y="79.918274" />
     <path
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 111.33173,81.865384 v 4.846154"
+       d="m 109.08173,81.865384 v 4.846154"
        id="path2296" />
     <path
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 101.37981,89.480767 h 21.02884"
+       d="m 99.12981,89.480767 h 21.02884"
        id="path2298" />
     <path
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 107.4375,86.927885 v 5.495192"
+       d="m 105.1875,86.927885 v 5.495192"
        id="path2300" />
     <path
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 115.83173,86.971152 v 5.451925"
+       d="m 113.58173,86.971152 v 5.451925"
        id="path2302" />
     <path
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 130.67308,79.723558 0.0432,1.579325 c 0.95854,1.446554 2.40858,1.391482 3.63461,0.08654 l 0.0433,-1.73077"
+       d="m 128.42308,79.723558 0.0432,1.579325 c 0.95854,1.446554 2.40858,1.391482 3.63461,0.08654 l 0.0433,-1.73077"
        id="path2337"
        sodipodi:nodetypes="cccc" />
     <path
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 124.96154,111.76443 c 1.90136,-10.22409 13.08316,-10.32135 15.40384,0 z"
+       d="m 122.71154,111.76443 c 1.90136,-10.22409 13.08316,-10.32135 15.40384,0 z"
        id="path2657"
        sodipodi:nodetypes="ccc" />
     <path
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 132.49038,82.600961 V 104.0625"
+       d="M 130.24038,82.600961 V 104.0625"
        id="path2939" />
     <rect
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
@@ -931,24 +933,24 @@
     <text
        xml:space="preserve"
        style="font-size:4.5861px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
-       x="105.57692"
+       x="103.32692"
        y="76.535828"
        id="text19731"><tspan
          sodipodi:role="line"
          id="tspan19729"
          style="stroke-width:0.264583"
-         x="105.57692"
+         x="103.32692"
          y="76.535828">ペンダント</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.5861px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
-       x="137.25"
+       x="138.47383"
        y="76.5"
        id="text20665"><tspan
          sodipodi:role="line"
          id="tspan20663"
          style="stroke-width:0.264583"
-         x="137.25"
+         x="138.47383"
          y="76.5">シャンデリア</tspan></text>
     <text
        xml:space="preserve"
@@ -967,37 +969,37 @@
        id="path25187" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-       x="51.523609"
-       y="224.60089"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       x="56.418964"
+       y="222.8387"
        id="text28328"><tspan
          sodipodi:role="line"
          id="tspan28326"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="51.523609"
-         y="224.60089">コーニス照明</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="56.418964"
+         y="222.8387">コーニス照明</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-       x="108.18733"
-       y="225.06392"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       x="114.67368"
+       y="222.9834"
        id="text29410"><tspan
          sodipodi:role="line"
          id="tspan29408"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="108.18733"
-         y="225.06392">コーブ照明</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="114.67368"
+         y="222.9834">コーブ照明</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:4.5861px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
        x="63.39484"
-       y="187.73683"
+       y="187.36967"
        id="text32571"><tspan
          sodipodi:role="line"
          id="tspan32569"
-         style="stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="63.39484"
-         y="187.73683">ランプ</tspan></text>
+         y="187.36967">ランプ</tspan></text>
     <path
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 62.782924,186.14585 -8.566871,1.10146"
@@ -1009,13 +1011,13 @@
        id="path33120" />
     <text
        xml:space="preserve"
-       style="font-size:4.5861px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+       style="font-size:3.52777778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="116.50944"
        y="187.49207"
        id="text34810"><tspan
          sodipodi:role="line"
          id="tspan34808"
-         style="stroke-width:0.264583"
+         style="stroke-width:0.264583;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="116.50944"
          y="187.49207">ランプ</tspan></text>
     <text
@@ -1029,5 +1031,52 @@
          style="stroke-width:0.264583"
          x="74.164627"
          y="237.4247">建築化照明</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.5861px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';word-spacing:0px;stroke-width:0.264583"
+       x="103.12251"
+       y="71.839325"
+       id="text588"><tspan
+         sodipodi:role="line"
+         id="tspan586"
+         style="stroke-width:0.264583"
+         x="103.12251"
+         y="71.839325">コード</tspan></text>
+    <path
+       style="fill:#e6e6e6;stroke:none;stroke-width:0.2"
+       d="M 89.048073,195.74999 H 58.84615 l 25.26923,13.41346 h 4.932693 c -1.312656,-4.9848 -2.373433,-9.87104 0,-13.41346 z"
+       id="path1745"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#e6e6e6;stroke:none;stroke-width:0.2"
+       d="m 84.261286,209.70474 v 5.3237 c 1.308538,-1.97049 2.431735,-4.07337 4.834165,-5.26251 z"
+       id="path1747"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#e6e6e6;stroke:none;stroke-width:0.2"
+       d="m 102.80244,215.64036 0.0612,-18.174 32.49292,13.70699 -0.12238,3.0596 z"
+       id="path1845" />
+    <path
+       style="fill:#e6e6e6;stroke:none;stroke-width:0.2"
+       d="m 135.90728,214.23295 v -2.93722 h 5.87442 z"
+       id="path1847" />
+    <path
+       style="fill:#e6e6e6;stroke:none;stroke-width:0.2"
+       d="m 142.27124,189.93975 -17.99043,0.0612 c 10.73779,2.28668 15.27964,9.88949 13.21746,19.03069 v 1.71338 h 4.03866 z"
+       id="path1849"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:#e6e6e6;stroke:none;stroke-width:0.2"
+       d="m 111.61408,193.91723 0.0612,2.87602 25.33346,13.6458 -0.0612,-1.22384 z"
+       id="path1924" />
+    <path
+       style="fill:#e6e6e6;stroke:none;stroke-width:0.2"
+       d="m 104.27105,197.40516 h 6.97588 l 25.33346,13.33985 -0.91788,-0.0612 z"
+       id="path1926" />
+    <path
+       style="fill:#e6e6e6;stroke:none;stroke-width:0.2"
+       d="m 50.926532,201.33736 c 7.231342,10.08728 18.954843,12.42972 32.784027,12.22247 v 1.46861 l -32.834719,-0.785 z"
+       id="path2220"
+       sodipodi:nodetypes="ccccc" />
   </g>
 </svg>

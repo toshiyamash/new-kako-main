@@ -7,7 +7,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    sodipodi:docname="下向き配管方式，上向き配管方式.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="0.7411897"
-     inkscape:cx="155.83055"
-     inkscape:cy="354.16034"
+     inkscape:cx="-4.7221379"
+     inkscape:cy="354.83494"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -38,7 +38,9 @@
      inkscape:snap-others="false"
      inkscape:object-nodes="false"
      inkscape:object-paths="true"
-     inkscape:snap-global="false">
+     inkscape:snap-global="false"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid1370" />
@@ -57,7 +59,8 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     style="display:none">
     <image
        y="55.618069"
        x="41.979511"
@@ -901,25 +904,25 @@
     <text
        xml:space="preserve"
        style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
-       x="46.941704"
-       y="140.11118"
+       x="41.587135"
+       y="135.64903"
        id="text17691"><tspan
          sodipodi:role="line"
          id="tspan17689"
          style="stroke-width:0.264583"
-         x="46.941704"
-         y="140.11118">下向き配管方式</tspan></text>
+         x="41.587135"
+         y="135.64903">下向き配管方式</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
-       x="-3.7481902"
-       y="140.82512"
+       x="-9.1027575"
+       y="135.64903"
        id="text18499"><tspan
          sodipodi:role="line"
          id="tspan18497"
          style="stroke-width:0.264583"
-         x="-3.7481902"
-         y="140.82512">上向き配管方式</tspan></text>
+         x="-9.1027575"
+         y="135.64903">上向き配管方式</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
