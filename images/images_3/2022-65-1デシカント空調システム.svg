@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="123.66618mm"
-   height="35.110584mm"
-   viewBox="0 0 123.66618 35.110584"
+   width="197.0831mm"
+   height="55.919422mm"
+   viewBox="0 0 197.0831 55.919422"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
    sodipodi:docname="2022-65-1デシカント空調システム.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,12 +25,12 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="1.0809568"
-     inkscape:cx="361.7166"
-     inkscape:cy="89.272767"
+     inkscape:cx="361.71658"
+     inkscape:cy="311.29829"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="968"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3"
      inkscape:snap-global="false"
@@ -39,11 +39,13 @@
      inkscape:snap-midpoints="false"
      inkscape:snap-smooth-nodes="false"
      inkscape:object-paths="true"
-     inkscape:object-nodes="false">
+     inkscape:object-nodes="false"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid861"
-       originx="-25.319398"
+       originx="-25.319399"
        originy="-119.34665" />
   </sodipodi:namedview>
   <defs
@@ -62,7 +64,7 @@
      id="layer1"
      style="display:none"
      sodipodi:insensitive="true"
-     transform="translate(-25.3194,-119.34665)">
+     transform="translate(-25.319401,-119.34665)">
     <image
        y="116.50925"
        x="51.616356"
@@ -77,288 +79,287 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     transform="translate(-25.3194,-119.34665)">
+     transform="translate(-25.319401,-119.34665)">
     <path
        id="rect4756"
-       style="opacity:1;fill:#808080;stroke-width:0.1;stroke-linecap:square"
-       d="m 94.88942,134.26442 h 10.47115 l 0.0216,1.29808 -10.514415,-0.0108 z"
+       style="opacity:1;fill:#808080;stroke-width:0.159368;stroke-linecap:square"
+       d="m 136.19108,143.12066 h 16.68756 l 0.0344,2.06871 -16.75651,-0.0171 z"
        sodipodi:nodetypes="ccccc" />
     <path
        id="path5566"
-       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke-width:0.2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 101.48547,144.64904 H 80.261917 l -0.194677,1.29808 21.5048,-0.0108 z"
+       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke-width:0.318734;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 146.70301,159.67032 h -33.82335 l -0.31025,2.06871 34.27157,-0.0171 z"
        sodipodi:nodetypes="ccccc" />
     <path
        id="rect4758"
-       style="opacity:1;fill:#808080;stroke:none;stroke-width:0.1;stroke-linecap:square"
-       d="m 80.177879,134.26442 h 9.032452 l -0.01082,1.33053 -8.807463,-0.004 z"
+       style="opacity:1;fill:#808080;stroke:none;stroke-width:0.159368;stroke-linecap:square"
+       d="m 112.74573,143.12066 h 14.39475 l -0.0173,2.12043 -14.03619,-0.007 z"
        sodipodi:nodetypes="ccccc" />
     <ellipse
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.796836;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
        id="path885"
-       cx="71.653854"
-       cy="139.69472"
-       rx="3.8793087"
-       ry="11.38652" />
+       cx="99.161247"
+       cy="151.77475"
+       rx="6.1823392"
+       ry="18.146362" />
     <path
        id="ellipse1297"
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 76.673088,128.3082 c 2.142483,0 3.879309,5.09792 3.879309,11.38652 0,6.2886 -1.736826,11.38652 -3.879309,11.38652"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.796836;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 107.16025,133.6284 c 3.41441,0 6.18234,8.12441 6.18234,18.14637 0,10.02195 -2.76793,18.14635 -6.18234,18.14635"
        sodipodi:nodetypes="csc" />
     <path
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 71.437499,128.32292 h 5.291667"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.796836;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 98.81645,133.65186 h 8.43317"
        id="path1332" />
     <path
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 76.673087,151.08124 H 71.653854"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.796836;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 107.16025,169.92112 H 99.161248"
        id="path1720" />
     <ellipse
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.796836;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
        id="ellipse1802"
-       cx="105.4318"
-       cy="139.69472"
-       rx="3.8793087"
-       ry="11.38652" />
+       cx="152.99216"
+       cy="151.77475"
+       rx="6.1823392"
+       ry="18.146362" />
     <path
        id="path1804"
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 110.87939,128.3082 c 2.14248,0 3.8793,5.09792 3.8793,11.38652 0,6.2886 -1.73682,11.38652 -3.8793,11.38652"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.796836;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 161.67382,133.6284 c 3.41441,0 6.18233,8.12441 6.18233,18.14637 0,10.02195 -2.76792,18.14635 -6.18233,18.14635"
        sodipodi:nodetypes="csc" />
     <path
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 105.21545,128.32292 h 5.68941"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.796836;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 152.64737,133.65186 h 9.06705"
        id="path1806"
        sodipodi:nodetypes="cc" />
     <path
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 110.81818,151.08124 H 105.4318"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.796836;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 161.57628,169.92112 h -8.58413"
        id="path1808"
        sodipodi:nodetypes="cc" />
     <rect
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:square"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.318734;stroke-linecap:square"
        id="rect1927"
-       width="3.6715157"
-       height="7.5266075"
-       x="91.114784"
-       y="132.78648" />
+       width="5.8511863"
+       height="11.994931"
+       x="130.17557"
+       y="140.76532" />
     <path
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:square"
-       d="M 91.114784,140.31309 87.07612,136.5192 v -7.40422 l 3.977476,3.97747"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.318734;stroke-linecap:square"
+       d="m 130.17556,152.76024 -6.4363,-6.04621 v -11.79988 l 6.33878,6.33877"
        id="path1962" />
     <path
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:square"
-       d="m 87.07612,129.11498 h 3.977476 l 3.732705,3.6715"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.318734;stroke-linecap:square"
+       d="m 123.73926,134.91415 h 6.33878 l 5.9487,5.85115"
        id="path1964" />
     <rect
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:square"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.318734;stroke-linecap:square"
        id="rect2046"
-       width="3.6715157"
-       height="7.5266075"
-       x="122.0779"
-       y="143.55626" />
+       width="5.8511863"
+       height="11.994931"
+       x="179.52057"
+       y="157.92877" />
     <path
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:square"
-       d="m 122.0779,151.08287 -4.03866,-3.79389 v -7.40422 l 3.97747,3.97747"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.318734;stroke-linecap:square"
+       d="m 179.52056,169.92373 -6.4363,-6.04622 v -11.79989 l 6.33879,6.33878"
        id="path2048" />
     <path
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:square"
-       d="m 118.03924,139.88476 h 3.97747 l 3.73271,3.6715"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.318734;stroke-linecap:square"
+       d="m 173.08426,152.07762 h 6.33879 l 5.94871,5.85117"
        id="path2050" />
     <path
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:square"
-       d="m 67.862214,137.28767 7.463025,6.08479"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.318734;stroke-linecap:square"
+       d="m 93.118623,147.93871 11.893607,9.69716"
        id="path2085" />
     <path
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:square"
-       d="m 101.70135,137.28767 7.46303,6.08479"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.318734;stroke-linecap:square"
+       d="m 147.04706,147.93871 11.89361,9.69716"
        id="path2167" />
     <path
        id="rect2191"
-       style="opacity:1;fill:#000000;stroke:#000000;stroke-width:0.2;stroke-linecap:square"
-       d="m 77.744181,138.29369 c 0.141464,1.37985 0.137199,2.75994 0.02119,4.1398 l -0.445968,-0.008 0.457854,1.30018 1.023194,-1.27382 -0.561208,-0.01 c 0.120711,-1.36681 0.157303,-2.74444 -0.02067,-4.14858 z" />
+       style="opacity:1;fill:#000000;stroke:#000000;stroke-width:0.318734;stroke-linecap:square"
+       d="m 108.86722,149.54198 c 0.22545,2.19903 0.21865,4.39844 0.0338,6.59748 l -0.71072,-0.0133 0.72967,2.07206 1.63063,-2.03005 -0.89438,-0.0159 c 0.19237,-2.17825 0.25069,-4.37373 -0.0329,-6.61147 z" />
     <path
        id="path2607"
-       style="opacity:1;fill:#000000;stroke:#000000;stroke-width:0.2;stroke-linecap:square"
-       d="m 111.7057,138.29369 c 0.14147,1.37985 0.1372,2.75994 0.0212,4.1398 l -0.44596,-0.008 0.45785,1.30018 1.02319,-1.27382 -0.5612,-0.01 c 0.12071,-1.36681 0.1573,-2.74444 -0.0207,-4.14858 z" />
+       style="opacity:1;fill:#000000;stroke:#000000;stroke-width:0.318734;stroke-linecap:square"
+       d="m 162.99069,149.54198 c 0.22546,2.19903 0.21865,4.39844 0.0337,6.59748 l -0.71072,-0.0133 0.72966,2.07206 1.63063,-2.03005 -0.89436,-0.0159 c 0.19237,-2.17825 0.25068,-4.37373 -0.0329,-6.61147 z" />
     <path
        id="rect2991"
-       style="opacity:1;fill:#808080;stroke:#000000;stroke-width:0.377953;stroke-linecap:square"
-       d="m 240.65039,504.33398 -11.54297,5.24805 11.54297,5.24805 v -2.36328 l 31.06726,0.0391 -6.7e-4,-5.15234 h -31.06659 z m 62.38477,3.01954 h 34.01562 z m 55.11132,0 h 39.90235 z m 74.08204,0 0.49023,5.11132 h 59.14063 v -5.11132 z m -128.53907,5.11132 h 33.36133 z m 54.78516,0 h 39.73828 z"
-       transform="scale(0.26458333)"
+       style="opacity:1;fill:#808080;stroke:#000000;stroke-width:0.159368;stroke-linecap:square"
+       d="m 86.440933,141.8042 -4.867193,2.21288 4.867193,2.21289 v -0.99649 l 13.099778,0.0165 -2.83e-4,-2.17254 H 86.440933 Z m 26.305077,1.27321 h 14.34298 z m 23.23816,0 h 16.82518 z m 31.23734,0 0.20671,2.15523 h 24.93716 v -2.15523 z m -54.19961,2.15523 h 14.06709 z m 23.10063,0 h 16.75599 z"
        sodipodi:nodetypes="ccccccccccccccccccccccccc" />
     <path
        id="path5562"
-       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square"
-       d="m 105.35807,144.64904 h -3.88341 l 0.0108,1.33053 3.8964,-0.004 z"
+       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.159368;stroke-linecap:square"
+       d="m 152.87466,159.67032 h -6.18887 l 0.0171,2.12043 6.20958,-0.007 z"
        sodipodi:nodetypes="ccccc" />
     <path
        id="path5564"
-       style="opacity:1;fill:#e6e6e6;stroke:#000000;stroke-width:0.2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 125.78365,144.62187 h 1.22926 v -0.79889 l 3.05407,1.38855 -3.05407,1.38854 v -0.62528 l -1.2725,10e-4 m -5.92792,0.005 -5.606,0.005 0.30306,-1.36322 h 5.30295 m -14.47623,3e-5 h -3.8293 z m -3.78062,0 H 80.262138 Z m -29.839296,0 -0.02154,1.35237 h -11.14762 v -1.35237 z m 33.663136,1.35237 h -3.87252 z m -3.82937,0 H 80.002382 Z"
+       style="opacity:1;fill:#e6e6e6;stroke:#000000;stroke-width:0.318734;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 185.42631,159.62702 h 1.95902 v -1.27316 l 4.86719,2.21288 -4.86719,2.21288 v -0.9965 l -2.02794,0.001 m -9.44715,0.008 -8.93411,0.008 0.48297,-2.17253 h 8.45115 m -23.07033,4e-5 h -6.10265 z m -6.02506,0 h -33.93485 z m -47.554009,0 -0.03433,2.15524 H 81.460893 v -2.15524 z m 53.647939,2.15524 h -6.17152 z m -6.10274,0 h -34.34 z"
        sodipodi:nodetypes="cccccccccccccccccccccccccccc" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layer 3"
-     transform="translate(-25.3194,-119.34665)">
+     transform="translate(-25.319401,-119.34665)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-       x="62.660534"
-       y="123.71793"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.49769px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.421659"
+       x="84.828857"
+       y="126.31303"
        id="text13796"><tspan
          sodipodi:role="line"
          id="tspan13794"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="62.660534"
-         y="123.71793">デシカント</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.49769px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.421659"
+         x="84.828857"
+         y="126.31303">デシカント</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-       x="62.373905"
-       y="126.74781"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.49769px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.421659"
+       x="84.37207"
+       y="131.14166"
        id="text16453"><tspan
          sodipodi:role="line"
          id="tspan16451"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="62.373905"
-         y="126.74781">ローター</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.49769px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.421659"
+         x="84.37207"
+         y="131.14166">ローター</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:2.82223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
-       x="103.90391"
-       y="123.65179"
+       style="font-size:4.49771px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.421659"
+       x="150.55721"
+       y="126.20762"
        id="text18811"><tspan
          sodipodi:role="line"
          id="tspan18809"
-         style="stroke-width:0.264583"
-         x="103.90391"
-         y="123.65179">顕熱交換</tspan></text>
+         style="stroke-width:0.421659"
+         x="150.55721"
+         y="126.20762">顕熱交換</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:2.82223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
-       x="103.49601"
-       y="126.97932"
+       style="font-size:4.49771px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.421659"
+       x="149.90715"
+       y="131.5106"
        id="text20047"><tspan
          sodipodi:role="line"
          id="tspan20045"
-         style="stroke-width:0.264583"
-         x="103.49601"
-         y="126.97932">ローター</tspan></text>
+         style="stroke-width:0.421659"
+         x="149.90715"
+         y="131.5106">ローター</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:2.82223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
-       x="52.981186"
-       y="135.54013"
+       style="font-size:4.49771px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.421659"
+       x="69.403168"
+       y="145.15372"
        id="text20967"><tspan
          sodipodi:role="line"
          id="tspan20965"
-         style="stroke-width:0.264583"
-         x="52.981186"
-         y="135.54013">排気</tspan></text>
+         style="stroke-width:0.421659"
+         x="69.403168"
+         y="145.15372">排気</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:2.82223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
-       x="52.99221"
-       y="146.25964"
+       style="font-size:4.49771px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.421659"
+       x="69.420738"
+       y="162.23709"
        id="text21825"><tspan
          sodipodi:role="line"
          id="tspan21823"
-         style="stroke-width:0.264583"
-         x="52.99221"
-         y="146.25964">外気</tspan></text>
+         style="stroke-width:0.421659"
+         x="69.420738"
+         y="162.23709">外気</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:2.82223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
-       x="85.590424"
-       y="123.6077"
+       style="font-size:4.49771px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.421659"
+       x="121.37155"
+       y="126.13735"
        id="text23291"><tspan
          sodipodi:role="line"
          id="tspan23289"
-         style="stroke-width:0.264583"
-         x="85.590424"
-         y="123.6077">再生熱</tspan></text>
+         style="stroke-width:0.421659"
+         x="121.37155"
+         y="126.13735">再生熱</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:2.82223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
-       x="85.546326"
-       y="127.03445"
+       style="font-size:4.49771px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.421659"
+       x="121.30127"
+       y="131.59846"
        id="text23999"><tspan
          sodipodi:role="line"
          id="tspan23997"
-         style="stroke-width:0.264583"
-         x="85.546326"
-         y="127.03445">交換器</tspan></text>
+         style="stroke-width:0.421659"
+         x="121.30127"
+         y="131.59846">交換器</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:2.82223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
-       x="118.22282"
-       y="154.20367"
+       style="font-size:4.49771px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.421659"
+       x="173.37682"
+       y="174.89726"
        id="text25015"><tspan
          sodipodi:role="line"
          id="tspan25013"
-         style="stroke-width:0.264583"
-         x="118.22282"
-         y="154.20367">冷却器</tspan></text>
+         style="stroke-width:0.421659"
+         x="173.37682"
+         y="174.89726">冷却器</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:2.82223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
-       x="132.0522"
-       y="135.84608"
+       style="font-size:4.49771px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.421659"
+       x="195.41629"
+       y="145.6413"
        id="text26173"><tspan
          sodipodi:role="line"
          id="tspan26171"
-         style="stroke-width:0.264583"
-         x="132.0522"
-         y="135.84608">室内から　　　</tspan></text>
+         style="stroke-width:0.421659"
+         x="195.41629"
+         y="145.6413">室内から　　　</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:2.82223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
-       x="132.0522"
-       y="146.12633"
+       style="font-size:4.49771px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.421659"
+       x="195.41629"
+       y="162.02463"
        id="text27101"><tspan
          sodipodi:role="line"
          id="tspan27099"
-         style="stroke-width:0.264583"
-         x="132.0522"
-         y="146.12633">室内へ</tspan></text>
+         style="stroke-width:0.421659"
+         x="195.41629"
+         y="162.02463">室内へ</tspan></text>
     <path
-       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 86.40301,119.44665 h 3.916283"
+       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#ffffff;stroke-width:0.318734;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 122.66654,119.50602 h 6.24127"
        id="path29345" />
     <text
        xml:space="preserve"
-       style="font-size:2.82223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
-       x="26.854872"
-       y="135.55876"
+       style="font-size:4.49771px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.421659"
+       x="27.766436"
+       y="145.18343"
        id="text4530"><tspan
          sodipodi:role="line"
          id="tspan4528"
-         style="stroke-width:0.264583"
-         x="26.854872"
-         y="135.55876">再生排気ライン</tspan></text>
+         style="stroke-width:0.421659"
+         x="27.766436"
+         y="145.18343">再生排気ライン</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:2.82223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
-       x="26.854872"
-       y="146.35611"
+       style="font-size:4.49771px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.421659"
+       x="27.766436"
+       y="162.39082"
        id="text5018"><tspan
          sodipodi:role="line"
          id="tspan5016"
-         style="stroke-width:0.264583"
-         x="26.854872"
-         y="146.35611">外気処理ライン</tspan></text>
+         style="stroke-width:0.421659"
+         x="27.766436"
+         y="162.39082">外気処理ライン</tspan></text>
     <path
        id="rect5602"
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:square"
-       d="m 25.4194,132.20772 h 24.467776 v 4.70669 H 25.4194 Z"
+       style="fill:none;stroke:#000000;stroke-width:0.318734;stroke-linecap:square"
+       d="m 25.478768,139.84295 h 38.993569 v 7.50092 H 25.478768 Z"
        sodipodi:nodetypes="ccccc" />
     <path
        id="path1192"
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:square"
-       d="m 25.4194,142.9775 h 24.467776 v 4.70669 H 25.4194 Z"
+       style="fill:none;stroke:#000000;stroke-width:0.318734;stroke-linecap:square"
+       d="m 25.478768,157.00644 h 38.993569 v 7.50091 H 25.478768 Z"
        sodipodi:nodetypes="ccccc" />
   </g>
 </svg>

@@ -142,7 +142,7 @@ caption{
 .fontTransparent{       /* 文字透明 */
   opacity: 0;
 }
-.connectLine{
+.connectLine{          /*問題文選択肢中つなぎ線*/ 
   text-decoration-line: line-through;
 }
 
