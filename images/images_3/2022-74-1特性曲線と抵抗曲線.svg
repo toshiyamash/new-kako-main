@@ -7,7 +7,7 @@
    viewBox="0 0 92.699806 48.426895"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
    sodipodi:docname="2022-74-1特性曲線と抵抗曲線.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,17 +26,19 @@
      showgrid="true"
      inkscape:snap-global="false"
      inkscape:zoom="2.1619135"
-     inkscape:cx="151.71745"
+     inkscape:cx="28.447022"
      inkscape:cy="108.93128"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="968"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      inkscape:snap-grids="false"
      inkscape:snap-to-guides="false"
-     inkscape:snap-intersection-paths="true">
+     inkscape:snap-intersection-paths="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid873"
@@ -110,12 +112,12 @@
        d="m 77.451923,77.625 v 43.26923 h 51.749997"
        id="path908" />
     <path
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 77.451923,83.163462 c 25.516907,3.92715 41.310557,18.060628 46.211537,30.634618"
        id="path1174"
        sodipodi:nodetypes="cc" />
     <path
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 77.625,120.80769 c 17.69483,-3.97361 30.78476,-13.28891 36.95192,-30.634614"
        id="path1176"
        sodipodi:nodetypes="cc" />
