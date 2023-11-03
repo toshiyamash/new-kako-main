@@ -95,6 +95,24 @@ display: block;
 	background: #96ecec;
 }
 
+/* 画像横並び　2022-80 */
+#flexbox{
+  display:flex;
+  justify-content:center;
+  flex-wrap: wrap;
+  background:#ffffcc;
+  width: 100%;
+  height:auto;
+  padding:0 20px;
+}
+.box-item{
+  background:#ffffcc;
+  text-align: center;
+  padding:0 10px;
+  border:none;
+}
+
+
 /* ▼一般装飾 */
 
 table {
