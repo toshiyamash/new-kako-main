@@ -161,8 +161,16 @@ caption{
 .fontTransparent{       /* 文字透明 */
   opacity: 0;
 }
-.connectLine{          /*問題文選択肢中つなぎ線*/ 
+.connectLine{          /* 問題文選択肢中つなぎ線 */ 
   text-decoration-line: line-through;
+}
+
+img.inq25 {            /* 問題選択肢内画像2022-100*/
+  background-color: transparent;
+  width: auto;
+  height: 25px;
+  margin: auto; 
+  vertical-align: middle
 }
 
 /* 変数定義文中の変数svgサイズ */

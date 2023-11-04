@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="10.202845mm"
-   height="10.401267mm"
-   viewBox="0 0 10.202845 10.401267"
+   width="11.075947mm"
+   height="11.036924mm"
+   viewBox="0 0 11.075947 11.036924"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
    sodipodi:docname="2022-100(5)吸込口.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,13 +24,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1.0482005"
-     inkscape:cx="150.25751"
-     inkscape:cy="2.3850399"
+     inkscape:zoom="8.385604"
+     inkscape:cx="28.083845"
+     inkscape:cy="23.910025"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="968"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer4"
      inkscape:snap-global="false"
@@ -41,12 +41,14 @@
      inkscape:object-nodes="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-intersection-paths="true"
-     inkscape:snap-midpoints="true">
+     inkscape:snap-midpoints="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid19206"
-       originx="-58.95186"
-       originy="-262.77972" />
+       originx="-58.65368"
+       originy="-262.42484" />
   </sodipodi:namedview>
   <defs
      id="defs2">
@@ -64,7 +66,7 @@
      id="layer1"
      sodipodi:insensitive="true"
      style="display:none"
-     transform="translate(-58.951867,-262.77971)">
+     transform="translate(-58.653687,-262.42484)">
     <image
        y="2.1844282"
        x="-13.619205"
@@ -81,7 +83,7 @@
      inkscape:label="Layer 2"
      style="display:inline"
      sodipodi:insensitive="true"
-     transform="translate(-58.951867,-262.77971)">
+     transform="translate(-58.653687,-262.42484)">
     <rect
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:square"
        id="rect919"
@@ -3447,7 +3449,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Layer 4"
-     transform="translate(-58.951867,-262.77971)">
+     transform="translate(-58.653687,-262.42484)">
     <g
        id="g13994"
        transform="translate(-0.03155209,0.06310418)">
@@ -4800,7 +4802,7 @@
          inkscape:transform-center-x="0.21873446" />
     </g>
     <rect
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect14450"
        width="4.1800179"
        height="4.2977648"
@@ -4808,15 +4810,16 @@
        y="265.81378" />
     <g
        id="g14558"
-       transform="translate(21.52627,7.9865926)">
+       transform="translate(21.311445,8.1698659)"
+       style="stroke-width:0.5;stroke-dasharray:none">
       <path
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-         d="m 37.803489,264.72241 1.911252,-1.70519"
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 37.709942,264.89558 2.004799,-1.87836"
          id="path14554"
          sodipodi:nodetypes="cc" />
       <path
          id="path14556"
-         style="opacity:1;stroke:#000000;stroke-width:0.282611;stroke-linecap:square"
+         style="opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-dasharray:none"
          inkscape:transform-center-y="0.19629898"
          d="m 39.707603,263.62482 -0.123362,-0.4491 -0.460037,-0.0727 0.429173,-0.18636 0.429173,-0.18636 -0.137472,0.44723 z"
          sodipodi:nodetypes="ccccccc"
@@ -4824,15 +4827,16 @@
     </g>
     <g
        id="g14564"
-       transform="matrix(-1,0,0,1,106.61333,8.0109788)">
+       transform="matrix(-1,0,0,1,106.83913,8.1503749)"
+       style="stroke-width:0.5;stroke-dasharray:none">
       <path
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
          d="m 37.685741,264.95792 2.029,-1.9407"
          id="path14560"
          sodipodi:nodetypes="cc" />
       <path
          id="path14562"
-         style="opacity:1;stroke:#000000;stroke-width:0.282611;stroke-linecap:square"
+         style="opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-dasharray:none"
          inkscape:transform-center-y="0.19629898"
          d="m 39.707603,263.62482 -0.123362,-0.4491 -0.460037,-0.0727 0.429173,-0.18636 0.429173,-0.18636 -0.137472,0.44723 z"
          sodipodi:nodetypes="ccccccc"
@@ -4840,15 +4844,16 @@
     </g>
     <g
        id="g14570"
-       transform="matrix(1,0,0,-1,21.448797,527.94973)">
+       transform="matrix(1,0,0,-1,21.292023,527.73626)"
+       style="stroke-width:0.5;stroke-dasharray:none">
       <path
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
          d="m 37.715178,264.95791 1.999563,-1.94069"
          id="path14566"
          sodipodi:nodetypes="cc" />
       <path
          id="path14568"
-         style="opacity:1;stroke:#000000;stroke-width:0.282611;stroke-linecap:square"
+         style="opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-dasharray:none"
          inkscape:transform-center-y="0.19629898"
          d="m 39.707603,263.62482 -0.123362,-0.4491 -0.460037,-0.0727 0.429173,-0.18636 0.429173,-0.18636 -0.137472,0.44723 z"
          sodipodi:nodetypes="ccccccc"
@@ -4856,15 +4861,16 @@
     </g>
     <g
        id="g14576"
-       transform="rotate(180,53.373485,263.9713)">
+       transform="rotate(180,53.438007,263.90234)"
+       style="stroke-width:0.5;stroke-dasharray:none">
       <path
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-         d="m 37.803488,264.60467 1.911253,-1.58745"
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 37.498443,264.85967 2.216298,-1.84245"
          id="path14572"
          sodipodi:nodetypes="cc" />
       <path
          id="path14574"
-         style="opacity:1;stroke:#000000;stroke-width:0.282611;stroke-linecap:square"
+         style="opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-dasharray:none"
          inkscape:transform-center-y="0.19629898"
          d="m 39.707603,263.62482 -0.123362,-0.4491 -0.460037,-0.0727 0.429173,-0.18636 0.429173,-0.18636 -0.137472,0.44723 z"
          sodipodi:nodetypes="ccccccc"
@@ -6783,7 +6789,7 @@
      id="layer3"
      inkscape:label="Layer 3"
      style="display:inline"
-     transform="translate(-58.951867,-262.77971)">
+     transform="translate(-58.653687,-262.42484)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
