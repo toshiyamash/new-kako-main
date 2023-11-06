@@ -133,6 +133,9 @@ th,td {
 .textCenter{
   text-align: center;
 }
+.textRight{
+  text-align: right; 
+}
 .space{
   padding-left: 1rem;         /* 1文字空白 */
 }
