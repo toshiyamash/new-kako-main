@@ -304,13 +304,17 @@ img.inq25 {            /* 問題選択肢内画像2022-100*/
   height: 30px;
 }
 
+.varSize40{
+  padding: 0px 3px;
+  width: auto;
+  vertical-align: middle;
+  height: 40px;
+}
+
 .flex{             /*要素（表など）横並び*/
   display: flex;
   padding: 15px;
 }
-
-
-
 
 /* 画像キャプション */
 .imgcap {
