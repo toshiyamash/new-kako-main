@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ビル管理士試験</title>
+    <link rel="stylesheet" href="../../style.css">
+</head>
+<body>
+    <div class="tab">
+        <!-- コンテンツを構成するブロック -->
+        <div class="tab-contents-wrap">
+            <div class="tab-contents is-contents-active">
+                <p>2021年</p>
+                <p><span class="bold">問題50</span><span class="space">空気の流動に関する次の記述のうち，<span class="bold">最も不適当な</span>ものはどれか．</p>
+                <p><span class="bold">（1）</span>天井面に沿った冷房による吹出し噴流は，速度が小さいと途中で剥離して降下することがある．
+                <p><span class="bold">（2）</span>コールドドラフトは，冷たい壁付近などで生じる下降冷気流である．
+                <p><span class="bold">（3）</span>自由噴流の第3域では，中心軸速度が吹出し口からの距離に反比例して減衰する．
+                <p><span class="bold">（4）</span>吹出しの影響は遠方まで及ぶのに対し，吸込みの影響は吸込み口付近に限定される．
+                <p><span class="bold">（5）</span>通常の窓の流量係数は，約1.0である．        
+            </div>
+
+            <div class="tab-contents">
+                <p>2021年</p>
+                <p class="bold">問題50<span class="space">正解（5）</span><span class="space">頻出度AAA</span></p>
+                <p>流量係数は，通常の窓で0.6～0.7程度となる（理想的なベルマウス（<span class="bold">2021-50-1図</span>）などの場合に≒1で，1を超えることはない）．
+                <div class="imgcap">2021-50-1図<span class="space">ベルマウス</span></div>
+                <div class="textCenter">
+                    <img src="../../images/images_3/2021-50-1ベルマウス.svg" alt="ベルマウス">
+                </div>
+                <p class="imgcr">出典<span class="space">モノタロウ（メーカー：古河電気工業）</span><br>
+                    https://www.monotaro.com/g/04630739/#
+                <p>開口部前後の圧力差（換気力）を<img class="varSize15" src="../../eqf/capP.svg" alt="数式">［Pa］とすると，開口部を通過する風量<img class="varSize18" src="../../eqf/capQ.svg" alt="数式">［m<sup>3</sup>/s］は一般的に次式で求めることができる（<img class="varSize17" src="../../eqf/grerho.svg" alt="数式">は空気密度［kg/m<sup>3</sup>］）.
+                <div class="textCenter">
+                  <img style="height: 4rem" src="../../eqf/Q_Kankiryoku-Kankiryou=.svg" alt="数式">            
+              </div>
+              <p>流量係数<img class="varSize13" src="../../eqf/grealpha.svg" alt="数式">とは，オリフィスや弁などの実流量/理論流量の比のことで，流入口から流出口までの全ての抵抗を考慮した係数である．外部風に対する窓などの場合は，開口面積<img class="varSize16" src="../../eqf/capA.svg" alt="数式">［m<sup>2</sup>］に対して，<img class="varSize16" src="../../eqf/alphaA.svg" alt="数式">を有効開口面積ということもできる．
+                <p><span class="bold">-(3) </span>吹出し口からの自由噴流は，<span class="bold">2021-50-2図</span>に示すように周囲の空気を巻き込んで拡がりながら減速していく．
+                <div class="imgcap">2021-50-2<span class="space">自由噴流</span></div>
+                <div class="textCenter">
+                    <img src="../../images/images_3/2021-50-2自由噴流.svg" alt="自由噴流">
+                </div>
+                <p>噴流の中心軸速度の減衰傾向により，吹出し口からの距離<img class="varSize15" src="../../eqf/x.svg" alt="数式">に対して4つの領域に区分して表される（<span class="bold">2021-51-1表</span>）．                
+                <table>
+                    <tbody>
+                        <caption class="bold">2021-51-1表<span class="space">自由噴流の4領域</span></caption>
+                        <tr>
+                            <td>第1域</td>
+                            <td><img class="varSize15" src="../../eqf/V1=V0.svg" alt="数式"></td>
+                            <td>吹出し速度<img class="varSize15" src="../../eqf/V-0.svg" alt="数式">が維持される領域</td>
+                        </tr>
+                        <tr>
+                            <td>第2域</td>
+                            <td><img class="varSize16" src="../../eqf/V2=1sqrtx.svg" alt="数式"></td>
+                            <td>距離の平方根に反比例</td>
+                        </tr>
+                        <tr>
+                            <td>第3域</td>
+                            <td><img class="varSize15" src="../../eqf/V3=1slashx.svg" alt="数式"></td>
+                            <td>距離に反比例</td>
+                        </tr>
+                        <tr>
+                            <td>第4域</td>
+                            <td><img class="varSize15" src="../../eqf/V4=lt0.25.svg" alt="数式"></td>
+                            <td>減速が進んで静穏気流と区別できなくなる領域</td>
+                        </tr>
+                    </tbody>
+                </table>        
+                <p>自由噴流は，吹き出した位置の近くに吹き出し方向と平行な天井や壁などがあると，到達距離が長くなる（その極端な場合がダクトである）．
+                <p>中心軸速度が一定速度まで低下する距離を到達距離と呼ぶ．ドラフト防止の観点から，到達距離や拡散半径を定義する風速として0.25m/sを用いることが多い
+                <p><span class="bold">-(4) </span>吸込み気流には吹出し気流のような指向性がなく，吸込み口全面から均一に吸い込む一様流となる．又，吸込み口に近い領域を除き，点状の吸込み（点源吸込み）とみなせるので，吸込み気流速度は吸込み口からの距離の2乗に反比例して急速に減衰．したがって吹出しに比べて吸込み気流の周囲への影響は吸込み口付近に限定される．
+            </div>              
+        </div>
+        <!-- タブを構成するブロック -->
+        <div class="tab-list">
+          <button class="tab-list-item is-btn-active">問題</button>
+          <button class="tab-list-item">解答</button>
+        </div>   
+        <div class="inner">
+            <button type="button" onclick="location.href='2021-51.html'">次問へ</button>
+            <button type="button" onclick="location.href='2021-49.html'">前問へ</button>
+            <button type="button" onclick="location.href='../../index.html'">目次へ</button>
+        </div>
+    </div>
+      <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>  -->
+      <!-- <script src="jQadd.js"></script>     -->
+      <script src="../../index.js"></script>
+</body>
+</html>
