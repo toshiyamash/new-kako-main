@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ビル管理士試験</title>
+    <link rel="stylesheet" href="../../style.css">
+</head>
+<body>
+    <div class="tab">
+        <!-- コンテンツを構成するブロック -->
+        <div class="tab-contents-wrap">
+            <div class="tab-contents is-contents-active">
+                <p>2021年</p>
+                <p><span class="bold">問題57</span><span class="space">浮遊粒子の次のア～エの動力学的性質のうち，粒径が大きくなると数値が大きくなるものの組合せとして，<span class="bold">最も適当な</span>ものはどれか．</p>
+                <p >ア 終末沈降速度
+                <p >イ 拡散係数
+                <p >ウ 気流に平行な垂直面への沈着速度
+                <p >エ 粒子が気体から受ける抵抗力
+                <p><span class="bold">（1）</span>アとイ
+                <p><span class="bold">（2）</span>アとウ
+                <p><span class="bold">（3）</span>アとエ
+                <p><span class="bold">（4）</span>イとエ
+                <p><span class="bold">（5）</span>ウとエ     
+            </div>
+
+            <div class="tab-contents">
+                <p>2021年</p>
+                <p class="bold">問題57<span class="space">正解（3）</span><span class="space">頻出度AAA</span></p>
+                <p>アの終末沈降速度とエの粒子が気体から受ける抵抗力が，粒径が大きくなると数値が大きくなる．
+                <p>浮遊粒子は，様々な力が作用して，空気中を運動する．浮遊粒子の運動と粒径の関係等を<span class="bold">2021-57-1表</span>にまとめた．                
+                <table>
+                    <tbody>
+                      <caption class="bold">2021-57-1表<span class="space">浮遊粒子の運動</span></caption>
+                      <tr>
+                        <td>粒子が気体から受ける流体抵抗力</td>
+                        <td>流体抵抗力はレイノルズ数（<img class="varSize15" src="../../eqf/Re.svg" alt="数式">数）<sup>※</sup>によっても異なる．</td>
+                        <td>粒子の投影面積，流体密度に比例，相対速度の2乗に比例</td>
+                      </tr>
+                      <tr>
+                        <td nowrap>重力による<br>
+                            終末沈降速度</td>
+                        <td>球形粒子に流体抵抗力と重力が作用する場合，定常状態では，最終的に一定速度で沈降するようになるこの速度を終末沈降速度という．</td>
+                        <td>粒径の2乗に比例</td>
+                      </tr>
+                      <tr>
+                        <td>静電界中の移動速度，電気移動度</td>
+                        <td>水平方向に電界がかけられた空間で，球形粒子が電荷を持っていると，水平方向にクーロン力が働き移動する．定常状態ではクーロン力と流体抵抗とが釣り合い，一定の移動速度となる．<br>
+                        移動速度を電界強度で除したものを電気移動度といい，電界中の粒子の移動しやすさを表す．</td>
+                        <td>粒径に反比例</td>
+                      </tr>
+                      <tr>
+                        <td>拡散係数</td>
+                        <td rowspan="2">空気分子のブラウン運動により，粒子は拡散に関するフィックの法則に従い流体中に拡散していく．フィックの法則に用いられる粒子の拡散係数は粒径に反比例し，結果として，拡散の速度は粒径に反比例するすなわち，小さな粒子はブラウン運動による移動量が大きい．</td>
+                        <td>粒径に反比例</td>
+                      </tr>
+                      <tr>
+                        <td>ブラウン運動による移動量</td>
+                        <td>粒径が小さいほど大きくなる．</td>
+                      </tr>
+                      <tr>
+                        <td>流れに平行な平面への沈着速度</td>
+                        <td>浮遊粒子の単位時間当たりの沈着量を気中濃度で除した値を沈着速度という．拡散により小粒径の粒子の沈着速度が大きい．</td>
+                        <td>粒径が小さいほど沈着速度は大きくなる．</td>
+                      </tr>
+                      <tr>
+                        <td>流れに垂直な平面への沈着速度</td>
+                        <td>流れに垂直な面は，重力と慣性力により大粒径の粒子，拡散により小粒径の粒子の沈着速度が大きい．</td>
+                        <td>どちらともいえない．</td>
+                      </tr>
+                    </tbody>
+                </table>        
+                <p>※ レイノルズ数（<img class="varSize15" src="../../eqf/Re.svg" alt="数式">数）は，流体に働く粘性力と慣性力の比（慣性力/粘性力）を表す無次元数で，粘性が勝って<img class="varSize15" src="../../eqf/Re.svg" alt="数式">数が小さいと流れは静かな層流となり，抵抗力（抵抗係数）は流速に比例する．慣性力（流速）が勝って<img class="varSize15" src="../../eqf/Re.svg" alt="数式">数が大きいと流れは乱流となり，抵抗力は流速の2乗に比例するようになる．現実の流れは乱流であることが多い．  
+            </div>              
+        </div>
+        <!-- タブを構成するブロック -->
+        <div class="tab-list">
+          <button class="tab-list-item is-btn-active">問題</button>
+          <button class="tab-list-item">解答</button>
+        </div>   
+        <div class="inner">
+            <button type="button" onclick="location.href='2021-58.html'">次問へ</button>
+            <button type="button" onclick="location.href='2021-56.html'">前問へ</button>
+            <button type="button" onclick="location.href='../../index.html'">目次へ</button>
+        </div>
+    </div>
+      <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>  -->
+      <!-- <script src="jQadd.js"></script>     -->
+      <script src="../../index.js"></script>
+</body>
+</html>
