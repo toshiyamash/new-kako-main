@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ビル管理士試験</title>
+    <link rel="stylesheet" href="../../style.css">
+</head>
+<body>
+    <div class="tab">
+        <!-- コンテンツを構成するブロック -->
+        <div class="tab-contents-wrap">
+            <div class="tab-contents is-contents-active">
+                <p>2021年</p>
+                <p><span class="bold">問題99</span><span class="space">電気及び電気設備に関する次の記述のうち，<span class="bold">最も不適当な</span>ものはどれか．</span></p>
+                <p><span class="bold">（1）</span>同一定格の電力では，同一電流値であれば交流のピーク電圧値は，直流に比べて高い．
+                <p><span class="bold">（2）</span>建築設備に電力を送るケーブルの許容電流値は，配線用遮断器の定格電流値より小さくする．
+                <p><span class="bold">（3）</span>電動機の起動時に過電流が流れて異常を起こさないために，スターデルタ起動方式が用いられる．
+                <p><span class="bold">（4）</span>電力は，電圧と電流の積に比例する．
+                <p><span class="bold">（5）</span>地域マイクログリッドとは，自然エネルギー発電を組み合わせ，地域の電力需要を満足する電カシステムである．
+            </div>
+
+            <div class="tab-contents">
+                <p>2021年</p>
+                <p class="bold">問題99<span class="space">正解（2）<span class="space">頻出度AAA</span></p>
+                <p>ケーブルの許容電流＜配線用遮断器の定格電流にすると，極端な話，過電流でケーブルが過熱，燃えても，遮断器がトリップしなくなる．
+                <p>経産省「電気設備の技術基準の解釈」に，当該低圧幹線を保護する渦電流遮断器（≒配線用遮断器）は，その定格電流が，当該低圧幹線の許容電流以下のものであること等の規定が事細かに定められている．
+                <p><span class="bold">-(1) </span>AC100Vのピーク値は約144Vである（=100×<img class="varSize20" src="../../eqf/sqrt2.svg" alt="数式">，100Vは実効値を示す）．
+                <p><span class="bold">-(3) </span>三相誘導電動機は丈夫で扱いやすいので，空調，給排水，エレベータ等の動力として建築物に広く導入されているが，その欠点の一つが始動電流が大きいことである．定格電流の何倍もの電流が流れ，電動機自体へのストレスになると同時に配線の電圧降下を引き起こして周囲の電気機器に悪影響を与える．
+                <p>誘導電動機のスターデルタ（Y-Δ）起動では，デルタ接続の固定子巻線を始動時だけスター結線として，線間電圧を1∕<img class="varSize20" src="../../eqf/sqrt3.svg" alt="数式">，始動電流を1/3に抑える始動法である（<span class="bold">2021-99-1図</span>参照）．
+                <p>回転が定格速度付近まで加速したらデルタ結線に切り替える．
+                <div class="imgcap">2021-99-1図<span class="space">三相誘導電動機のスターデルタ起動</span></div>
+                <div class="textCenter">
+                    <img src="../../images/images_4/2021-99-1三相誘導電動機のスターデルタ起動.svg" alt="三相誘導電動機のスターデルタ起動">
+                </div>
+                <p><span class="bold">-(4) </span>電力<img class="varSize15" src="../../eqf/capP.svg" alt="数式">［W］は次式で表される．
+                <div class="textCenter">
+                  <img style="height: 1.2rem" src="../../eqf/P_Denryoku=VI-cos-phi.svg" alt="数式">            
+                </div>
+                <p>ただし，<img class="varSize15" src="../../eqf/capV.svg" alt="数式">：電圧［V］，<img class="varSize15" src="../../eqf/capI.svg" alt="数式">：電流［A］，<img class="varSize20" src="../../eqf/cos-phi_Rikiritu.svg" alt="数式">：力率．
+                <p><span class="bold">-(5) </span>経産省の補助金が出る地域マイクログリッド構築事業の条件では，太陽光発電，風力発電，バイオマス発電，水力発電，地熱発電のいずれかの設備をもつ事業とされている．
+            </div>              
+        </div>
+        <!-- タブを構成するブロック -->
+        <div class="tab-list">
+          <button class="tab-list-item is-btn-active">問題</button>
+          <button class="tab-list-item">解答</button>
+        </div>   
+        <div class="inner">
+            <button type="button" onclick="location.href='2021-100.html'">次問へ</button>
+            <button type="button" onclick="location.href='2021-98.html'">前問へ</button>
+            <button type="button" onclick="location.href='../../index.html'">目次へ</button>
+        </div>
+    </div>
+      <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>  -->
+      <!-- <script src="jQadd.js"></script>     -->
+      <script src="../../index.js"></script>
+</body>
+</html>
