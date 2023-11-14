@@ -15,3 +15,5 @@ E&=E_0\times \left(\frac{b}{a}\right)^2 \notag\\[5pt]
 &=450\times9 \notag\\[10pt]
 &=4050{\rm lx} \notag
 \end{align}
+
+2021-106　表内（td内）の数式svg（線膨張係数）の高さ（3rem以上にすると余白が大きくなるだけ）．・・・vscodeのプレビューだけの模様（B-altでChromeで見るとstyle="height: 2.2rem;"効いている）．
