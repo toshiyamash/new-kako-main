@@ -7,7 +7,7 @@
    viewBox="0 0 95.42424 76.062576"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
    sodipodi:docname="2020-47-2熱橋.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,18 +24,20 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1.7684263"
-     inkscape:cx="93.303295"
-     inkscape:cy="164.83582"
+     inkscape:zoom="1.2504662"
+     inkscape:cx="-137.14885"
+     inkscape:cy="132.35064"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="968"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3"
      inkscape:snap-global="false"
      inkscape:snap-grids="false"
-     inkscape:snap-to-guides="false">
+     inkscape:snap-to-guides="false"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid861"
@@ -368,6 +370,17 @@
          style="opacity:0.586124;fill:#000000;stroke:none;stroke-width:0.3;stroke-linecap:square"
          d="m -52.295693,162.68713 v 0.99167 h -17.640781 v 1.63401 h 17.640781 v 0.90537 l 3.0577,-1.76527 z" />
     </g>
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.4;stroke-dasharray:0.8, 0.8;stroke-dashoffset:0"
+       id="path1039"
+       cx="96.600471"
+       cy="164.44057"
+       r="6.4191909" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 106.96692,169.99627 -4.13051,-3.24056"
+       id="path1542"
+       sodipodi:nodetypes="cc" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -546,7 +559,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="opacity:1;fill:#4d4d4d;stroke:#000000;stroke-width:0.1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 84.777328,142.81608 5.14137,21.76057"
+       d="m 84.777328,142.81608 3.905876,21.78541"
        id="path43332"
        sodipodi:nodetypes="cc" />
     <text
@@ -986,5 +999,16 @@
          d="m 41.894371,109.70824 h 7.828747 v 21.58195 h -7.828747 z"
          sodipodi:nodetypes="ccccc" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;word-spacing:0px;fill:#ff0000;stroke-width:0.264583"
+       x="107.71822"
+       y="171.82617"
+       id="text1477"><tspan
+         sodipodi:role="line"
+         id="tspan1475"
+         style="fill:#ff0000;stroke-width:0.264583"
+         x="107.71822"
+         y="171.82617">結露するリスクが高い</tspan></text>
   </g>
 </svg>
