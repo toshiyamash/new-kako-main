@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ビル管理士試験</title>
+    <link rel="stylesheet" href="../../style.css">
+</head>
+<body>
+    <div class="tab">
+        <!-- コンテンツを構成するブロック -->
+        <div class="tab-contents-wrap">
+            <div class="tab-contents is-contents-active">
+                <p>2020年</p>
+                <p><span class="bold">問題119</span><span class="space">給湯設備に関する次の記述のうち，<span class="bold">最も不適当な</span>ものはどれか．</span></p>
+                <p><span class="bold">（1）</span>強制循環方式において湯を均等に循環させるため，リバースリターン方式とする．
+                <p><span class="bold">（2）</span>密閉式膨張水槽を設ける場合は，逃し弁を設ける．
+                <p><span class="bold">（3）</span>給湯循環ポンプの循環流量は，循環配管系などからの熱損失及び加熱装置における給湯温度と返湯温度の温度差より算定する．
+                <p><span class="bold">（4）</span>加熱装置から逃し管（膨張管）を立ち上げる場合は，補給水槽の水面よりも高く立ち上げる．
+                <p><span class="bold">（5）</span>給湯循環ポンプは，背圧に耐えることのできるものを選定する．
+            </div>
+
+            <div class="tab-contents">
+                <p>2020年</p>
+                <p class="bold">問題119<span class="space">正解（1）<span class="space">頻出度AAA</span></p>
+                <p>空調設備の冷温水配管で，循環量の均一化のためよく採用されるリバースリターン方式（どの系統も往き管と返り管の合計の長さが等しくなる．<span class="bold">2020-119-1図</span>参照）は，給湯配管では最遠端の負荷端末に湯が最もよく循環する傾向になるので不適当である．普通ダイレクトリターンとする．
+                <div class="imgcap">2020-119-1図<span class="space">リバースリターン，ダイレクトリターン</span></div>
+                <div class="textCenter">
+                    <img src="../../images/images_5/2020-119-1リバースリターン，ダイレクトリターン.svg" alt="リバースリターン，ダイレクトリターン">
+                </div>
+                <p class="imgcr">出典<span class="space">公益社団法人日本冷凍空調学会</span><br>
+                    https://www.jsrae.or.jp/annai/yougo/34.html を基に作成
+                <p>これは最速端の負荷端末までの管路では径が太く配管抵抗の少ない給湯管が長く，径が約半分の，配管抵抗の多い返湯管が短いからである．したがって，湯を均等に循環させるためには返湯管に設けられている弁により開度調節を行う，あるいは各枝管に定流量弁を設置する等の方法によって行う．
+                <p><span class="bold">-(2) </span>密閉式膨張水槽は労働安全衛生法に基づく安全装置に該当しないので，密閉式膨張水槽を設ける場合には，逃し弁も設けなければならないが，常時湯が逃し弁から吹出すのを避けるために，逃し弁の圧力設定値を膨張水槽にかかる給水圧力よりも高く設定する（ただし，逃し弁の圧力設定値は最高使用圧力の110％を超えてはならない）．
+                <p><span class="bold">-(3) </span>給湯循環ポンプの循環水量は次式で求めることができる．
+                <div class="textCenter">
+                  <img  style="height: 1.2rem" src="../../eqf/Q_Kyutou-JyunkanRyou=.svg" alt="数式">            
+                </div>
+                <p>ただし，
+                <p><img class="varSize17 " src="../../eqf/capQ.svg" alt="数式">：循環流量［L/min］
+                <p><img class="varSize15 " src="../../eqf/HL.svg" alt="数式">：循環配管からの熱損失［W］
+                <p><img class="varSize15 " src="../../eqf/varDeltat.svg" alt="数式">：加熱装置における給湯温度と返湯温度との差［℃］
+                <p><span class="bold">-(4) </span>比重がわずかに軽い逃し管の湯と，わずかに重い補給水管の水を重量的にバランスさせ，逃し管から湯が流れ出ないようにするために，逃し管は補給水槽の水面より高く立ち上げる（<span class="bold">2020-119-2図</span>参照）．
+                <div class="imgcap">2020-119-2図<span class="space">逃し管の立上げ高さ</span></div>
+                <div class="textCenter">
+                    <img src="../../images/images_5/2022-120-2逃し管の立上げ高さ.svg" alt="逃し管の立上げ高さ">
+                </div>
+                <p>立上げ高さは次式によって求めることができる．
+                <div class="textCenter">
+                  <img style="height: 2.7rem" src="../../eqf/h_Nigashikan-TatiageTakasa=.svg" alt="数式">            
+                </div>
+                <p>ただし，<img class="varSize15 " src="../../eqf/h.svg" alt="数式">：逃し管の補給水槽の水面から立上げ高さ［m］，<img class="varSize15 " src="../../eqf/rhoc.svg" alt="数式">：水の密度［kg/m<sup>3</sup>］，<img class="varSize15 " src="../../eqf/rhoh.svg" alt="数式">：湯の密度［kg/m<sup>3</sup>］，<img class="varSize15" src="../../eqf/capH.svg" alt="数式">：補給水槽水面からから加熱装置の最低部までの高さ［m］．
+                <p><span class="bold">-(5) </span>背圧とは，ポンプの吸い込み側にかかる圧力のこと．給湯循環ポンプは循環系等で位置的に一番低い，例えば地下階など背圧が一番大きい場所に設置されることが多い．
+           </div>             
+        </div>
+        <!-- タブを構成するブロック -->
+        <div class="tab-list">
+          <button class="tab-list-item is-btn-active">問題</button>
+          <button class="tab-list-item">解答</button>
+        </div>   
+        <div class="inner">
+            <button type="button" onclick="location.href='2020-120.html'">次問へ</button>
+            <button type="button" onclick="location.href='2020-118.html'">前問へ</button>
+            <button type="button" onclick="location.href='../../index.html'">目次へ</button>
+        </div>
+    </div>
+      <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>  -->
+      <!-- <script src="jQadd.js"></script>     -->
+      <script src="../../index.js"></script>
+</body>
+</html>
