@@ -127,6 +127,10 @@ th,td {
   /* vertical-align:middle; */
   writing-mode: vertical-lr;  
 }
+tr>*:empty{       /* tableの空白のセルに斜線↗（to left top）をひく https://csshtml.work/table-shasen/ */
+  background-image: linear-gradient(to left top, transparent calc(50% - 0.5px), #999 50%, #999 calc(50% + 0.5px), transparent calc(50% + 1px)) !important;
+}
+
 .bold{
   font-weight: bold;           /* 太字 */
 }
