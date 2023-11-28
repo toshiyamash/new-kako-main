@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ビル管理士試験</title>
+    <link rel="stylesheet" href="../../style.css">
+</head>
+<body>
+    <div class="tab">
+        <!-- コンテンツを構成するブロック -->
+        <div class="tab-contents-wrap">
+            <div class="tab-contents is-contents-active">
+                <p>2019年</p>
+                <p><span class="bold">問題50</span><span class="space">流体力学に関する次の記述のうち，<span class="bold">最も不適当な</span>ものはどれか．
+                    <p><span class="bold">（1）</span>円形ダクトの圧力損失は，ダクト長さに比例し，ダクト直径に反比例する．
+                    <p><span class="bold">（2）</span>動圧は，速度の2乗と流体の密度に比例する．
+                    <p><span class="bold">（3）</span>開口部の通過流量は，開口部の面積と流量係数に比例し，圧力差の平方根に比例する．
+                    <p><span class="bold">（4）</span>位置圧は，高さの2乗に比例する．
+                    <p><span class="bold">（5）</span>ダクトの形状変化に伴う圧力損失は，風速の2乗と形状抵抗係数に比例する．
+            </div>
+
+            <div class="tab-contents">
+                <p>2019年</p>
+                <p class="bold">問題50<span class="space">正解（4）<span class="space">頻出度AAA</span></p>
+                <p>ベルヌーイの定理で位置圧は<img class="varSize18 " src="../../eqf/rho-g-h_Ichi-Atu.svg" alt="数式">と表され，高さ<img class="varSize15" src="../../eqf/h.svg" alt="数式">に比例する（<img class="varSize15" src="../../eqf/grerho.svg" alt="数式">は流体の密度，<img class="varSize15" src="../../eqf/romg.svg" alt="数式">は重力加速度）．
+                <p>ベルヌーイの定理によれば，摩擦のない理想的な流体では，単位時間にある断面を通過する流体の持つエネルギーは，運動エネルギー，圧力のエネルギー，外力によるエネルギー（位置エネルギー）の合計となり，ダクトのどの断面をとってもその値は一定となる．すなわち，
+                <div class="textCenter">
+                    <img style="height: 2.8rem" src="../../eqf/Berunuui-Energy.svg" alt="数式">            
+                </div>
+                <p>ただし，<img class="varSize12" src="../../eqf/m.svg" alt="数式">：質量［kg］，<img class="varSize15" src="../../eqf/capU.svg" alt="数式">：流速［m/s］，<img class="varSize15" src="../../eqf/capP.svg" alt="数式">：圧力［Pa］．
+                <p>体積を<img class="varSize15 " src="../../eqf/capV.svg" alt="数式">［m<sup>3</sup>］とすれば，
+                <p><img class="varSize18 " src="../../eqf/m=V-malti-rho.svg" alt="数式">であるから，この式を<img class="varSize15" src="../../eqf/capV.svg" alt="数式">で除した，
+                <div class="textCenter">
+                    <img style="height: 2.8rem" src="../../eqf/Berunuui-Aturyoku.svg" alt="数式">            
+                </div>
+                <p>も成り立つ．この式の各項は圧力［Pa］の次元をもち，第1項を動圧，第2項を静圧，第3項を位置圧，<img class="varSize15" src="../../eqf/capH.svg" alt="数式">を全圧と呼ぶ．
+                気体では位置圧は無視してよいほど小さいので，
+                <div class="textCenter">
+                    <img style="height: 2.8rem" src="../../eqf/Berunuui-Aturyoku-Kitai.svg" alt="数式">            
+                </div>
+                <p>すなわち，動圧＋静圧＝全圧としてよい．この式は，流体の速度が小さくなれば静圧が大きくなり，速度が速くなれば静圧が小さくなる，すなわち動圧と静圧は交互に変換することを示している．
+                <p>なお，ここでいう圧力とは絶対圧力である．圧力計(ゲージ)で測った圧力をゲージ圧といい，絶対圧力＝ゲージ圧＋大気圧である．
+                <p><span class="bold">-(1) </span>，<span class="bold">-(5) </span>実際の流れでは，摩擦や流れの渦運動によって生じる損失等により，全圧は流れの下流方向に単調に低下する．この全圧低下を圧力損失と呼ぶ．
+                <p>直線の丸ダクトなどに生じる圧力損失<img class="varSize18 " src="../../eqf/VarDeltap.svg" alt="数式">［Pa］は，流体の速度を<img class="varSize14" src="../../eqf/v.svg" alt="数式">［m/s］，ダクトの有効径を<img class="varSize14" src="../../eqf/capD.svg" alt="数式">［m］，長さを<img class="varSize14" src="../../eqf/capL.svg" alt="数式">［m］，流体の密度を<img class="varSize15" src="../../eqf/grerho.svg" alt="数式">［kg/m<sup>3</sup>］とすると，次式で表される．
+                <div class="textCenter">
+                    <img style="height: 2.6rem" src="../../eqf/deltap_AturyokuSonsituTyokusen=.svg" alt="数式">            
+                </div>
+                <p><img class="varSize15" src="../../eqf/grelambda.svg" alt="数式">（ラムダ）は摩擦抵抗係数と呼ばれ，ダクト表面の粗度のほか，ダクト内流体のレイノルズ数（<img class="varSize15" src="../../eqf/Re.svg" alt="数式">数）によって変化する．
+                <p>ダクトの「形状変化に伴う圧力損失」は次式で表される．<img class="varSize17 " src="../../eqf/grexi.svg" alt="数式">
+                    (クサイ)は形状抵抗係数と呼ばれ，さまざまな形状変化に対する経験値が知られている.
+                <div class="textCenter">
+                    <img style="height: 2.6rem" src="../../eqf/deltap_AturyokuSonsituKeijyo=.svg" alt="数式">            
+                </div>
+                <p>いずれの圧力損失も流速の2乗に比例する（動圧<img class="varSize40" src="../../eqf/douatu.svg" alt="数式">に比例するといってもよい）．
+                <p><span class="bold">-(3) </span>開口部の通過流量 ～「換気力」と「換気量」について
+                <p>換気力<img class="varSize15" src="../../eqf/capP.svg" alt="数式">とは，開口部前後の空気の圧力差である．この圧力差は，風圧（移動する空気の動圧）だけではなく，温度差（空気の密度の差）によっても，もたらされる．
+                <p>外部風による換気力<img class="varSize17 " src="../../eqf/Pw.svg" alt="数式">［Pa］は，次式によって与えられる．
+                    <div class="textCenter">
+                        <img style="height: 2.2rem" src="../../eqf/Pw_KazeKankiryoku=.svg" alt="数式">            
+                    </div>
+                <p>ただし<img class="varSize15" src="../../eqf/capV.svg" alt="数式">：風速［m/s］，<img class="varSize17 " src="../../eqf/C1.svg" alt="数式">，<img class="varSize17 " src="../../eqf/C2.svg" alt="数式">：建物の風上，風下の風圧係数，<img class="varSize15 " src="../../eqf/grerho.svg" alt="数式">：空気の密度［kg/m<sup>3</sup>］．
+                <p>風圧係数は実験的に求めるが，<span class="bold">2019-50-1図</span>のとおり風の向きで正負の値をとる．
+                <div class="imgcap">2019-50-1図<span class="space">風圧係数</span></div>
+                <div class="textCenter">
+                    <img src="../../images/images_3/2022-50-1風圧係数.svg" alt="風圧係数">
+                </div>
+                <p>温度差による換気力<img class="varSize17 " src="../../eqf/Pt.svg" alt="数式">は次式で表される．
+                <div class="textCenter">
+                    <img style="height: 1.4rem" src="../../eqf/Pt_OndosaKankiryoku=.svg" alt="数式">            
+                </div>
+                <p>ただし，<img class="varSize16" src="../../eqf/h.svg" alt="数式">：開口部間の高さの差［m］，<img class="varSize17" src="../../eqf/rhoi.svg" alt="数式">，<img class="varSize17" src="../../eqf/rhoo.svg" alt="数式">：その時の温度・高さによる内外空気の密度［kg/m<sup>3</sup>］，<img class="varSize15" src="../../eqf/romg.svg" alt="数式">：重力加速度（9.8m/s<sup>2</sup>）．
+                <p>換気量<img class="varSize17 " src="../../eqf/capQ.svg" alt="数式">［m<sup>3</sup>/s］はこれらの換気力を次式に代入して求めることができる．
+                <div class="textCenter">
+                    <img style="height: 3.5rem" src="../../eqf/Q_Kankiryoku-Kankiryou=.svg" alt="数式">            
+                </div>
+                <p>ただし，<img class="varSize12" src="../../eqf/grealpha.svg" alt="数式">：流量係数，<img class="varSize15" src="../../eqf/capA.svg" alt="数式">：開口面積［m<sup>2</sup>］，<img class="varSize15" src="../../eqf/grerho.svg" alt="数式">：換気空気の密度［kg/m<sup>3</sup>］．
+                <p>風力による換気量なら，
+                <div class="textCenter">
+                    <img style="height: 10rem" src="../../eqf/Q_Huryoku-Kankiryou=.svg" alt="数式">            
+                </div>
+                <p>この式から，風力による換気量は，風速，開口面積に比例し，風圧係数の差の平方根に比例することが分かる．
+                <p><span class="bold">2019-50-1表</span>に自然換気の換気力と風量についてまとめた．                
+                <table>
+                    <caption class="bold">2019-50-1表<span class="space">自然換気の換気力と風量</span></caption><tr>
+                    <td></td>
+                    <td class="textCenter">換気力<img class="varSize15" src="../../eqf/capP.svg" alt="数式"><span class="space"></span>［Pa］</td>
+                    <td class="textCenter">風量<img class="varSize17 " src="../../eqf/capQ.svg" alt="数式"><span class="space"></span>［m<sup>3</sup>/s］</td>
+                        </tr>
+                    <tr>
+                        <td>風力換気</td>
+                        <td><ul>
+                            <li>開口部前後の圧力差に比例</li>
+                            <li>風速の2乗に比例</li>
+                            <li>風上，風下の風圧係数の差に比例</li>
+                        </ul></td>
+                        <td><ul>
+                            <li>開口部前後の圧力差の平方根に比例</li>
+                            <li>風速に比例</li>
+                            <li>風圧係数の差の平方根に比例</li>
+                        </ul></td>
+                    </tr>
+                    <tr>
+                        <td>温度差換気</td>
+                        <td><ul>
+                            <li>室内外の温度の差に比例</li>
+                            <li>給気口と排気口の高低差に比例</li>
+                            <li>室内外の空気の密度の差に比例</li>
+                        </ul></td>
+                        <td><ul>
+                            <li>温度差の平方根に比例</li>
+                            <li>高低差の平方根に比例</li>
+                            <li>密度の差の平方根に比例</li>
+                        </ul></td>
+                    </tr>
+                </table> 
+            </div>             
+        </div>
+        <!-- タブを構成するブロック -->
+        <div class="tab-list">
+          <button class="tab-list-item is-btn-active">問題</button>
+          <button class="tab-list-item">解答</button>
+        </div>   
+        <div class="inner">
+            <button type="button" onclick="location.href='2019-51.html'">次問へ</button>
+            <button type="button" onclick="location.href='2019-49.html'">前問へ</button>
+            <button type="button" onclick="location.href='../../index.html'">目次へ</button>
+        </div>
+    </div>
+      <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>  -->
+      <!-- <script src="jQadd.js"></script>     -->
+      <script src="../../index.js"></script>
+</body>
+</html>
