@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ビル管理士試験</title>
+    <link rel="stylesheet" href="../../style.css">
+</head>
+<body>
+    <div class="tab">
+        <!-- コンテンツを構成するブロック -->
+        <div class="tab-contents-wrap">
+            <div class="tab-contents is-contents-active">
+                <p>2019年</p>
+                <p><span class="bold">問題75</span><span class="space">換気に関する次の記述のうち，<span class="bold">最も不適当な</span>ものはどれか．</p>
+                <p><span class="bold">（1）</span>局所換気は，汚染物質を発生源の近くで捕集するため捕集効率が高く，換気量も比較的少ない．
+                <p><span class="bold">（2）</span>温度差による換気力は，室内外の空気の密度差に比例する．
+                <p><span class="bold">（3）</span>住宅等の居室のシックハウス対策として機械換気設備を用いる場合の必要換気量は，換気回数で0.5回/h以上と規定されている．
+                <p><span class="bold">（4）</span>第2種機械換気方式は，給気口及び排風機により構成される．
+                <p><span class="bold">（5）</span>ハイブリッド換気は，自然換気に機械換気や空調設備を組み合わせたものである．
+            </div>
+
+            <div class="tab-contents">
+                <p>2019年</p>
+                <p class="bold">問題75<span class="space">正解（4）<span class="space">頻出度AAA</span></p>
+                <p>第2種換気は，給気ファンと自然排気口による換気である（<span class="bold">2019-75-1表</span>参照）．                    
+                <table>
+                    <caption class="bold">2019-75-1表<span class="space">機械換気</span></caption>
+                    <tr>
+                        <td class="textCenter">名称</td>
+                        <td class="textCenter">給気</td>
+                        <td class="textCenter">排気</td>
+                        <td class="textCenter" nowrap>室圧</td>
+                        <td class="textCenter" nowrap>目的・特徴</td>
+                        <td class="textCenter">適用</td>
+                    </tr>
+                    <tr>
+                        <td nowrap>第1種<br>機械換気</td>
+                        <td nowrap>ファン</td>
+                        <td nowrap>ファン</td>
+                        <td class="textCenter">正圧又は負圧</td>
+                        <td>確実な換気量の確保</td>
+                        <td>大規模換気・空調装置事務室，ボイラ室，建物内のごみ処理室</td>
+                    </tr>
+                    <tr>
+                        <td>第2種<br>機械換気</td>
+                        <td>ファン</td>
+                        <td>排気口</td>
+                        <td class="textCenter">正圧</td>
+                        <td>汚染空気の流入阻止</td>
+                        <td>小規模空調装置，クリーンルーム，手術室</td>
+                    </tr>
+                    <tr>
+                        <td>第3種<br>機械換気</td>
+                        <td>給気口</td>
+                        <td>ファン</td>
+                        <td class="textCenter">負圧</td>
+                        <td>汚染空気の流出阻止</td>
+                        <td>汚染室（駐車場，工場・作業場，塗装室，ちゅう房）感染症室，トイレ，浴室・シャワールーム，別棟のごみ処理室</td>
+                    </tr>
+                </table>
+                <p><span class="bold">-(2) </span>換気力<img class="varSize15" src="../../eqf/capP.svg" alt="数式">とは，開口部前後の空気の圧力差である．この圧力差は，風圧（移動する空気の動圧）だけではなく，温度差（空気の密度の差）によっても，もたらされる．
+                <p>温度差による換気力<img class="varSize17 " src="../../eqf/Pt.svg" alt="数式">は次式で表される．
+                <div class="textCenter">
+                    <img style="height: 1.3rem" src="../../eqf/Pt_OndosaKankiryoku=.svg" alt="数式">
+                </div>
+                <p>ただし，<img class="varSize17 " src="../../eqf/h.svg" alt="数式">：開口部間の高さの差［m］，<img class="varSize17 " src="../../eqf/rhoi.svg" alt="数式">，<img class="varSize17 " src="../../eqf/rhoo.svg" alt="数式">：その時の温度・高さによる内外空気の密度［kg/m<sup>3</sup>］，<img class="varSize17" src="../../eqf/romg.svg" alt="数式">：重力加速度（9.8m/s<sup>2</sup>）．
+                <p><img class="varSize15 " src="../../eqf/capQ.svg" alt="数式">［m<sup>3</sup>/s］はこれらの換気力を次式に代入して求めることができる．
+                <div class="textCenter">
+                    <img style="height: 3.5rem" src="../../eqf/Q_Kankiryoku-Kankiryou=.svg" alt="数式">
+                </div>
+                <p>ただし，<img class="varSize12" src="../../eqf/grealpha.svg" alt="数式">：流量係数，<img class="varSize15" src="../../eqf/capA.svg" alt="数式">：開口面積［m<sup>2</sup>］，<img class="varSize16 " src="../../eqf/grerho.svg" alt="数式">：換気空気の密度［kg/m<sup>3</sup>］．
+                <p>温度差による換気量なら，
+                <div class="textCenter">
+                    <img style="height: 3.5rem" src="../../eqf/Q_OndoSa-Kankiryou=.svg" alt="数式">
+                </div>
+                <p>この式から，温度差による換気量は，開口面積に比例し，開口部の高低差，空気密度の差の平方根に比例することが分かる（さらに密度は内外の温度差に比例するので内外温度差の平方根にも比例する）．
+                <p><span class="bold">2019-75-2表</span>に自然換気の換気力と風量についてまとめた．                
+                <table>
+                    <caption class="bold">2019-75-2表<span class="space">自然換気の換気力と風量</span></caption>
+                    <tr>
+                    <td></td>
+                    <td class="textCenter">換気力<img class="varSize15" src="../../eqf/capP.svg" alt="数式"><span class="space"></span>［Pa］</td>
+                    <td class="textCenter">風量<img class="varSize17 " src="../../eqf/capQ.svg" alt="数式"><span class="space"></span>［m<sup>3</sup>/s］</td>
+                    </tr>
+                    <tr>
+                        <td>風力換気</td>
+                        <td><ul>
+                            <li>開口部前後の圧力差に比例</li>
+                            <li>風速の2乗に比例</li>
+                            <li>風上，風下の風圧係数の差に比例</li>
+                        </ul></td>
+                        <td><ul>
+                            <li>開口部前後の圧力差の平方根に比例</li>
+                            <li>風速に比例</li>
+                            <li>風圧係数の差の平方根に比例</li>
+                        </ul></td>
+                    </tr>
+                    <tr>
+                        <td nowrap>温度差換気</td>
+                        <td><ul>
+                            <li>室内外の温度の差に比例</li>
+                            <li>給気口と排気口の高低差に比例</li>
+                            <li>室内外の空気の密度の差に比例</li>
+                        </ul></td>
+                        <td><ul>
+                            <li>温度差の平方根に比例</li>
+                            <li>高低差の平方根に比例</li>
+                            <li>密度の差の平方根に比例</li>
+                        </ul></td>
+                    </tr>
+                </table>
+                <p><span class="bold">-(3) </span>住宅のシックハウス対策（ホルムアルデヒド対策）として，住宅の居室の0.5回/h以上の換気が建築基準法施行令第20条の8に定められている．
+                <p><span class="bold">-(5) </span>自然換気＋機械換気をハイブリッド換気，自然換気＋空調設備をハイブリッド空調という場合もある． 
+            </div>             
+        </div>
+        <!-- タブを構成するブロック -->
+        <div class="tab-list">
+          <button class="tab-list-item is-btn-active">問題</button>
+          <button class="tab-list-item">解答</button>
+        </div>   
+        <div class="inner">
+            <button type="button" onclick="location.href='2019-76.html'">次問へ</button>
+            <button type="button" onclick="location.href='2019-74.html'">前問へ</button>
+            <button type="button" onclick="location.href='../../index.html'">目次へ</button>
+        </div>
+    </div>
+      <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>  -->
+      <!-- <script src="jQadd.js"></script>     -->
+      <script src="../../index.js"></script>
+</body>
+</html>
