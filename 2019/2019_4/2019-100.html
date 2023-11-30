@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ビル管理士試験</title>
+    <link rel="stylesheet" href="../../style.css">
+</head>
+<body>
+    <div class="tab">
+        <!-- コンテンツを構成するブロック -->
+        <div class="tab-contents-wrap">
+            <div class="tab-contents is-contents-active">
+                <p>2019年</p>
+                <p><span class="bold">問題100</span><span class="space">電気設備に関する次の記述のうち，<span class="bold">最も不適当な</span>ものはどれか．</p>
+                <p><span class="bold">（1）</span>「非常用の照明装置」は，停電を伴った災害発生時に安全に避難するための設備で，消防法により設置場所・構造が定められている．
+                <p><span class="bold">（2）</span>インバータ制御は，交流電動機の回転速度調整や出力トルク調整が容易で，効率の大幅改善が期待できる．
+                <p><span class="bold">（3）</span>電動機は，起動時に定格を超える電流が流れ異常振動等を起こすことがあるため，スターデルタ起動方式により運転するのが望ましい．
+                <p><span class="bold">（4）</span>契約電力50kW 以上の建築物の場合，高圧（6.6kV）で受電し，自家用変電設備で低圧（200V・100V）に変圧して給電する．
+                <p><span class="bold">（5）</span>地階を除く階数が，11階以上の階に，非常コンセント設備の設置が義務付けられている．
+            </div>
+
+            <div class="tab-contents">
+                <p>2019年</p>
+                <p class="bold">問題100<span class="space">正解（1）<span class="space">頻出度AAA</span></p>
+                <p>非常照明の設置は，消防法→建築基準法が正しい（建築基準法施行令第126条の4，5）．
+                <p><span class="bold">-(2) </span>インバータとは，直流あるいは固定周波数の交流から，任意の周波数，電圧の交流を生み出す装置である．交流電動機の出力トルクは，入力電気の(電圧/周波数)<sup>2</sup>にほぼ比例するので，インバータで容易に制御できる．
+                <p><span class="bold">-(3) </span>三相誘導電動機は丈夫で扱いやすいので，空調，給排水，エレベータ等の動力として建築物に広く導入されているが，その欠点の一つが始動電流が大きいことである．定格電流の何倍もの電流が流れ，電動機自体へのストレスになると同時に配線の電圧降下を引き起こして周囲の電気機器に悪影響を与える．
+                <p>誘導電動機のスターデルタ（Y-Δ）起動では，デルタ接続の固定子巻線を始動時だけスター結線として，線間電圧を<img class="varSize22" src="../../eqf/sqrt3-bun-no-1.svg" alt="数式">，始動電流を1/3に抑える始動法である（<span class="bold">2019-100-1図</span>参照）．
+                <p>回転が定格速度付近まで加速したらデルタ結線に切り替える．
+                <div class="imgcap">2019-100-1図<span class="space">三相誘導電動機のスターデルタ起動</span></div>
+                <div class="textCenter">
+                    <img src="../../images/images_4/2021-99-1三相誘導電動機のスターデルタ起動.svg" alt="三相誘導電動機のスターデルタ起動">
+                </div>
+                <p><span class="bold">-(4) </span>低圧で50kWの電力を送ろうとすると電線サイズはφ100mmを超えてくるので現実的ではなくなってくる．
+                <p>わが国では，電力事業者は<span class="bold">2019-100-1表</span>のような契約区分で電力を供給している．                
+                <table>
+                    <caption class="bold">2019-100-1表<span class="space">電力供給の契約区分</span></caption>
+                    <tbody>
+                        <tr>
+                            <td class="textCenter">契約区分</td>
+                            <td class="textCenter">供給電圧</td>
+                            <td class="textCenter">契約電力</td>
+                        </tr>
+                        <tr>
+                            <td>低圧契約</td>
+                            <td class="textCenter">100V，200V</td>
+                            <td class="textCenter">50kW未満</td>
+                        </tr>
+                        <tr>
+                            <td>高圧契約</td>
+                            <td class="textCenter">6000V</td>
+                            <td class="textCenter">50kW以上2000kW未満</td>
+                        </tr>
+                        <tr>
+                            <td>特別高圧契約</td>
+                            <td class="textCenter">20000V以上</td>
+                            <td class="textCenter">2000kW以上</td>
+                        </tr>
+                    </tbody>
+                </table>        
+                <p><span class="bold">-(5) </span>非常コンセント設備は，消防法施行令によって，地階を除く階数が11以上の建物と延べ面積が1,000m<sup>2</sup>以上の地下街に設置が義務付けられている．消火活動上必要な施設（公設消防隊専用の設備）の一つで，電源，配線，非常コンセント，表示灯等から構成され，階段室，非常用エレベータの乗降ロビーなどに設置されている．非常コンセント設備には非常電源を附置する．      
+            </div>             
+        </div>
+        <!-- タブを構成するブロック -->
+        <div class="tab-list">
+          <button class="tab-list-item is-btn-active">問題</button>
+          <button class="tab-list-item">解答</button>
+        </div>   
+        <div class="inner">
+            <button type="button" onclick="location.href='2019-101.html'">次問へ</button>
+            <button type="button" onclick="location.href='2019-99.html'">前問へ</button>
+            <button type="button" onclick="location.href='../../index.html'">目次へ</button>
+        </div>
+    </div>
+      <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>  -->
+      <!-- <script src="jQadd.js"></script>     -->
+      <script src="../../index.js"></script>
+</body>
+</html>
