@@ -7,7 +7,7 @@
    viewBox="0 0 122.90361 110.89222"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.3.1 (6036e22fae, 2023-11-19, custom)"
    sodipodi:docname="2022-122-1隙間腐食（鋼材の例）.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,23 +25,29 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="1.4823794"
-     inkscape:cx="322.11728"
-     inkscape:cy="182.47691"
+     inkscape:cx="322.45456"
+     inkscape:cy="236.78149"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="968"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3"
      inkscape:snap-global="true"
      inkscape:snap-grids="false"
      inkscape:snap-to-guides="false"
-     inkscape:object-paths="true">
+     inkscape:object-paths="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid861"
        originx="118.75243"
-       originy="-49.897227" />
+       originy="-49.897227"
+       spacingy="1"
+       spacingx="1"
+       units="mm"
+       visible="true" />
   </sodipodi:namedview>
   <defs
      id="defs2">
@@ -619,11 +625,11 @@
          id="tspan47601"
          style="stroke-width:0.264583"
          x="-86.578934"
-         y="137.06227">Fe+H<tspan
-   style="font-size:65%;baseline-shift:sub"
-   id="tspan59428">2</tspan>O+1/2O<tspan
-   style="font-size:65%;baseline-shift:sub"
-   id="tspan62054">2</tspan>→Fe(OH)<tspan
+         y="137.06227">Fe<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan1">2+</tspan>+2OH<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan2">-</tspan>→Fe(OH)<tspan
    style="font-size:65%;baseline-shift:sub"
    id="tspan63548">2</tspan></tspan></text>
     <text
