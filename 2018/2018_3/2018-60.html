@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ビル管理士試験</title>
+    <link rel="stylesheet" href="../../style.css">
+</head>
+<body>
+    <div class="tab">
+        <!-- コンテンツを構成するブロック -->
+        <div class="tab-contents-wrap">
+            <div class="tab-contents is-contents-active">
+                <p>2018年</p>
+                <p><span class="bold">問題60</span><span class="space">湿り空気の状態変化に関する次の記述のうち，<span class="bold">最も不適当な</span>ものはどれか．</p>
+                <p><span class="bold">（1）</span>単純加熱操作では，露点温度は変化しない．
+                <p><span class="bold">（2）</span>単純冷却操作では，相対湿度は上昇する．
+                <p><span class="bold">（3）</span>冷却除湿操作では，絶対湿度は低下する．
+                <p><span class="bold">（4）</span>液体吸収除湿操作では，乾球温度は低下する．
+                <p><span class="bold">（5）</span>水噴霧加湿操作では，露点温度は上昇する．
+            </div>
+
+            <div class="tab-contents">
+                <p>2018年</p>
+                <p class="bold">問題60<span class="space">正解（4）<span class="space">頻出度AAA</span></p>
+                <p>吸収除湿では，吸収熱により温度は上昇する．
+                <p>操作前の状態（点）を適当に定めてA点とし，問題の-(1) ～-(5) の操作による状態変化を湿り空気線図に描いてみた（<span class="bold">2018-60-1図</span>）．青丸が操作後の状態点を示している．
+                <div class="imgcap">2018-60-1図<span class="space">状態点の変化</span></div>
+                <div class="textCenter">
+                    <img style="width: 100%;" src="../../images/images_3/2018-60-1状態変化.svg" alt="状態変化">
+                </div>
+                <p><span class="bold">-(1) </span>A点の露点温度は，およそ17℃である．「単純加熱」操作とは，加湿・除湿を伴わないという意味なので，状態点は乾球温度が大きくなるだけ，すなわち水平に右側に移動するだけである．露点温度は17℃のままである．さらに付け加えると，単純加熱ではグラフの右の縦軸に目盛られた，絶対湿度，水蒸気分圧も変化しない．
+                <p><span class="bold">-(2) </span>単純冷却の時は，今度は状態点は左に水平移動するだけである．A点の相対湿度は47％位だが，左に水平移動しながら，50％，55％，60％，65％と相対湿度線を切っていく．すなわち単純冷却では相対湿度は上昇する．
+                <p><span class="bold">-(3) </span>冷却除湿では，状態点は飽和線上の装置露点温度（冷却コイルの表面温度）に向かって左下がりに移動する．絶対湿度は，およそ0.012kg/kg(DA)から0.10kg/kg(DA)に減少している．状態点はバイパスファクタがあるので決して装置露点温度には達しない．
+                <p><span class="bold">-(4) </span>は吸収液による吸収除湿であるが，<span class="bold">(4)’</span>は吸着剤による吸着除熱を書き加えたものである．
+                <p>同じ除湿量なら，個体吸着剤の吸着熱の方が液体吸収剤の吸収熱より大きい．これは，液体吸収剤での発熱は水の凝縮熱なので，<span class="bold">-(5) </span>の水加湿の逆の過程で，比エンタルピーは一定であるが，個体吸着剤では，固体表面と水蒸気分子間の相互作用によって分子間力が開放されて発生する熱が加わるため，その分温度上昇が大きくなる．
+                <p><span class="bold">-(5) </span>水噴霧加湿操作は，熱水分比<img class="varSize13" src="../../eqf/u.svg" alt="数式">≒0の，ほぼ断熱操作なので，状態点は比エントロピー一定の線に沿って左上に移動する．露点温度は17℃から19.5℃ぐらいに上昇している（すなわち絶対湿度が増えたので，高い温度でも結露するようになる）．
+                <p><span class="underln">この手の問題に，正確かつ迅速に答えるには，頭の中に湿り空気線図を思い描いて，状態点を動かしてみるのがよい（それができるまで湿り空気線図に慣れておく必要がある）</span>．       
+            </div>             
+        </div>
+        <!-- タブを構成するブロック -->
+        <div class="tab-list">
+          <button class="tab-list-item is-btn-active">問題</button>
+          <button class="tab-list-item">解答</button>
+        </div>   
+        <div class="inner">
+            <button type="button" onclick="location.href='2018-61.html'">次問へ</button>
+            <button type="button" onclick="location.href='2018-59.html'">前問へ</button>
+            <button type="button" onclick="location.href='../../index.html'">目次へ</button>
+        </div>
+    </div>
+      <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>  -->
+      <!-- <script src="jQadd.js"></script>     -->
+      <script src="../../index.js"></script>
+</body>
+</html>
