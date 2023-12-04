@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ビル管理士試験</title>
+    <link rel="stylesheet" href="../../style.css">
+</head>
+<body>
+    <div class="tab">
+        <!-- コンテンツを構成するブロック -->
+        <div class="tab-contents-wrap">
+            <div class="tab-contents is-contents-active">
+                <p>2018年</p>
+                <p><span class="bold">問題52</span><span class="space">流体力学に関する次の記述のうち，<span class="bold">最も不適当な</span>ものはどれか．</p>
+                <p><span class="bold">（1）</span>無秩序な乱れによる流体塊の混合を伴う流れを乱流という．
+                <p><span class="bold">（2）</span>直線ダクトの圧力損失は，ダクト長さの2乗に比例する．
+                <p><span class="bold">（3）</span>摩擦のない理想流体では，ベルヌーイの定理が成立する．
+                <p><span class="bold">（4）</span>慣性力の粘性力に対する比を表す無次元数がレイノルズ数である．
+                <p><span class="bold">（5）</span>ダクトの形状変化に伴う圧力損失は，形状抵抗係数と風速の2乗に比例する．
+            </div>
+
+            <div class="tab-contents">
+                <p>2018年</p>
+                <p class="bold">問題52<span class="space">正解（2）<span class="space">頻出度AAA</span></p>
+                <p>直線ダクトの圧力損失は，2乗とかではなくて，ダクトの長さにそのまま比例する．
+                <p>ベルヌーイの定理から，理想的な流体では，ダクトのどこをとっても動圧+静圧+位置圧＝一定（全圧）となる（気体では位置圧は無視してよいほど小さいので，動圧+静圧＝全圧として扱う）が，実際の流れでは，摩擦や流れの渦運動によって生じる損失等により，全圧は流れの下流方向に単調に低下する．この全圧低下を圧力損失と呼ぶ．
+                  <p>直線の丸ダクトなどに生じる圧力損失<img class="varSize17 " src="../../eqf/VarDeltap.svg" alt="数式">［Pa］は，流体の速度を<img class="varSize13" src="../../eqf/v.svg" alt="数式">［m/s］，ダクトの有効径を<img class="varSize13" src="../../eqf/capD.svg" alt="数式">［m］，長さを<img class="varSize13" src="../../eqf/capL.svg" alt="数式">［m］，流体の密度を<img class="varSize15" src="../../eqf/grerho.svg" alt="数式">［kg/m<sup>3</sup>］とすると，次式で表される．
+                    <div class="textCenter">
+                        <img style="height: 2.2rem" src="../../eqf/deltap_AturyokuSonsituTyokusen=.svg" alt="数式">            
+                    </div>
+                    <p><img class="varSize15" src="../../eqf/grelambda.svg" alt="数式">（ラムダ）は摩擦抵抗係数と呼ばれ，ダクト表面の粗度のほか，ダクト内流体のレイノルズ数（<img class="varSize15" src="../../eqf/Re.svg" alt="数式">数）によって変化する．
+                    <p>ダクトの形状変化に伴う圧力損失は次式で表される．<img class="varSize17" src="../../eqf/grexi.svg" alt="数式">
+                        (クサイ)は形状抵抗係数と呼ばれ，さまざまな形状変化に対する経験値が知られている.
+                    <div class="textCenter">
+                        <img style="height: 2.5rem" src="../../eqf/deltap_AturyokuSonsituKeijyo=.svg" alt="数式">            
+                    </div>
+                    <p>いずれの圧力損失も流速の2乗に比例する（動圧<img class="varSize40" src="../../eqf/douatu.svg" alt="数式">に比例するといってもよい）．
+                    <p><span class="bold">-(4) </span>レイノルズ数（<img class="varSize15" src="../../eqf/Re.svg" alt="数式">数）
+                    <p>摩擦も渦運動も流体の持つ粘性がその原因である．流体の速度が十分遅い場合，流れは整然とした層流となるが，流速が一定以上になると，流れは乱流となる．細く絞った蛇口からの水流は澄んだ透明な層流であり，蛇口を大きく開けると周囲の空気まで巻き込んで水流は白っぽく濁った乱流となる．
+                    <p>流れが層流となるか，無秩序な流体塊の混合を伴う乱流となるかは流れのレイノルズ数(<img class="varSize15" src="../../eqf/Re.svg" alt="数式">数)によることが知られている．
+                    <p><img class="varSize15" src="../../eqf/Re.svg" alt="数式">数は，流体に働く慣性力と粘性力の比(慣性力/粘性力)を示す無次元数で，これが小さい流れでは乱流の原因となる慣性力を粘性力が上回っていて，乱れは減衰してしまう．<img class="varSize15" src="../../eqf/Re.svg" alt="数式">数が大きい流れは，乱れを継続させる力である慣性力が減衰させる粘性力に勝るので，乱れが持続する．
+                    <p>粘性による摩擦と乱流のどちらがより圧力損失に寄与するかは簡単には求められないので，一概に<img class="varSize15" src="../../eqf/Re.svg" alt="数式">数の大小で圧力損失の大小を判断することはできない．
+                    <p>流れの<img class="varSize15" src="../../eqf/Re.svg" alt="数式">数は次式で与えられる．
+                    <div class="textCenter">
+                        <img style="height: 2.5rem" src="../../eqf/Re_ReinoruzuSuu-Nagare=.svg" alt="数式">            
+                    </div>
+                    <p>ただし，<img class="varSize13" src="../../eqf/v.svg" alt="数式">：流速［m/s］，<img class="varSize13" src="../../eqf/capD.svg" alt="数式">：流れの代表長さ（ダクトや配管の径など）［m］，<img class="varSize12" src="../../eqf/grenu.svg" alt="数式">：（ニュー）：流体の動粘性係数（粘性係数を密度で割った値）．
+                    <p><img class="varSize15" src="../../eqf/Re.svg" alt="数式">数が2,000程度以下では層流，4,000程度以上では乱流となる．       
+            </div>             
+        </div>
+        <!-- タブを構成するブロック -->
+        <div class="tab-list">
+          <button class="tab-list-item is-btn-active">問題</button>
+          <button class="tab-list-item">解答</button>
+        </div>   
+        <div class="inner">
+            <button type="button" onclick="location.href='2018-53.html'">次問へ</button>
+            <button type="button" onclick="location.href='2018-51.html'">前問へ</button>
+            <button type="button" onclick="location.href='../../index.html'">目次へ</button>
+        </div>
+    </div>
+      <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>  -->
+      <!-- <script src="jQadd.js"></script>     -->
+      <script src="../../index.js"></script>
+</body>
+</html>
