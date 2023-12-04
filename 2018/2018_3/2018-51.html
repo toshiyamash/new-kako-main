@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ビル管理士試験</title>
+    <link rel="stylesheet" href="../../style.css">
+</head>
+<body>
+    <div class="tab">
+        <!-- コンテンツを構成するブロック -->
+        <div class="tab-contents-wrap">
+            <div class="tab-contents is-contents-active">
+                <p>2018年</p>
+                <p><span class="bold">問題51</span><span class="space">ダクト内気流速度が4.0m/sであったとすると，この気流の動圧（速度圧）の値として，<span class="bold">最も適当な</span>ものは次のうちどれか．ただし，ダクト内の空気の密度は1.2kg/m<sup>3</sup>とする．</span></p>
+                <p><span class="bold">（1）</span>2.4 Pa
+                <p><span class="bold">（2）</span>9.6 Pa
+                <p><span class="bold">（3）</span>19.2 Pa
+                <p><span class="bold">（4）</span>38.4 Pa
+                <p><span class="bold">（5）</span>76.8 Pa
+            </div>
+
+            <div class="tab-contents">
+                <p>2018年</p>
+                <p class="bold">問題51<span class="space">正解（2）<span class="space">頻出度AAA</span></p>
+                <p>流体の速度を<img class="varSize15 " src="../../eqf/capU.svg" alt="数式">［m/s］，密度を<img class="varSize15 " src="../../eqf/grerho.svg" alt="数式">［kg/m<sup>3</sup>］とすると，ベルヌーイの定理から，
+                <div class="textCenter">
+                  <img style="height: 7.5rem" src="../../eqf/2018-51Keisan-DouAtu=.svg" alt="数式">
+                </div>
+                <p>動圧を求める式は次のようにして導くことができる．
+                <p>ベルヌーイの定理によれば，摩擦のない理想的な流体では，単位時間にある断面を通過する流体の持つエネルギーは，運動エネルギー，圧力のエネルギー，外力によるエネルギー（位置エネルギー）の合計となり，ダクトのどの断面をとってもその値は一定となる．すなわち，
+              <div class="textCenter">
+                <img style="height: 2.6rem" src="../../eqf/Berunuui-Energy.svg" alt="数式">            
+              </div>
+              <p>ただし，<img class="varSize12" src="../../eqf/m.svg" alt="数式">：質量［kg］，<img class="varSize15" src="../../eqf/capU.svg" alt="数式">：流速［m/s］，<img class="varSize15" src="../../eqf/capP.svg" alt="数式">：圧力［Pa］，<img class="varSize15" src="../../eqf/grerho.svg" alt="数式">：流体の密度［kg/m<sup>3</sup>］，<img class="varSize16" src="../../eqf/h.svg" alt="数式">：高さ［m］<img class="varSize15" src="../../eqf/romg.svg" alt="数式">：重力加速度（9.8m/s<sup>2</sup>）．
+              <p>体積を<img class="varSize15" src="../../eqf/capV.svg" alt="数式">［m<sup>3</sup>］とすれば，
+              <p><img class="varSize17 " src="../../eqf/m=V-malti-rho.svg" alt="数式">であるから，この式を<img class="varSize15" src="../../eqf/capV.svg" alt="数式">で除した，
+              <div class="textCenter">
+                <img style="height: 2.6rem" src="../../eqf/Berunuui-Aturyoku.svg" alt="数式">            
+              </div>
+              <p>も成り立つ．この式の各項は圧力［Pa］の次元をもち，第1項を動圧，第2項を静圧，第3項を位置圧，<img class="varSize15" src="../../eqf/capH.svg" alt="数式">を全圧と呼ぶ．
+              <p>気体では位置圧は無視してよいほど小さいので，
+              <div class="textCenter">
+                <img style="height: 2.6rem" src="../../eqf/Berunuui-Aturyoku-Kitai.svg" alt="数式">
+              </div>
+              <p>すなわち，動圧＋静圧＝全圧としてよい．この式は，流体の速度が小さくなれば静圧が大きくなり，速度が速くなれば静圧が小さくなる，すなわち動圧と静圧は交互に変換することを示している．
+              <p>なお，ここでいう圧力とは絶対圧力である（圧力計(ゲージ)で測った圧力をゲージ圧といい，絶対圧力＝ゲージ圧＋大気圧である）．       
+            </div>             
+        </div>
+        <!-- タブを構成するブロック -->
+        <div class="tab-list">
+          <button class="tab-list-item is-btn-active">問題</button>
+          <button class="tab-list-item">解答</button>
+        </div>   
+        <div class="inner">
+            <button type="button" onclick="location.href='2018-52.html'">次問へ</button>
+            <button type="button" onclick="location.href='2018-50.html'">前問へ</button>
+            <button type="button" onclick="location.href='../../index.html'">目次へ</button>
+        </div>
+    </div>
+      <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>  -->
+      <!-- <script src="jQadd.js"></script>     -->
+      <script src="../../index.js"></script>
+</body>
+</html>
