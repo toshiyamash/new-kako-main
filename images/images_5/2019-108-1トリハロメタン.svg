@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="116.29408mm"
+   width="161.58768mm"
    height="38.004795mm"
-   viewBox="0 0 116.29408 38.004795"
+   viewBox="0 0 161.58768 38.004795"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
    sodipodi:docname="2019-108-1トリハロメタン.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,21 +24,27 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1.4823794"
-     inkscape:cx="296.14552"
-     inkscape:cy="62.399682"
+     inkscape:zoom="1.0482005"
+     inkscape:cx="345.83077"
+     inkscape:cy="206.06744"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="968"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3"
-     inkscape:snap-global="false">
+     inkscape:snap-global="false"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid1440"
-       originx="-42.400588"
-       originy="-83.70464" />
+       originx="-18.763628"
+       originy="-83.704644"
+       spacingy="1"
+       spacingx="1"
+       units="mm"
+       visible="true" />
   </sodipodi:namedview>
   <defs
      id="defs2">
@@ -56,7 +62,7 @@
      id="layer1"
      sodipodi:insensitive="true"
      style="display:none"
-     transform="translate(-42.400592,-83.704634)">
+     transform="translate(-18.763631,-83.704634)">
     <image
        y="75.532692"
        x="65.343323"
@@ -71,7 +77,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     transform="translate(-42.400592,-83.704634)">
+     transform="translate(-18.763631,-83.704634)">
     <path
        style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 74.395682,95.294621 h 3.11168 m 6.470102,0 h 3.090693"
@@ -97,7 +103,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layer 3"
-     transform="translate(-42.400592,-83.704634)">
+     transform="translate(-18.763631,-83.704634)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
@@ -262,11 +268,11 @@
        id="path20503" />
     <path
        style="fill:none;stroke:#ffffff;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 42.450576,96.198624 0.178486,7.139416"
+       d="m 18.813615,94.119599 0.178486,7.139421"
        id="path982" />
     <path
        style="fill:none;stroke:#ffffff;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 158.64469,97.269538 -0.17849,7.317912"
+       d="m 180.30133,97.221516 -0.17849,7.317914"
        id="path1017" />
   </g>
 </svg>
