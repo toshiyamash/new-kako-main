@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="119.20476mm"
-   height="53.003361mm"
-   viewBox="0 0 119.20476 53.003361"
+   width="162.39468mm"
+   height="37.029743mm"
+   viewBox="0 0 162.39468 37.029743"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
    sodipodi:docname="2018-95-2梁に開ける貫通孔.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,13 +24,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.8220149"
-     inkscape:cx="156.69466"
-     inkscape:cy="151.48065"
+     inkscape:zoom="0.91100745"
+     inkscape:cx="305.70551"
+     inkscape:cy="199.77883"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="968"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer4"
      inkscape:snap-global="false"
@@ -56,7 +56,7 @@
      id="layer1"
      sodipodi:insensitive="true"
      style="display:none"
-     transform="translate(-52.212934,-92.211328)">
+     transform="translate(-29.225806,-101.06942)">
     <image
        y="95.994926"
        x="50.966156"
@@ -70,16 +70,17 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="Layer 4">
+     inkscape:label="Layer 4"
+     transform="translate(22.987128,-8.8580961)">
     <rect
-       style="fill:#000000;stroke:none;stroke-width:0.1;opacity:0.06886228"
+       style="opacity:0.0688623;fill:#000000;stroke:none;stroke-width:0.1"
        id="rect336"
        width="117.47868"
        height="37.029743"
        x="0.87128818"
        y="8.8580961" />
     <ellipse
-       style="opacity:1;fill:#ffffcd;stroke:none;stroke-width:0.1;fill-opacity:1"
+       style="opacity:1;fill:#ffffcd;fill-opacity:1;stroke:none;stroke-width:0.1"
        id="path944"
        cx="39.062748"
        cy="28.099041"
@@ -92,12 +93,20 @@
        cy="28.099041"
        rx="6.0990171"
        ry="6.0264096" />
+    <path
+       style="fill:#ffffcd;fill-opacity:1;stroke:#ffff00;stroke-width:0.4"
+       d="m -22.415249,20.94495 -0.372113,7.690707"
+       id="path1" />
+    <path
+       style="fill:#ffffcd;fill-opacity:1;stroke:#ffff00;stroke-width:0.4"
+       d="m 139.20756,23.270654 v 5.324161"
+       id="path2" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     transform="translate(-52.212934,-92.211328)"
+     transform="translate(-29.225806,-101.06942)"
      sodipodi:insensitive="true">
     <path
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
@@ -316,7 +325,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layer 3"
-     transform="translate(-52.212934,-92.211328)"
+     transform="translate(-29.225806,-101.06942)"
      sodipodi:insensitive="true">
     <text
        xml:space="preserve"
