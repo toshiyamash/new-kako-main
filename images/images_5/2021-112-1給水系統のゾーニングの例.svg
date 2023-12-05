@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="111.22455mm"
-   height="72.833466mm"
-   viewBox="0 0 111.22455 72.833465"
+   width="159.47821mm"
+   height="72.88903mm"
+   viewBox="0 0 159.47821 72.88903"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
    sodipodi:docname="2021-112-1給水系統のゾーニングの例.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,12 +25,12 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="1.0809568"
-     inkscape:cx="352.46552"
-     inkscape:cy="204.91106"
+     inkscape:cx="372.35531"
+     inkscape:cy="205.37361"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="968"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3"
      inkscape:snap-global="false"
@@ -42,12 +42,18 @@
      inkscape:object-nodes="true"
      inkscape:snap-others="true"
      inkscape:snap-intersection-paths="true"
-     inkscape:snap-midpoints="true">
+     inkscape:snap-midpoints="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid861"
-       originx="-54.293884"
-       originy="-86.70489" />
+       originx="-29.42319"
+       originy="-86.618124"
+       spacingy="1"
+       spacingx="1"
+       units="mm"
+       visible="true" />
   </sodipodi:namedview>
   <defs
      id="defs2">
@@ -65,7 +71,7 @@
      id="layer1"
      sodipodi:insensitive="true"
      style="display:none"
-     transform="translate(-54.293882,-86.704892)">
+     transform="translate(-29.423187,-86.618128)">
     <image
        y="80.237244"
        x="54.383392"
@@ -80,7 +86,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     transform="translate(-54.293882,-86.704892)">
+     transform="translate(-29.423187,-86.618128)">
     <rect
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect885"
@@ -457,7 +463,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layer 3"
-     transform="translate(-54.293882,-86.704892)">
+     transform="translate(-29.423187,-86.618128)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
@@ -548,11 +554,11 @@
          y="175.49846">2021　112-1図　給水系統のゾーニングの例</tspan></text>
     <path
        style="fill:none;stroke:#ffffff;stroke-width:0.1"
-       d="m 54.343882,121.04416 v 11.74885"
+       d="m 29.473187,119.45413 v 11.74885"
        id="path987" />
     <path
        style="fill:none;stroke:#ffffff;stroke-width:0.1"
-       d="m 165.46843,120.30986 v 14.19653"
+       d="M 188.8514,121.27937 V 135.4759"
        id="path989" />
   </g>
 </svg>
