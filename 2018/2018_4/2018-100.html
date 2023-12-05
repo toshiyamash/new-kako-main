@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ビル管理士試験</title>
+    <link rel="stylesheet" href="../../style.css">
+</head>
+<body>
+    <div class="tab">
+        <!-- コンテンツを構成するブロック -->
+        <div class="tab-contents-wrap">
+            <div class="tab-contents is-contents-active">
+                <p>2018年</p>
+                <p><span class="bold">問題100</span><span class="space">建築物の電気設備に関する次の記述のうち，<span class="bold">最も不適当な</span>ものはどれか．</p>
+                <p><span class="bold">（1）</span>実効値100 V の交流電圧は，ピーク時の電圧が約140V である．
+                <p><span class="bold">（2）</span>受変電設備の容量は，建築物内部の電気設備の負荷合計に利用率を乗じて求める．
+                <p><span class="bold">（3）</span>電線の配電距離が長くなると，電圧の低下を招くことがある．
+                <p><span class="bold">（4）</span>磁束密度は，電流の強さとコイルの巻き数との積に比例する．
+                <p><span class="bold">（5）</span>電気事業法に規定される電圧種別のうち特別高圧に区分されるのは，交流にあっては600Vを超えるものである．
+            </div>
+
+            <div class="tab-contents">
+                <p>2018年</p>
+                <p class="bold">問題100<span class="space">正解（5）<span class="space">頻出度AAA</span></p>
+                <p>特別高圧は7,000Vを超えるもの，である．
+                <p>電気設備技術基準<sup>※</sup>の電圧区分は<span class="bold">2018-100-1表</span>のとおり．                
+                <table>
+                    <caption class="bold">2018-100-1表<span class="space">電気設備技術基準の電圧区分</span></caption>
+                    <tbody>
+                        <tr>
+                            <td class="textCenter">区分</td>
+                            <td class="textCenter">交流</td>
+                            <td class="textCenter">直流</td>
+                        </tr>
+                        <tr>
+                            <td>低圧</td>
+                            <td>600V以下のもの</td>
+                            <td>750V以下のもの</td>
+                        </tr>
+                        <tr>
+                            <td>高圧</td>
+                            <td>600Vを超え7,000V以下</td>
+                            <td>750Vを超え7,000V以下</td>
+                        </tr>
+                        <tr>
+                            <td>特別高圧</td>
+                            <td>7,000Vを超えるもの</td>
+                            <td>7,000Vを超えるもの</td>
+                        </tr>
+                    </tbody>
+                </table>            
+                <p>※ 電気設備技術基準：電気事業法に基づく経済産業省令．正式名称は，電気設備に関する技術基準を定める省令．
+                <p><span class="bold">-(1) </span>実効値の定義は，瞬時値<img class="varSize17" src="../../eqf/Shunnji-ti_a0sinwt.svg" alt="数式">の2乗を1周期<img class="varSize15" src="../../eqf/capT.svg" alt="数式">にわたって平均したものの平方根であるから，実効値<img class="varSize14" src="../../eqf/arms_Shinpuku-Jikkouti.svg" alt="数式">は，
+                <div class="textCenter">
+                    <img style="height: 40rem" src="../../eqf/arms_ShinpukuJikkouti-Keisan-sqrt2=.svg" alt="数式">            
+                </div>
+                <p>すなわち，<img class="varSize20" src="../../eqf/a-0=sqrt2-arms.svg" alt="数式">となって，<img class="varSize13" src="../../eqf/a0.svg" alt="数式">（ここではピーク電圧）は，実効値の<img class="varSize20" src="../../eqf/sqrt2=1.4.svg" alt="数式">倍となる．
+                <p><span class="bold">-(2) </span>実際に同時発生する負荷容量と全負荷容量の比率を需要率という．受変電設備の容量は，この需要率から検討する．
+                <p><span class="bold">-(3) </span>配電距離が長くなると導線の電気抵抗が増え電圧の低下を招く．「内線規程」<sup>※</sup>に，電圧降下の許容値が，電線のこう長が60m超～120m以下なら5％以下などと定められているので，電線の太さを変えて抵抗値を調整する．
+                <p>※ 内線規程：需要場所における電気設備の保安の確保及び電気の安全に資するために制定された民間規格．電力会社が電力供給に当たって，需要施設における電気工事を審査・検査等するための判定基準として用いられるもので，電気法規に準ずるものとして扱われている．
+                <p><span class="bold">-(4) </span>円形コイル（電磁石）に電流<img class="varSize14" src="../../eqf/capI.svg" alt="数式">［A］を流したときのコイルの中心の磁束密度<img class="varSize14" src="../../eqf/capB.svg" alt="数式">［T（テスラ）］は，<img class="varSize19" src="../../eqf/B_Jisoku-Mitudo=.svg" alt="数式">と表される（ただし，<img class="varSize15" src="../../eqf/gremu.svg" alt="数式">：透磁率（定数），<img class="varSize13" src="../../eqf/capN.svg" alt="数式">：コイルの巻き数，<img class="varSize12" src="../../eqf/r.svg" alt="数式">：コイルの半径）．
+                <p>コイルが理想的なソレノイドの場合は，ソレノイドの内部の磁束密度は，<img class="varSize18 " src="../../eqf/B_Solenoido-Jisoku-Mitudo=.svg" alt="数式">（<img class="varSize11" src="../../eqf/n.svg" alt="数式">はソレノイドの長さ1m当たりの巻き数．<span class="bold">2018-100-1図</span>参照．
+                <div class="imgcap">2018-100-1図<span class="space">ソレノイドの内部磁束</span></div>
+                <div class="textCenter">
+                    <img src="../../images/images_4/2018-100-1ソレノイドの内部磁束.svg" alt="ソレノイドの内部磁束">
+                </div>   
+            </div>             
+        </div>
+        <!-- タブを構成するブロック -->
+        <div class="tab-list">
+          <button class="tab-list-item is-btn-active">問題</button>
+          <button class="tab-list-item">解答</button>
+        </div>   
+        <div class="inner">
+            <button type="button" onclick="location.href='2018-101.html'">次問へ</button>
+            <button type="button" onclick="location.href='2018-99.html'">前問へ</button>
+            <button type="button" onclick="location.href='../../index.html'">目次へ</button>
+        </div>
+    </div>
+      <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>  -->
+      <!-- <script src="jQadd.js"></script>     -->
+      <script src="../../index.js"></script>
+</body>
+</html>
