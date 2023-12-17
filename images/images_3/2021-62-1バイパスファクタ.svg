@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="101.00756mm"
+   width="78.253937mm"
    height="52.828129mm"
-   viewBox="0 0 101.00756 52.828129"
+   viewBox="0 0 78.253936 52.828129"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
    sodipodi:docname="2021-62-1バイパスファクタ.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,13 +24,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.98521578"
-     inkscape:cx="-166.9685"
-     inkscape:cy="219.24131"
+     inkscape:zoom="1.9704316"
+     inkscape:cx="170.77477"
+     inkscape:cy="113.17318"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="968"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer22"
      inkscape:snap-global="false"
@@ -49,8 +49,12 @@
     <inkscape:grid
        type="xygrid"
        id="grid1019"
-       originx="1077.0853"
-       originy="-48.134753" />
+       originx="1065.1913"
+       originy="-48.134754"
+       spacingy="1"
+       spacingx="1"
+       units="mm"
+       visible="true" />
   </sodipodi:namedview>
   <defs
      id="defs2">
@@ -109,7 +113,7 @@
      id="layer1"
      style="display:inline"
      sodipodi:insensitive="true"
-     transform="translate(1077.0853,-48.134753)">
+     transform="translate(1065.1913,-48.134753)">
     <image
        y="94.198418"
        x="-247.8853"
@@ -127,7 +131,7 @@
      inkscape:label="補助線"
      style="display:inline"
      sodipodi:insensitive="true"
-     transform="translate(1077.0853,-48.134753)">
+     transform="translate(1065.1913,-48.134753)">
     <path
        style="display:inline;opacity:1;fill:none;stroke:#0000ff;stroke-width:0.1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
        d="m -301.98705,-46.16267 -2.14079,-40.22947"
@@ -151,7 +155,7 @@
      inkscape:label="枠・目盛り"
      style="display:inline"
      sodipodi:insensitive="true"
-     transform="translate(1077.0853,-48.134753)">
+     transform="translate(1065.1913,-48.134753)">
     <path
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        d="m -224.31456,-240.0116 -163.89953,-0.19418 v 177.33655 m 0,5.15604 0.18974,11.24205 263.54954,0.94496 v -194.36713 l -74.68474,-0.0885 m -4.99979,-0.006 -14.65142,-0.0165"
@@ -1989,7 +1993,7 @@
      inkscape:label="乾球温度"
      style="display:inline"
      sodipodi:insensitive="true"
-     transform="translate(1077.0853,-48.134753)">
+     transform="translate(1065.1913,-48.134753)">
     <path
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        d="m -131.09699,-239.90116 -0.0894,194.36701"
@@ -2237,7 +2241,7 @@
      inkscape:label="絶対湿度"
      style="display:inline"
      sodipodi:insensitive="true"
-     transform="translate(1077.0853,-48.134753)">
+     transform="translate(1065.1913,-48.134753)">
     <path
        style="opacity:1;fill:#000000;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        d="m -125.84194,-234.42476 -84.05434,-0.35066"
@@ -2389,7 +2393,7 @@
      inkscape:label="比エンタルピー"
      style="display:inline"
      sodipodi:insensitive="true"
-     transform="translate(1077.0853,-48.134753)">
+     transform="translate(1065.1913,-48.134753)">
     <path
        style="opacity:1;fill:#000000;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        d="m -135.39041,-239.73088 4.29223,2.40348"
@@ -2522,7 +2526,7 @@
      inkscape:label="比容積"
      style="display:inline"
      sodipodi:insensitive="true"
-     transform="translate(1077.0853,-48.134753)">
+     transform="translate(1065.1913,-48.134753)">
     <path
        style="opacity:1;fill:#000000;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        d="m -145.52681,-239.91826 15.5527,36.49106"
@@ -2694,7 +2698,7 @@
      inkscape:label="湿球温度"
      style="display:inline"
      sodipodi:insensitive="true"
-     transform="translate(1077.0853,-48.134753)">
+     transform="translate(1065.1913,-48.134753)">
     <path
        style="opacity:1;fill:#000000;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.6, 0.6;stroke-dashoffset:0"
        d="m -145.18986,-239.12771 14.08928,7.05787"
@@ -2910,7 +2914,7 @@
      inkscape:label="相対湿度"
      style="display:inline"
      sodipodi:insensitive="true"
-     transform="translate(1077.0853,-48.134753)">
+     transform="translate(1065.1913,-48.134753)">
     <path
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        d="m -199.43214,-240.07502 c 0,0 -25.57365,84.89039 -83.26976,137.24348 -27.4262,24.88636 -62.81478,39.78762 -105.51219,47.90646"
@@ -3021,7 +3025,7 @@
      inkscape:label="飽和度"
      style="display:inline"
      sodipodi:insensitive="true"
-     transform="translate(1077.0853,-48.134753)">
+     transform="translate(1065.1913,-48.134753)">
     <path
        style="fill:none;stroke:#1a1a1a;stroke-width:0.3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.9, 0.9;stroke-dashoffset:0"
        d="m -194.89761,-239.97676 c -2.79362,9.77068 -18.70783,50.11599 -43.68022,89.30188 -17.46341,27.40302 -40.6158,51.61314 -65.44251,66.30265"
@@ -3124,7 +3128,7 @@
      inkscape:label="文字"
      style="display:inline"
      sodipodi:insensitive="true"
-     transform="translate(1077.0853,-48.134753)">
+     transform="translate(1065.1913,-48.134753)">
     <g
        inkscape:groupmode="layer"
        id="layer12"
@@ -3279,7 +3283,7 @@
          xml:space="preserve"
          transform="scale(0.26458333)"
          id="text117167"
-         style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';white-space:pre;shape-inside:url(#rect117169)" />
+         style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';white-space:pre;shape-inside:url(#rect117169);display:inline" />
       <rect
          style="fill:#ffffff;stroke:#ffffff;stroke-width:0.246208;stroke-linejoin:round"
          id="rect119119"
@@ -7189,7 +7193,7 @@
      inkscape:label="熱水分比"
      style="display:inline"
      sodipodi:insensitive="true"
-     transform="translate(1077.0853,-48.134753)">
+     transform="translate(1065.1913,-48.134753)">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        d="m -261.72776,-217.55877 c 0,0 -18.73907,-21.7224 -53.60153,-21.69309 -19.09696,0.0161 -36.79784,7.0382 -53.5736,24.86578 -8.65151,9.19395 -17.69525,25.30051 -18.15273,50.42436 -0.32836,18.0328 5.73871,35.09991 21.41228,52.58852"
@@ -8462,7 +8466,7 @@
      inkscape:label="顕熱比"
      style="display:inline"
      sodipodi:insensitive="true"
-     transform="translate(1077.0853,-48.134753)">
+     transform="translate(1065.1913,-48.134753)">
     <g
        inkscape:groupmode="layer"
        id="layer18"
@@ -8888,7 +8892,7 @@
      inkscape:label="熱水センター"
      style="display:inline"
      sodipodi:insensitive="true"
-     transform="translate(1077.0853,-48.134753)">
+     transform="translate(1065.1913,-48.134753)">
     <circle
        style="fill:none;stroke:#000000;stroke-width:0.490626;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="path173020"
@@ -8914,7 +8918,7 @@
      id="layer20"
      inkscape:label="A1"
      style="display:inline"
-     transform="translate(1077.0853,-48.134753)">
+     transform="translate(1065.1913,-48.134753)">
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
        d="m -313.74338,103.38773 -15.72599,5.15427 m -21.44129,7.02748 -7.60557,2.49276"
@@ -10684,7 +10688,7 @@
      id="layer21"
      inkscape:label="A2"
      style="display:inline"
-     transform="translate(1077.0853,-48.134753)">
+     transform="translate(1065.1913,-48.134753)">
     <path
        style="fill:#ffffff;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:0.9, 0.9;stroke-dashoffset:0"
        d="m -1030.2185,190.74172 10.0693,4.72402 m 12.6141,5.91787 13.86044,6.50262"
@@ -11187,7 +11191,7 @@
      id="layer22"
      inkscape:label="A3"
      style="display:inline"
-     transform="translate(1077.0853,-48.134753)">
+     transform="translate(1065.1913,-48.134753)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
@@ -12096,12 +12100,12 @@
          x="-947.77167"
          y="342.5726">暖房時</tspan></text>
     <path
-       style="fill:#000000;stroke:#ffff00;stroke-width:0.1;stroke-dasharray:none"
-       d="m -1076.9353,66.396404 0.2685,14.501899"
+       style="fill:#000000;stroke:#ffff00;stroke-width:0.001;stroke-dasharray:none"
+       d="m -1065.1908,66.092183 0.2685,14.501899"
        id="path11747" />
     <path
-       style="fill:#000000;stroke:#ffff00;stroke-width:0.1;stroke-dasharray:none"
-       d="M -976.22771,69.350494 V 82.509626"
+       style="fill:#000000;stroke:#ffff00;stroke-width:0.001;stroke-dasharray:none"
+       d="M -986.93786,69.796335 V 82.955467"
        id="path11782" />
   </g>
 </svg>
