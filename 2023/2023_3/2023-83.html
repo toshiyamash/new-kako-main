@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ビル管理士試験</title>
+    <link rel="stylesheet" href="../../style.css">
+</head>
+<body>
+    <div class="tab">
+        <!-- コンテンツを構成するブロック -->
+        <div class="tab-contents-wrap">
+            <div class="tab-contents is-contents-active">
+                <p>2023年</p>
+                <p><span class="bold">問題83音</span><span class="space">に関する次の記述のうち，<span class="bold">最も不適当な</span>ものはどれか．</span>
+                <p><span class="bold">（1）</span>音圧レベルは，人間の最小可聴値の音圧を基準として定義された尺度である．
+                <p><span class="bold">（2）</span>騒音レベルとは，人間の聴覚の周波数特性を考慮した騒音の大きさを表す尺度である．
+                <p><span class="bold">（3）</span>時間によって変動する騒音は，等価騒音レベルによって評価される．
+                <p><span class="bold">（4）</span>空気調和機から発生した音が隔壁の隙間などを透過してくる音は，固体伝搬音である．
+                <p><span class="bold">（5）</span>遮音とは，壁などで音を遮断して，透過する音のエネルギーを小さくすることである．                    
+            </div>
+
+            <div class="tab-contents">
+                <p>2023年</p>
+                <p class="bold">問題83<span class="space">正解（4）<span class="space">頻出度AAA</span></p>
+                <p>空気調和機から発生した音が隔壁の隙間などを透過してくる音は，「空気伝搬音」である．
+                <p>騒音はエネルギーの伝わり方から見た場合，設備機器等から発生した音や交通騒音が空気中を伝搬してくる空気伝搬音と，設備機器等の振動が建物躯体内を伝搬して居室の内装材から放射される固体伝搬音に分けられる（<span class="bold">2023-83-1表</span>参照）．                
+                <table>
+                    <caption class="bold">2023-83-1表<span class="space">空気伝搬音と固体伝搬音</span></caption>
+                    <tr>
+                        <td>空気伝搬音</td>
+                        <td>・空調機から発生した音が隔壁・隙間等を透過してくる音<br>・ダクト内を伝搬して給排気口から放射する音<br>・ダクト内を伝搬してダクト壁から透過する音<br>・窓から入る道路交通騒音，鉄道軌道騒音</td>
+                    </tr>
+                    <tr>
+                        <td>固体伝搬音</td>
+                        <td>・空調機自体の振動に起因して発生する音<br>・ダクト・管路系の振動に起因する音<br>・ポンプに接続された管路系で発生する音<br>・給排水騒音，電気室騒音，エレベータ走行音，地下鉄騒音等</td>
+                    </tr>
+                </table>
+                <p><span class="bold">-(1) </span>，<span class="bold">-(2) </span>音圧レベル，騒音レベル
+                <p>音の物理的な強さは音の伝わる方向に対して垂直な単位面積を単位時間に通過する音のエネルギーなので，単位は［W（ワット）/m<sup>2</sup>］である．人間の耳の可聴範囲はエネルギー的には約10<sup>-12</sup>W/m<sup>2</sup>から最大10<sup>2</sup>W/m<sup>2</sup>であって，その範囲は14桁に及ぶ．
+                <p>ある基準値との比の対数をとって量を表示することをレベル表示（デシベル尺度）という．
+                <p>考察の対象とする量が数十桁にわたり，そのままでは扱いにくい場合にレベル表示が用いられる．これを音に用いて，音響工学では音のパワーレベルを次のように定義している．
+                <div class="textCenter">
+                    <img style="height: 2.7rem" src="../../eqf/Li_Oto-no-PowarLevel=.svg" alt="数式">            
+                </div>
+                <p>ただし，<img class="varSize15" src="../../eqf/Li.svg" alt="数式">：音の強さのレベル［dB］，<img class="varSize15" src="../../eqf/capI.svg" alt="数式">：音の強さ［W/m<sup>2</sup>］，<img class="varSize17 " src="../../eqf/I0.svg" alt="数式">：基準の音の強さ（10<sup>-12</sup>W/m<sup>2</sup>）．
+                <p>上記の可聴範囲（10<sup>-12</sup>W/m<sup>2</sup>～最大10<sup>2</sup>W/m<sup>2</sup>）をレベル表示すると，
+                <div class="textCenter">
+                <img style="height: 18rem" src="../../eqf/Li_KatyouHani-Mini-Max=.svg" alt="数式">            
+                </div>
+                <p>レベル表示により，最小と最大値で10<sup>12</sup>～10<sup>2</sup>と14桁もの開きがあったものが0～140dBと3桁で表現できることになる．
+                <p>実際に音の強さを測定する場合は，エネルギーを直接測定することが難しいので，音圧<img class="varSize15" src="../../eqf/p.svg" alt="数式">［Pa］を測定する．
+                <p>音の強さは，空気の密度を<img class="varSize15 " src="../../eqf/grerho.svg" alt="数式">：［kg/m<sup>3</sup>］，音速を<img class="varSize13" src="../../eqf/c_Onsoku.svg" alt="数式">：とすると，次式で表される．
+                <div class="textCenter">
+                <img style="height: 3rem" src="../../eqf/I_OtonoTuyosa-Mitudo-Onsoku=.svg" alt="数式">            
+                </div>
+                <p>すなわち，音の強さは，音圧の2乗に比例するので，音圧レベルを次のように定義すると，同じ音に対して強さのレベルと音圧レベルが一致することになる．
+                <div class="textCenter">
+                <img style="height: 9rem" src="../../eqf/Li_OnatuLevel-Teigi=.svg" alt="数式">            
+                </div>
+                <p>ただし，<img class="varSize19 " src="../../eqf/Lp.svg" alt="数式">：音圧レベル［dB］，
+                <img class="varSize15" src="../../eqf/p.svg" alt="数式">：音圧［Pa］，<img class="varSize15" src="../../eqf/p0.svg" alt="数式">：基準の音圧（2×10<sup>-5</sup>Pa=基準の音の強さ10<sup>-12</sup>W/m<sup>2</sup>に相当）．
+                <p>例えば2Paの音圧レベルは，
+                <div class="textCenter">
+                <img style="height: 6.5rem" src="../../eqf/2Pa-no-OnAtu-Level=.svg" alt="数式">            
+                </div>
+                <p>さらに，この音圧レベルを，人の聴覚の周波数特性をあらわした等ラウドネス曲線（<span class="bold">2023-83-1図</span>）によって補正した音圧レベルを「A特性音圧レベル」といい，単なる音圧レベルと区別するために，単位に［dB(A)］を用いる．騒音計のA特性音圧レンジで計測した騒音レベル［dB(A)］は騒音の評価の基本となる．
+                <div class="imgcap">2023-83-1図<span class="space">等ラウドネス曲線</span></div>
+                <div class="textCenter">
+                    <img  style="width: 80%;" src="../../images/images_2/2021-32-3等ラウドネス曲線.svg" alt="等ラウドネス曲線">
+                </div>
+                <p><span class="bold">-(3) </span>等価騒音レベル（LAeq）
+                <p>自動車騒音など時間的に変動する騒音をエネルギー的に等価な定常騒音で表した量．環境基本法の<a href="https://www.env.go.jp/kijun/oto1-1.html" target="_blank" rel="noopener noreferrer">騒音に関する環境基準</a>にも用いられている（住宅地・夜間LAeq45dB以下，等）．
+                <p><span class="bold">-(5) </span>「遮音」とは，壁などで音を遮断して，透過する音のエネルギーを小さくすることである（<span class="bold">2023-83-2図</span>参照）．
+                <div class="imgcap">2023-83-2図<span class="space">音の反射，吸収，透過</span></div>
+                <div class="textCenter">
+                    <img src="../../images/images_3/2022-83-1音の反射，吸収，透過.svg" alt="音の反射，吸収，透過">
+                </div>
+                <p>上図で，<img class="varSize17" src="../../eqf/Ii=Ir+Ia+It.svg" alt="数式">
+                <p>ただし，<img class="varSize17" src="../../eqf/Ii.svg" alt="数式">：入射音の強さ，<img class="varSize17" src="../../eqf/Ir.svg" alt="数式">：反射音の強さ，<img class="varSize17" src="../../eqf/Ia.svg" alt="数式">：吸収の強さ，<img class="varSize17" src="../../eqf/It.svg" alt="数式">：透過音の強さ（単位は全て［W/m<sup>2</sup>]）．
+                <p>壁の遮音性能は次式の透過損失値<img class="varSize15" src="../../eqf/TL.svg" alt="数式">［dB］で表される．
+                <div class="textCenter">
+                    <img  style="height: 2.7rem" src="../../eqf/TL_Touka-Sonsituti=.svg" alt="数式">            
+                </div>
+           </div>
+        </div>
+        <!-- タブを構成するブロック -->
+        <div class="tab-list">
+          <button class="tab-list-item is-btn-active">問題</button>
+          <button class="tab-list-item">解答</button>
+        </div>   
+        <div class="inner">
+            <button type="button" onclick="location.href='2023-84.html'">次問へ</button>
+            <button type="button" onclick="location.href='2023-82.html'">前問へ</button>
+            <button type="button" onclick="location.href='../../index.html'">目次へ</button>
+        </div>
+    </div>
+      <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>  -->
+      <!-- <script src="jQadd.js"></script>     -->
+      <script src="../../index.js"></script>
+</body>
+</html>
