@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="122.73156mm"
-   height="61.52174mm"
-   viewBox="0 0 122.73154 61.52174"
+   width="133.73486mm"
+   height="39.614273mm"
+   viewBox="0 0 133.73485 39.614273"
    version="1.1"
    id="svg5"
    inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1.4823794"
-     inkscape:cx="247.23765"
-     inkscape:cy="201.70275"
+     inkscape:zoom="2.9647588"
+     inkscape:cx="337.12692"
+     inkscape:cy="97.478419"
      inkscape:window-width="1920"
      inkscape:window-height="968"
      inkscape:window-x="0"
@@ -43,8 +43,8 @@
     <inkscape:grid
        type="xygrid"
        id="grid1333"
-       originx="-58.296313"
-       originy="-71.400647"
+       originx="-112.06097"
+       originy="-71.40065"
        spacingy="1"
        spacingx="1"
        units="mm"
@@ -66,7 +66,7 @@
      id="layer1"
      sodipodi:insensitive="true"
      style="display:none"
-     transform="translate(-58.296356,-71.40065)">
+     transform="translate(-112.06102,-71.40065)">
     <image
        y="62.770882"
        x="48.083614"
@@ -81,7 +81,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     transform="translate(-58.296356,-71.40065)">
+     transform="translate(-112.06102,-71.40065)">
     <path
        id="rect4741"
        style="opacity:1;fill:#ffffcd;fill-opacity:1;stroke:#000000;stroke-width:1.88976;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
@@ -90,38 +90,38 @@
     <path
        id="rect883"
        style="opacity:1;fill:#000000;stroke:#000000;stroke-width:0.499999;stroke-linecap:square"
-       d="m 86.56115,79.286536 -0.584459,1.01286 -0.584459,1.01234 h 0.578776 V 100.443 h 1.249534 V 81.311736 h 0.510048 l -0.584462,-1.01234 z"
+       d="m 45.634269,79.286536 -0.584459,1.01286 -0.584459,1.01234 h 0.578776 V 100.443 h 1.249534 V 81.311736 h 0.510048 l -0.584462,-1.01234 z"
        sodipodi:nodetypes="cccccccccc" />
     <path
        id="path1376"
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 89.635085,100.6462 c -0.976809,0.0723 -1.994212,0.11056 -3.039403,0.11056 -7.443312,0 -13.477306,-1.938571 -13.4773,-4.329918 -10e-7,-2.391346 6.033992,-4.329915 13.4773,-4.329915 7.443308,0 13.477298,1.938569 13.477298,4.329915 1e-5,1.60338 -2.712633,3.003209 -6.743916,3.751628"
+       d="m 48.708204,100.6462 c -0.976809,0.0723 -1.994212,0.11056 -3.039403,0.11056 -7.443312,0 -13.477306,-1.938571 -13.4773,-4.329918 -1e-6,-2.391346 6.033992,-4.329915 13.4773,-4.329915 7.443308,0 13.477298,1.938569 13.477298,4.329915 1e-5,1.60338 -2.712633,3.003209 -6.743916,3.751628"
        sodipodi:nodetypes="cssssc" />
     <path
        id="ellipse1480"
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 89.703757,102.15817 c -0.997766,0.0757 -2.038367,0.11571 -3.108075,0.11571 -7.443302,0 -13.477292,-1.93857 -13.4773,-4.32991 -10e-7,-2.391346 6.033992,-4.329915 13.4773,-4.329915 7.443308,0 13.477308,1.938569 13.477298,4.329915 0,1.60166 -2.706836,3.00021 -6.730975,3.74922"
+       d="m 48.776876,102.15817 c -0.997766,0.0757 -2.038367,0.11571 -3.108075,0.11571 -7.443302,0 -13.477292,-1.93857 -13.4773,-4.32991 -1e-6,-2.391346 6.033992,-4.329915 13.4773,-4.329915 7.443308,0 13.477308,1.938569 13.477298,4.329915 0,1.60166 -2.706836,3.00021 -6.730975,3.74922"
        sodipodi:nodetypes="cssssc" />
     <path
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 100.06355,96.264853 v 1.841103"
+       d="m 59.136669,96.264853 v 1.841103"
        id="path1515" />
     <path
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 73.127816,96.264853 v 1.841103"
+       d="m 32.200935,96.264853 v 1.841103"
        id="path1597" />
     <path
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 89.635085,100.6462 v -1.586707 l 3.519937,1.784857 -3.569713,2.32031 v -1.02629"
+       d="m 48.708204,100.6462 v -1.586707 l 3.519937,1.784857 -3.569713,2.32031 v -1.02629"
        id="path2527" />
     <path
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 93.383541,100.19351 -0.04733,1.51937"
+       d="m 52.45666,100.19351 -0.04733,1.51937"
        id="path2529"
        sodipodi:nodetypes="cc" />
     <path
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 88.661373,97.117333 h 9.65494"
+       d="m 47.734492,97.117333 h 9.65494"
        id="path2857" />
     <path
        sodipodi:type="star"
@@ -138,7 +138,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 346.87568,324.77285 1.38559,-2.3999 1.38558,-2.3999 1.38558,2.3999 1.38559,2.3999 -2.77117,0 z"
-       transform="matrix(0,-0.26458333,0.26458333,0,3.4707285,189.56497)"
+       transform="matrix(0,-0.26458333,0.26458333,0,-37.456152,189.56497)"
        inkscape:transform-center-x="0.21165897"
        inkscape:transform-center-y="5.4898246e-06" />
     <path
@@ -156,7 +156,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 346.87568,324.77285 1.38559,-2.3999 1.38558,-2.3999 1.38558,2.3999 1.38559,2.3999 -2.77117,0 z"
-       transform="matrix(0,-0.26458333,-0.26458333,0,184.05641,189.56497)"
+       transform="matrix(0,-0.26458333,-0.26458333,0,143.12953,189.56497)"
        inkscape:transform-center-x="-0.21165725"
        inkscape:transform-center-y="5.4898246e-06" />
     <path
@@ -226,82 +226,82 @@
        id="rect2274"
        width="1.2172199"
        height="9.6952848"
-       x="85.973381"
+       x="45.046501"
        y="102.56764" />
     <path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 73.080726,96.344658 v 1.830021"
+       d="m 32.153845,96.344658 v 1.830021"
        id="path2593" />
     <path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 100.08931,96.250002 v 1.766917"
+       d="m 59.162429,96.250002 v 1.766917"
        id="path2595" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layer 3"
-     transform="translate(-58.296356,-71.40065)">
+     transform="translate(-112.06102,-71.40065)">
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
-       x="79.511269"
+       x="38.584389"
        y="76.419159"
        id="text6268"><tspan
          sodipodi:role="line"
          id="tspan6266"
          style="stroke-width:0.264583"
-         x="79.511269"
+         x="38.584389"
          y="76.419159">電流<tspan
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
    id="tspan8498">Ｉ</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
-       x="58.182056"
+       x="17.255177"
        y="99.452179"
        id="text14530"><tspan
          sodipodi:role="line"
          id="tspan14528"
          style="stroke-width:0.264583"
-         x="58.182056"
+         x="17.255177"
          y="99.452179">磁界<tspan
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
    id="tspan14526">Ｈ</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
-       x="73.453262"
+       x="32.526382"
        y="121.66486"
        id="text21418"><tspan
          sodipodi:role="line"
          id="tspan21416"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="73.453262"
+         x="32.526382"
          y="121.66486">Ｈ<tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
    id="tspan99472">＝</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-       x="87.967224"
+       x="47.040344"
        y="118.63586"
        id="text33056"><tspan
          sodipodi:role="line"
          id="tspan33054"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="87.967224"
+         x="47.040344"
          y="118.63586">Ｉ</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
-       x="84.685814"
+       x="43.758934"
        y="125.19869"
        id="text34028"><tspan
          sodipodi:role="line"
          id="tspan34026"
          style="stroke-width:0.264583"
-         x="84.685814"
+         x="43.758934"
          y="125.19869">2<tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
    id="tspan36018">π</tspan><tspan
@@ -309,22 +309,22 @@
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">r</tspan></tspan></text>
     <path
        style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 84.68581,119.89794 H 94.782479"
+       d="M 43.758929,119.89794 H 53.855598"
        id="path40551" />
     <text
        xml:space="preserve"
        style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
-       x="97.811478"
+       x="56.884598"
        y="90.743813"
        id="text42329"><tspan
          sodipodi:role="line"
          id="tspan42327"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="97.811478"
+         x="56.884598"
          y="90.743813">r</tspan></text>
     <path
        style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 97.81148,91.501062 -4.164875,5.679376"
+       d="m 56.884599,91.501062 -4.164875,5.679376"
        id="path43272" />
     <text
        xml:space="preserve"
@@ -347,9 +347,9 @@
          id="tspan45976"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="127.09181"
-         y="79.763687">単位長さ当たり<tspan
+         y="79.763687">単位長さ当たり <tspan
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-   id="tspan3160">n</tspan>回巻き</tspan></text>
+   id="tspan3160">n </tspan>回巻き</tspan></text>
     <path
        style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 142.99407,80.89956 -3.66004,7.067666"
@@ -362,7 +362,7 @@
        id="text49957"><tspan
          sodipodi:role="line"
          id="tspan49955"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:Sans;-inkscape-font-specification:'Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="111.06336"
          y="99.578392">Ｈ</tspan></text>
     <text
@@ -378,27 +378,29 @@
          y="110.68472"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            id="tspan55325">電流</tspan><tspan
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:Sans;-inkscape-font-specification:'Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            id="tspan56399">Ｉ</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
-       x="122.38931"
-       y="125.82076"
+       x="186.77728"
+       y="99.061638"
        id="text78930"><tspan
          sodipodi:role="line"
          id="tspan78928"
          style="stroke-width:0.264583"
-         x="122.38931"
-         y="125.82076"><tspan
+         x="186.77728"
+         y="99.061638"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            id="tspan78920">磁束密度 </tspan><tspan
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Sans;-inkscape-font-specification:'Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            id="tspan78922">B</tspan><tspan
            id="tspan78924"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">＝μ</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">＝</tspan><tspan
+           id="tspan4"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Sans;-inkscape-font-specification:'Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">μ</tspan><tspan
            id="tspan78926"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">H</tspan><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Sans;-inkscape-font-specification:'Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">H</tspan><tspan
            id="tspan83746"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">　　</tspan></tspan></text>
     <text
@@ -413,7 +415,8 @@
          x="92.384514"
          y="141.22714">電流による磁界</tspan></text>
     <g
-       id="g10">
+       id="g10"
+       transform="translate(64.387954,-26.75913)">
       <text
          xml:space="preserve"
          style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
@@ -427,7 +430,7 @@
            y="118.76207"><tspan
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
              id="tspan68374">磁界 </tspan><tspan
-             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Sans;-inkscape-font-specification:'Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
              id="tspan67464">H</tspan><tspan
              id="tspan74398"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">＝</tspan><tspan
@@ -441,50 +444,77 @@
          id="text10"><tspan
            sodipodi:role="line"
            id="tspan10"
-           style="stroke-width:0.264583"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:Sans;-inkscape-font-specification:'Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
            x="150.04012"
-           y="118.89716"><tspan
-             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-             id="tspan9">Ｉ</tspan></tspan></text>
+           y="118.89716">Ｉ</tspan></text>
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;word-spacing:0px;stroke-width:0.264583"
-       x="144.71898"
-       y="132.04182"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;word-spacing:0px;stroke-width:0.264583"
+       x="215.5385"
+       y="105.30439"
        id="text2508"><tspan
          sodipodi:role="line"
          id="tspan2506"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="144.71898"
-         y="132.04182"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-           id="tspan7">＝μ</tspan><tspan
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Sans;-inkscape-font-specification:'Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-           id="tspan2">n</tspan></tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Sans;-inkscape-font-specification:'Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="215.5385"
+         y="105.30439">n</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;word-spacing:0px;stroke-width:0.264583"
-       x="155.87677"
-       y="131.98883"
+       x="220.49332"
+       y="105.37579"
        id="text5"><tspan
          sodipodi:role="line"
          id="tspan5"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="155.87677"
-         y="131.98883">（<tspan
+         x="220.49332"
+         y="105.37579">（   <tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-   id="tspan6">μ：透磁率）</tspan></tspan></text>
+   id="tspan6">：透磁率）</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-       x="153.33861"
-       y="132.17514"
+       x="217.71548"
+       y="105.50771"
        id="text13"><tspan
          sodipodi:role="line"
          id="tspan13"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Sans;-inkscape-font-specification:'Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="153.33861"
-         y="132.17514">Ｉ</tspan></text>
+         x="217.71548"
+         y="105.50771">Ｉ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="212.11023"
+       y="105.19638"
+       id="text8"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Sans;-inkscape-font-specification:'Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="212.11023"
+         y="105.19638">μ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="208.18675"
+       y="105.48604"
+       id="text9"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="208.18675"
+         y="105.48604">＝</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:4.23333px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Italic';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="225.45744"
+       y="104.78922"
+       id="text11"><tspan
+         sodipodi:role="line"
+         id="tspan11"
+         style="stroke-width:0.264583"
+         x="225.45744"
+         y="104.78922">μ</tspan></text>
   </g>
 </svg>
