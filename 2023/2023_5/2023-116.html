@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ビル管理士試験</title>
+    <link rel="stylesheet" href="../../style.css">
+</head>
+<body>
+    <div class="tab">
+        <!-- コンテンツを構成するブロック -->
+        <div class="tab-contents-wrap">
+            <div class="tab-contents is-contents-active">
+                <p>2023年</p>
+                <p><span class="bold">問題116</span><span class="space">給湯設備に使用される配管に関する次の記述のうち，<span class="bold">最も不適当な</span>ものはどれか．</span>
+                <p><span class="bold">（1）</span>循環式給湯設備の下向き配管方式における給湯横主管は，下り勾配とする．
+                <p><span class="bold">（2）</span>耐熱性硬質ポリ塩化ビニル管の線膨張係数は，ポリブテン管の線膨張係数より大きい．
+                <p><span class="bold">（3）</span>自然循環方式は，配管形状が複雑な中央式給湯設備には適さない．
+                <p><span class="bold">（4）</span>返湯管の管径は，給湯循環ポンプの循環量から決定するが，一般には給湯管の管径の半分程度である．
+                <p><span class="bold">（5）</span>局所給湯方式において，加熱装置から給湯箇所までの距離が短い場合は，単管式で配管する．              
+            </div>
+
+            <div class="tab-contents">
+                <p>2023年</p>
+                <p class="bold">問題116<span class="space">正解（2）<span class="space">頻出度AAA</span></p>
+                <p>線膨張係数はポリブテン管の方が大きい（<span class="bold">2023-116-1表</span>参照）．
+                <table>
+                    <caption class="bold">2023-116-1表<span class="space">配管材料の線膨張係数</span></caption>
+                    <tr>
+                        <td class="textCenter">管種</td>
+                        <td class="textCenter">線膨張係数［1/℃］</td>
+                    </tr>
+                    <tr>
+                        <td>銅管</td>
+                        <td class="textCenter">1.77×10<sup>-5</sup></td>
+                    </tr>
+                    <tr>
+                        <td>ステンレス鋼管</td>
+                        <td class="textCenter">1.73×10<sup>-5</sup></td>
+                    </tr>
+                    <tr>
+                        <td>鋼管</td>
+                        <td class="textCenter">1.10×10<sup>-5</sup></td>
+                    </tr>
+                    <tr>
+                        <td>耐熱性硬質ポリ塩化ビニル管</td>
+                        <td class="textCenter">6×10<sup>-5</sup>〜8×10<sup>-5</td>
+                   </tr>
+                    <tr>
+                        <td>架橋ポリエチレン管</td>
+                        <td class="textCenter">14×10<sup>-5</sup>〜23×10<sup>-5</td>
+                    </tr>
+                    <tr>
+                        <td>ポリブテン管</td>
+                        <td class="textCenter">12×10<sup>-5</sup>〜15×10<sup>-5</td>
+                    </tr>
+                </table>
+                <p>金属管と樹脂管の線膨張係数を比べると，樹脂管の方が金属管より数倍から十数倍大きい．
+                <p><span class="bold">-(1) </span>強制循環式給湯系統でも，給水系統と同じように，水抜きやエア抜きをスムースに行えるように，横管には1/200以上の勾配を付ける．
+                <p><span class="bold">-(3) </span>自然循環方式は，湯の温度差（密度差）による自然循環水頭によって湯が循環する方式であるが，中央式給湯方式の配管系統は複雑となることが多く，自然循環水頭による循環を確実に期待することは難しいので採用されることは少ない．
+                <p><span class="bold">-(4) </span>そもそも中央式給湯方式において湯を強制循環させるのは，蛇口をひねったら直ぐにお湯が出て欲しいからで，そのために湯を循環させながら熱を供給し，配管系統に冷めたところがないようにする．給湯循環ポンプの循環水量は次式で求めることができる．
+                <div class="textCenter">
+                    <img style="height: 1.1rem" src="../../eqf/Q_Kyutou-JyunkanRyou=.svg" alt="数式">            
+                </div>
+                <p>ただし，<img class="varSize16 " src="../../eqf/capQ.svg" alt="数式">：循環流量［L/min］
+                <br><img class="varSize16 " src="../../eqf/HL.svg" alt="数式">：循環配管からの熱損失［W］
+                <br><img class="varSize16 " src="../../eqf/varDeltat.svg" alt="数式">：加熱装置における給湯温度と返湯温度との差［℃］
+                <p>保温のための循環量はわずかでよいので，循環させるための返湯管は細くてよいが，あまり細いと流速が早くなって腐食の原因となるので，普通給湯管の半分程度の径で施工されている．
+                <p><span class="bold">-(5) </span>「局所給湯方式において，加熱装置から給湯箇所までの距離が短いので，単管式で配管する」もしくは「中央式給湯方式において，加熱装置から給湯箇所までの距離が短い場合は，単管式で配管する」が適切と思われる（単管式は一管式ともいう）．                   
+           </div>
+        </div>
+        <!-- タブを構成するブロック -->
+        <div class="tab-list">
+          <button class="tab-list-item is-btn-active">問題</button>
+          <button class="tab-list-item">解答</button>
+        </div>   
+        <div class="inner">
+            <button type="button" onclick="location.href='2023-117.html'">次問へ</button>
+            <button type="button" onclick="location.href='2023-115.html'">前問へ</button>
+            <button type="button" onclick="location.href='../../index.html'">目次へ</button>
+        </div>
+    </div>
+      <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>  -->
+      <!-- <script src="jQadd.js"></script>     -->
+      <script src="../../index.js"></script>
+</body>
+</html>
