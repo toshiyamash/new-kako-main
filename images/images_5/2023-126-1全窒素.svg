@@ -3,8 +3,8 @@
 
 <svg
    width="131.97969mm"
-   height="45.549721mm"
-   viewBox="0 0 131.97969 45.549721"
+   height="50.023933mm"
+   viewBox="0 0 131.97969 50.023934"
    version="1.1"
    id="svg1"
    inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="1.8897846"
-     inkscape:cx="255.05552"
-     inkscape:cy="41.803706"
+     inkscape:cx="261.40545"
+     inkscape:cy="68.790909"
      inkscape:window-width="1920"
      inkscape:window-height="968"
      inkscape:window-x="0"
@@ -61,24 +61,24 @@
        xml:space="preserve"
        style="font-size:4.9389px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
        x="36.277946"
-       y="104.49183"
+       y="104.0379"
        id="text1"><tspan
          sodipodi:role="line"
          id="tspan1"
          style="stroke-width:0.264583"
          x="36.277946"
-         y="104.49183">全窒素</tspan></text>
+         y="104.0379">全窒素</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.9389px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
        x="61.906082"
-       y="114.48104"
+       y="118.95525"
        id="text2"><tspan
          sodipodi:role="line"
          id="tspan2"
          style="stroke-width:0.264583"
          x="61.906082"
-         y="114.48104">無機性窒素</tspan></text>
+         y="118.95525">無機性窒素</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.9389px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
@@ -89,58 +89,58 @@
          style="stroke-width:0.264583"
          x="62.001816"
          y="89.960648"
-         id="tspan10">有機性窒素（アミノ酸やタンパ</tspan><tspan
+         id="tspan9">有機性窒素（アミノ酸やタンパク</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
          x="62.001816"
          y="96.13427"
-         id="tspan9"> ク質等有機性化合物中に含ま </tspan><tspan
+         id="tspan3">　　　　　　質等有機性化合物中</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
          x="62.001816"
          y="102.3079"
-         id="tspan13">れている窒素）</tspan></text>
+         id="tspan13">　　　　　　に含まれている窒素）</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.9389px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="92.06823"
-       y="114.29783"
+       x="92.597633"
+       y="118.77204"
        id="text4"><tspan
          sodipodi:role="line"
          id="tspan4"
          style="stroke-width:0.264583"
-         x="92.06823"
-         y="114.29783">アンモニア性窒素</tspan></text>
+         x="92.597633"
+         y="118.77204">アンモニア性窒素</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.9389px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="93.154259"
-       y="130.88756"
+       x="93.683662"
+       y="135.36177"
        id="text5"><tspan
          sodipodi:role="line"
          id="tspan5"
          style="stroke-width:0.264583"
-         x="93.154259"
-         y="130.88756">硝酸性窒素</tspan></text>
+         x="93.683662"
+         y="135.36177">硝酸性窒素</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.9389px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="92.780479"
-       y="122.59269"
+       x="93.309883"
+       y="127.0669"
        id="text6"><tspan
          sodipodi:role="line"
          id="tspan6"
          style="stroke-width:0.264583"
-         x="92.780479"
-         y="122.59269">亜硝酸性窒素</tspan></text>
+         x="93.309883"
+         y="127.0669">亜硝酸性窒素</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
-       d="m 52.237773,102.89116 h 5.06099"
+       d="m 52.237773,102.43723 h 5.06099"
        id="path8"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
-       d="M 57.303211,88.244191 V 112.94392"
+       d="M 57.303211,88.244191 V 117.27594"
        id="path9"
        sodipodi:nodetypes="cc" />
     <path
@@ -150,62 +150,62 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
-       d="m 89.862963,113.07645 v 16.70434"
+       d="m 90.034964,117.55066 v 16.10411"
        id="path11"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
-       d="m 57.380168,112.83023 h 4.090323"
+       d="m 57.380168,117.22678 h 4.090323"
        id="path13"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
-       d="m 89.796784,129.77597 h 2.518052"
+       d="m 89.968785,133.55753 h 2.518052"
        id="path14"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
-       d="m 89.983278,121.01078 h 2.340856"
+       d="m 90.155279,125.48499 h 2.340856"
        id="path15"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
-       d="m 87.76545,112.97747 h 4.41184"
+       d="m 87.937451,117.45168 h 4.41184"
        id="path16"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-size:4.9389px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="44.99073"
-       y="145.26935"
+       x="39.357632"
+       y="163.61357"
        id="text14"><tspan
          sodipodi:role="line"
          id="tspan14"
          style="stroke-width:0.264583"
-         x="44.99073"
-         y="145.26935">公益社団法人 日本建築衛生管理教育センター</tspan></text>
+         x="39.357632"
+         y="163.61357">公益社団法人 日本建築衛生管理教育センター</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.9389px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="45.579742"
-       y="154.63396"
+       x="39.946644"
+       y="172.97818"
        id="text15"><tspan
          sodipodi:role="line"
          id="tspan15"
          style="stroke-width:0.264583"
-         x="45.579742"
-         y="154.63396">新建築物の環境衛生管理 平成31年3月31日 第1版第1刷 中462 </tspan></text>
+         x="39.946644"
+         y="172.97818">新建築物の環境衛生管理 平成31年3月31日 第1版第1刷 中462 </tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.9389px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="182.57892"
-       y="151.95633"
+       x="176.5083"
+       y="173.31288"
        id="text16"><tspan
          sodipodi:role="line"
          id="tspan16"
          style="stroke-width:0.264583"
-         x="182.57892"
-         y="151.95633">脚注</tspan></text>
+         x="176.5083"
+         y="173.31288">脚注</tspan></text>
     <path
        style="fill:#e6e6e6;stroke-width:0.001;stroke-dasharray:none"
        d="m 16.090742,102.60162 -0.56003,7.92791"
