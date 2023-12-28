@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="94.669235mm"
+   width="131.97969mm"
    height="45.549721mm"
-   viewBox="0 0 94.669235 45.549721"
+   viewBox="0 0 131.97969 45.549721"
    version="1.1"
    id="svg1"
    inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
-   sodipodi:docname="全窒素.svg"
+   sodipodi:docname="2023-126-1全窒素.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="1.8897846"
-     inkscape:cx="189.96874"
-     inkscape:cy="78.315804"
+     inkscape:cx="255.05552"
+     inkscape:cy="41.803706"
      inkscape:window-width="1920"
      inkscape:window-height="968"
      inkscape:window-x="0"
@@ -36,8 +36,8 @@
     <inkscape:grid
        id="grid8"
        units="px"
-       originx="-36.460685"
-       originy="-85.732949"
+       originx="-15.530712"
+       originy="-85.732948"
        spacingx="0.26458333"
        spacingy="0.26458334"
        empcolor="#3f3fff"
@@ -56,7 +56,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-36.460686,-85.732949)">
+     transform="translate(-15.530712,-85.732949)">
     <text
        xml:space="preserve"
        style="font-size:4.9389px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
@@ -135,17 +135,17 @@
          y="122.59269">亜硝酸性窒素</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
-       d="m 53.106537,103.3034 h 5.06099"
+       d="m 52.237773,102.89116 h 5.06099"
        id="path8"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
-       d="M 58.136977,88.244191 V 119.25014"
+       d="M 57.303211,88.244191 V 112.94392"
        id="path9"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
-       d="m 58.213934,88.267007 h 4.090323"
+       d="m 57.380168,88.267007 h 4.090323"
        id="path10"
        sodipodi:nodetypes="cc" />
     <path
@@ -155,7 +155,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
-       d="m 58.213934,119.09855 h 4.090323"
+       d="m 57.380168,112.83023 h 4.090323"
        id="path13"
        sodipodi:nodetypes="cc" />
     <path
@@ -173,5 +173,46 @@
        d="m 87.76545,112.97747 h 4.41184"
        id="path16"
        sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="44.99073"
+       y="145.26935"
+       id="text14"><tspan
+         sodipodi:role="line"
+         id="tspan14"
+         style="stroke-width:0.264583"
+         x="44.99073"
+         y="145.26935">公益社団法人 日本建築衛生管理教育センター</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="45.579742"
+       y="154.63396"
+       id="text15"><tspan
+         sodipodi:role="line"
+         id="tspan15"
+         style="stroke-width:0.264583"
+         x="45.579742"
+         y="154.63396">新建築物の環境衛生管理 平成31年3月31日 第1版第1刷 中462 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="182.57892"
+       y="151.95633"
+       id="text16"><tspan
+         sodipodi:role="line"
+         id="tspan16"
+         style="stroke-width:0.264583"
+         x="182.57892"
+         y="151.95633">脚注</tspan></text>
+    <path
+       style="fill:#e6e6e6;stroke-width:0.001;stroke-dasharray:none"
+       d="m 16.090742,102.60162 -0.56003,7.92791"
+       id="path17" />
+    <path
+       style="fill:#e6e6e6;stroke-width:0.001;stroke-dasharray:none"
+       d="m 147.51041,102.69788 -0.33143,7.70914"
+       id="path18" />
   </g>
 </svg>
