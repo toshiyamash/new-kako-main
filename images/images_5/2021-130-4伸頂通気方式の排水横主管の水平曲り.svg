@@ -3,11 +3,11 @@
 
 <svg
    width="121.72935mm"
-   height="85.436737mm"
-   viewBox="0 0 121.72936 85.436737"
+   height="89.058563mm"
+   viewBox="0 0 121.72937 89.058563"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
    sodipodi:docname="2021-130-4伸頂通気方式の排水横主管の水平曲り.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,21 +24,27 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1.0482005"
-     inkscape:cx="78.229308"
-     inkscape:cy="313.39424"
+     inkscape:zoom="0.74118968"
+     inkscape:cx="642.88537"
+     inkscape:cy="366.97759"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="968"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3"
-     inkscape:snap-global="false">
+     inkscape:snap-global="false"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid879"
        originx="3.8886702"
-       originy="-336.12447" />
+       originy="-336.12448"
+       spacingy="1"
+       spacingx="1"
+       units="mm"
+       visible="true" />
   </sodipodi:namedview>
   <defs
      id="defs2">
@@ -1761,26 +1767,27 @@
        sodipodi:nodetypes="ccscccccc" />
     <path
        style="opacity:1;fill:none;fill-opacity:0.929412;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       d="m 55.405472,352.62616 v 8.58218 m 0,2.28753 v 40.24469 l 3.155209,5.17454"
+       d="m 55.405472,352.62616 v 8.58218 m 0,2.28753 v 40.24469 c 0.488385,5.6006 4.626427,8.72552 7.14926,9.40793"
        id="path63688"
        sodipodi:nodetypes="ccccc" />
     <path
        style="opacity:1;fill:none;fill-opacity:0.929412;stroke:#000000;stroke-width:0.799999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       d="m 51.997847,409.35682 h 18.868149 c 0,0 2.082437,0.12623 3.092106,1.70381 0.811433,1.26784 3.092104,5.23767 3.092104,5.23767"
+       d="M 39.944948,413.11349 H 76.44973 c 0,0 2.082437,0.12623 3.092106,1.70381 0.811433,1.26784 3.092104,5.23767 3.092104,5.23767"
        id="path64107"
        sodipodi:nodetypes="ccsc" />
     <path
        style="opacity:1;fill:none;fill-opacity:0.929412;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       d="m 59.570349,395.97875 v 12.49463"
+       d="m 62.633367,399.47906 v 12.49463"
        id="path64541" />
     <path
        style="opacity:1;fill:none;fill-opacity:0.929412;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       d="m 70.929102,395.97875 v 12.49463"
+       d="m 76.31313,399.47906 v 12.49463"
        id="path64623" />
     <path
        style="opacity:1;fill:none;fill-opacity:0.929412;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       d="m 60.832433,400.39604 h 9.150104"
-       id="path64658" />
+       d="M 63.895451,403.89635 H 73.87996"
+       id="path64658"
+       sodipodi:nodetypes="cc" />
     <path
        sodipodi:type="star"
        style="opacity:1;fill:#000000;fill-opacity:0.929412;stroke:#000000;stroke-width:1.13386;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
@@ -1796,7 +1803,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 239.31351,1485.4675 -3.36081,-1.9403 -3.36082,-1.9404 3.36082,-1.9404 3.36081,-1.9403 0,3.8807 z"
-       transform="matrix(0.26458333,0,0,0.26458333,-1.1989795,8.3297522)"
+       transform="matrix(0.26458333,0,0,0.26458333,1.8640383,11.830062)"
        inkscape:transform-center-x="0.29640578"
        inkscape:transform-center-y="-4.9386227e-06" />
     <path
@@ -1814,7 +1821,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 239.31351,1485.4675 -3.36081,-1.9403 -3.36082,-1.9404 3.36082,-1.9404 3.36081,-1.9403 0,3.8807 z"
-       transform="matrix(-0.26458333,0,0,0.26458333,131.83907,8.3297522)"
+       transform="matrix(-0.26458333,0,0,0.26458333,136.91699,11.830062)"
        inkscape:transform-center-x="-0.29640502"
        inkscape:transform-center-y="-4.9386227e-06" />
     <path
@@ -1835,11 +1842,11 @@
        id="path65848" />
     <path
        style="opacity:1;fill:none;fill-opacity:0.929412;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       d="m 77.744353,417.8759 1.640708,2.9028"
+       d="m 83.544268,421.49773 1.640708,2.9028"
        id="path82656" />
     <path
        style="opacity:1;fill:none;fill-opacity:0.929412;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       d="m 77.113312,419.95833 2.58727,1.19899 -0.189312,-2.9028"
+       d="m 82.913227,423.58016 2.58727,1.19899 -0.189312,-2.9028"
        id="path82660" />
     <path
        style="opacity:1;fill:#000000;fill-opacity:0.929412;stroke:#000000;stroke-width:0.478604;stroke-linecap:square"
@@ -2452,6 +2459,12 @@
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
        d="m -443.75977,83.129656 h 3.48049"
        id="path21461" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-dasharray:0.6, 0.6;stroke-dashoffset:0"
+       id="path1"
+       cx="58.638947"
+       cy="409.56561"
+       r="6.1607919" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3170,14 +3183,14 @@
     <text
        xml:space="preserve"
        style="font-size:4.5861px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
-       x="60.07518"
-       y="386.82864"
+       x="63.138199"
+       y="390.32895"
        id="text73902"><tspan
          sodipodi:role="line"
          id="tspan73900"
          style="stroke-width:0.264583"
-         x="60.07518"
-         y="386.82864">3m以上</tspan></text>
+         x="63.138199"
+         y="390.32895">3m以上</tspan></text>
     <path
        style="opacity:1;fill:none;fill-opacity:0.929412;stroke:#000000;stroke-width:0.2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
        d="m 45.498116,339.12189 c 0.631041,0 8.266648,-1.51451 8.266648,-1.51451"
@@ -3185,12 +3198,12 @@
        sodipodi:nodetypes="cc" />
     <path
        style="opacity:1;fill:none;fill-opacity:0.929412;stroke:#000000;stroke-width:0.2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       d="m 43.289468,404.62401 10.727711,4.41729"
+       d="m 80.931912,416.58683 10.764143,-5.08288"
        id="path78772"
        sodipodi:nodetypes="cc" />
     <path
        style="opacity:1;fill:none;fill-opacity:0.929412;stroke:#000000;stroke-width:0.2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       d="m 67.142849,387.45969 -2.27175,12.62084"
+       d="m 70.205867,390.96 -2.27175,12.62084"
        id="path78774" />
     <path
        style="opacity:1;fill:none;fill-opacity:0.929412;stroke:#000000;stroke-width:0.2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
@@ -3199,7 +3212,7 @@
        sodipodi:nodetypes="csccccc" />
     <g
        id="g82085"
-       transform="translate(2.9027924,15.145004)">
+       transform="translate(67.116301,25.087007)">
       <text
          xml:space="preserve"
          style="font-size:4.5861px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
@@ -3658,12 +3671,12 @@
          sodipodi:role="line"
          style="stroke-width:0.264583"
          x="-148.42104"
-         y="195.37555"
+         y="195.04514"
          id="tspan4872">これと類似の器具が8 個以上接続される</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
          x="-148.42104"
-         y="201.43857"
+         y="200.77777"
          id="tspan4874">排水横枝管には，逃し通気管を設ける．</tspan></text>
     <text
        xml:space="preserve"
@@ -3993,5 +4006,46 @@
        style="fill:#000000;fill-opacity:0.905882;stroke:#ffffff;stroke-width:0.2;stroke-dasharray:0.600001, 0.600001"
        d="m 117.49756,374.23936 0.25242,9.33942"
        id="path3189" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="28.737667"
+       y="403.75534"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="stroke-width:0.264583"
+         x="28.737667"
+         y="403.75534">大曲り</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="32.053104"
+       y="408.87073"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="stroke-width:0.264583"
+         x="32.053104"
+         y="408.87073">ベント</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 47.274521,404.46921 10.890893,5.51423"
+       id="path2" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.5861px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="87.4813"
+       y="398.30991"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="stroke-width:0.264583"
+         x="87.4813"
+         y="398.30991">水平曲がり</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M 96.412551,399.75733 78.796164,413.63388"
+       id="path3" />
   </g>
 </svg>
