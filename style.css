@@ -166,6 +166,11 @@ caption{
   font-family:inherit; /* フォントの種類を継承する */
   font-size:1em;	/* フォントの大きさ */
 }
+
+.fontColorId{
+  color: darkgreen;
+}
+
 .fontTransparent{       /* 文字透明 */
   opacity: 0;
 }
