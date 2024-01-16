@@ -167,8 +167,20 @@ caption{
   font-size:1em;	/* フォントの大きさ */
 }
 
-.fontColorId{
+/* 索引のdecoration */
+/* .fontColorId{
+  text-decoration: none;
   color: darkgreen;
+} */
+
+.link1 a {
+  text-decoration: none;
+  color: darkgreen;
+}
+
+.link1 a:hover {
+  text-decoration: underline;
+  text-decoration-color: green;
 }
 
 .fontTransparent{       /* 文字透明 */
