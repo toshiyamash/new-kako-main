@@ -168,10 +168,10 @@ caption{
 }
 
 /* 索引のdecoration */
-/* .fontColorId{
+.fontColorId{
   text-decoration: none;
   color: darkgreen;
-} */
+}
 
 .link1 a {
   text-decoration: none;
