@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1.8897845"
-     inkscape:cx="135.72976"
-     inkscape:cy="132.81937"
+     inkscape:zoom="3.779569"
+     inkscape:cx="140.35992"
+     inkscape:cy="88.369864"
      inkscape:window-width="1920"
      inkscape:window-height="968"
      inkscape:window-x="0"
@@ -132,8 +132,9 @@
        d="m 99.991353,125.98446 h 6.361717"
        id="path14" /><path
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-dasharray:none"
-       d="m 103.16805,128.31173 v 29.19379"
-       id="path15" /><g
+       d="m 103.16805,128.31173 v 4.08186 m 0,1.8767 v 23.23523"
+       id="path15"
+       sodipodi:nodetypes="cccc" /><g
        id="g17"
        transform="translate(-0.2173939,-2.9806208)"><circle
          style="opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-dasharray:none"
