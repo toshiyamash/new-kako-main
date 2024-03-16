@@ -16,6 +16,39 @@
         <!-- コンテンツを構成するブロック -->
         <div class="tab-contents-wrap">
           <div class="tab-contents is-contents-active">
+            <p class="upmrgn">個別問題選択</p>
+            <input type="url" id="url" name="url" placeholder="2023-1">
+            <button onclick="openUrl()">開く</button>
+
+            <script>
+            function openUrl() {
+            const url = document.getElementById('url').value;
+            const result = url.split("-");
+            const year = result[0];
+            const qNum = result[1];
+            
+            if(qNum<=20){
+              cNum = 1;
+            }else if(qNum<=45){
+              cNum = 2;
+            }else if(qNum<=90){
+              cNum = 3;
+            }else if(qNum<=105){
+              cNum = 4;
+            }else if(qNum<=140){
+              cNum = 5;
+            }else if(qNum<=165){
+              cNum = 6;
+            }else if(qNum<=180){
+              cNum = 7;
+            };
+
+            const qUrl = year + "/" + year + "_" + cNum + "/" + year + "-" + qNum + ".html";
+
+            window.location.href = qUrl;
+            }
+            </script>
+
             <p>どこからでも始められます．ボタンをクリックして下さい．</p>
             <p class="upmrgn">2023年（令和5年）</p>
             <button class="downmrgn" type="button"onclick="location.href='./2023/2023_1/2023-1.html'">2023衛生行政概論</button>
