@@ -18,7 +18,8 @@
           <div class="tab-contents is-contents-active">
             <p class="upmrgn">個別問題選択</p>
             <input type="url" id="url" name="url" placeholder="2023-2">
-            <button onclick="openUrl()">開く</button>
+            <!-- <button onclick="openUrl()">開く</button> -->
+            <button type="button"onclick="openUrl()">開く</button>
 
             <script>
             function openUrl() {
@@ -44,7 +45,7 @@
             };
 
             const qUrl = year + "/" + year + "_" + cNum + "/" + year + "-" + qNum + ".html";
-
+            
             window.location.href = qUrl;
             }
             </script>
