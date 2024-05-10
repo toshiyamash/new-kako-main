@@ -6,8 +6,8 @@ body {
   background-color: black;
   }
 
-/* 目次ページ関係 */
-.downmrgn{                          /* 目次の年号ボタンの下にマージン*/
+/* 問題選択ページ関係 */
+.downmrgn{                          /* 問題選択の年号ボタンの下にマージン*/
   margin-bottom: 0.5rem;
   cursor: pointer;
 }
@@ -15,7 +15,7 @@ button.downmrgn:hover{
   font-weight: bold;
 	background-color: #96ecec;
 }
-.upmrgn{                          /* 目次年号位置調整*/
+.upmrgn{                          /* 問題選択年号位置調整*/
   margin-top: 1.5rem;
   margin-bottom: -0.1rem;
 }
@@ -77,7 +77,7 @@ display: block;
 }
 /* ▲タブ表示関係ここまで */
 
-/* ▼次問・前問・目次ボタン */
+/* ▼次問・前問・問題選択ボタン */
 .inner {
   display: flex;
   padding-top: 30px;              
