@@ -95,37 +95,27 @@
                 return;
               }
 
-              console.log(questionNumber);
-
               if(questionNumber<21) {
                 var suject = year + "_1";
-                console.log(suject);
-                // return;                
               }else if(questionNumber>20 && questionNumber<46){
                 var suject = year + "_2";
-                console.log(suject);
-                // return;
               }else if(questionNumber>45 && questionNumber<91){
                 var suject = year + "_3";
-                // return;
               }else if(questionNumber>90 && questionNumber<106){
                 var suject = year + "_4";
-                // return;
               }else if(questionNumber>105 && questionNumber<141){
                 var suject = year + "_5";
-                // return;
               }else if(questionNumber>140 && questionNumber<166){
                 var suject = year + "_6";
-                // return;
               }else if(questionNumber>165){
                 var suject = year + "_7";
               }              
-              console.log(suject);
 
               var link ="./" + year + "/" + suject + "/" + year + "-" + questionNumber + ".html";
-              console.log(link);
 
-              document.getElementById("questionLink").innerHTML = "<a href='" + link + "'>過去問" + year + "年-" + questionNumber + "</a>";
+              window.open(link);
+
+              // document.getElementById("questionLink").innerHTML = "<a href='" + link + "'>過去問" + year + "年-" + questionNumber + "</a>";
             }
             </script>
             <!-- これは、要求された機能を持つ簡単な国家試験過去問検索のWebページです。各年のボタンをクリックすると、問題番号を入力するプロンプトが表示されます。問題番号を入力すると、対応する過去問のリンクが表示され、そのリンクをクリックすると該当する過去問のページに遷移します。 ChatGPT -->
