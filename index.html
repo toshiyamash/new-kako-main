@@ -17,7 +17,7 @@
         <div class="tab-contents-wrap">
           <div class="tab-contents is-contents-active">
 
-            <p>どこからでも始められます．ボタンをクリックして下さい．</p>
+            <p>どこからでも始められます．ボタンをクリックして下さい．<button id="anserSheet" style="cursor: pointer;" onclick="window.open('anserSheet.html')">解答用紙</button></p>
             <p class="upmrgn">2023年（令和5年）</p>
             <button class="downmrgn" type="button" onclick="location.href='./2023/2023_1/2023-1.html'">2023衛生行政概論</button>
             <button class="downmrgn" type="button" onclick="location.href='./2023/2023_2/2023-21.html'">2023建築物の環境衛生</button>
@@ -74,12 +74,12 @@
 
             <p class="upmrgn">個別問題選択（年度を選んで下さい．）</p>
 
-            <button onclick="showPastQuestions('2023')">2023年</button>
-            <button onclick="showPastQuestions('2022')">2022年</button>
-            <button onclick="showPastQuestions('2021')">2021年</button>
-            <button onclick="showPastQuestions('2020')">2020年</button>
-            <button onclick="showPastQuestions('2019')">2019年</button>
-            <button onclick="showPastQuestions('2018')">2018年</button>
+            <button onclick="showPastQuestions('2023')" style="cursor: pointer;">2023年</button>
+            <button onclick="showPastQuestions('2022')" style="cursor: pointer;">2022年</button>
+            <button onclick="showPastQuestions('2021')" style="cursor: pointer;">2021年</button>
+            <button onclick="showPastQuestions('2020')" style="cursor: pointer;">2020年</button>
+            <button onclick="showPastQuestions('2019')" style="cursor: pointer;">2019年</button>
+            <button onclick="showPastQuestions('2018')" style="cursor: pointer;">2018年</button>
 
             <!-- <p id="questionLink"></p> -->
 
@@ -87,11 +87,11 @@
             function showPastQuestions(year) {
               var questionNumber = prompt("問題番号を入力してください（1から180）:");
               if (questionNumber === null || questionNumber === "") {
-                alert("問題番号を入力してください。");
+                alert("問題番号を入力してください．");
                 return;
               }
               if (isNaN(questionNumber) || questionNumber < 1 || questionNumber > 180) {
-                alert("問題番号は1から180の整数で入力してください。");
+                alert("問題番号は1から180の整数で入力してください．");
                 return;
               }
 
@@ -122,8 +122,20 @@
     
           </div>
           <div class="tab-contents">
-            <p>作成中
+            <h2>テーマ選択</h2>
+            <span>憲法第25条</span>
+            <button style="cursor: pointer;" onclick="window.open('./2023/2023_1/2023-1.html')">2023-1</button>           
+            <button style="cursor: pointer;" onclick="window.open('./2020/2020_1/2020-1.html')">2020-1</button><br> 
+            <span>WHO憲章前文</span>
+            <button style="cursor: pointer;" onclick="window.open('./2021/2021_1/2021-2.html')">2021-2</button>           
+            <button style="cursor: pointer;" onclick="window.open('./2019/2019_1/2019-1.html')">2019-1</button> 
           </div>
+
+
+
+
+
+
           <div class="tab-contents">
             <h2>索　引</h2>
             <style>
@@ -4425,7 +4437,7 @@
         <!-- タブを構成するブロック -->
         <div class="tab-list">
           <button class="tab-list-item is-btn-active">問題選択</button>
-          <button class="tab-list-item">課題選択</button>
+          <button class="tab-list-item">テーマ選択</button>
           <button class="tab-list-item">索引</button>
           <button class="tab-list-item">掲示板</button>
         </div>      
