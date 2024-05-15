@@ -16,6 +16,7 @@
         <!-- コンテンツを構成するブロック -->
         <div class="tab-contents-wrap">
           <div class="tab-contents is-contents-active">
+            <h2>問題選択</h2>
 
             <p>どこからでも始められます．ボタンをクリックして下さい．<button id="anserSheet" style="cursor: pointer;" onclick="window.open('anserSheet.html')">解答用紙</button></p>
             <p class="upmrgn">2023年（令和5年）</p>
@@ -121,20 +122,177 @@
             <!-- これは、要求された機能を持つ簡単な国家試験過去問検索のWebページです。各年のボタンをクリックすると、問題番号を入力するプロンプトが表示されます。問題番号を入力すると、対応する過去問のリンクが表示され、そのリンクをクリックすると該当する過去問のページに遷移します。 ChatGPT -->
     
           </div>
+
           <div class="tab-contents">
             <h2>テーマ選択</h2>
-            <span>憲法第25条</span>
-            <button style="cursor: pointer;" onclick="window.open('./2023/2023_1/2023-1.html')">2023-1</button>           
-            <button style="cursor: pointer;" onclick="window.open('./2020/2020_1/2020-1.html')">2020-1</button><br> 
-            <span>WHO憲章前文</span>
-            <button style="cursor: pointer;" onclick="window.open('./2021/2021_1/2021-2.html')">2021-2</button>           
-            <button style="cursor: pointer;" onclick="window.open('./2019/2019_1/2019-1.html')">2019-1</button> 
+            <h4>第1章建築物衛生行政概論</h4>
+            <span style="font-size: 13px;">テーマと問題番号ボタンはクリックすると色が変わります．目印にお使い下さい．</span>
+            <button type="button" id="btnReset" >リセット</button><br>
+        
+            <button class="sujetTheme">憲法第25条</button>
+            <button id="q2023-1" class="qN" onclick="window.open('./2023/2023_1/2023-1.html')">2023-1</button>           
+            <button id="q2020-1" class="qN" onclick="window.open('./2020/2020_1/2020-1.html')">2020-1</button><br> 
+            <button class="sujetTheme">WHO憲章前文</button>
+            <button id="q2021-2" class="qN" onclick="window.open('./2021/2021_1/2021-2.html')">2021-2</button>           
+            <button id="q2019-1" class="qN" onclick="window.open('./2019/2019_1/2019-1.html')">2019-1</button><br>
+            <button class="sujetTheme">衛生行政組織</button>
+            <button id="q2020-2" class="qN" onclick="window.open('./2020/2020_1/2020-2.html')">2020-2</button><br>           
+            <button class="sujetTheme">所管法令</button>
+            <button id="q2023-2" class="qN" onclick="window.open('./2023/2023_1/2023-2.html')">2023-2</button>           
+            <button id="q2022-1" class="qN" onclick="window.open('./2022/2022_1/2022-1.html')">2022-1</button>
+            <button id="q2021-1" class="qN" onclick="window.open('./2021/2021_1/2021-1.html')">2021-1</button>
+            <button id="q2019-16" class="qN" onclick="window.open('./2019/2019_1/2019-16.html')">2019-16</button><br>
+            <button class="sujetTheme">ビル管理法の概要</button>
+            <button id="q2022-2" class="qN" onclick="window.open('./2022/2022_1/2022-2.html')">2022-2</button>           
+            <button id="q2021-3" class="qN" onclick="window.open('./2021/2021_1/2021-3.html')">2021-3</button>           
+            <button id="q2019-4" class="qN" onclick="window.open('./2019/2019_1/2019-4.html')">2019-4</button><br>           
+            <button class="sujetTheme">ビル管理法の歴史・改正</button>
+            <button id="q2022-4" class="qN" onclick="window.open('./2022/2022_1/2022-4.html')">2022-4</button>           
+            <button id="q2018-4" class="qN" onclick="window.open('./2018/2018_1/2018-4.html')">2018-4</button><br>           
+            <button class="sujetTheme">特定建築物の用途</button>
+            <button id="q2023-3" class="qN" onclick="window.open('./2023/2023_1/2023-3.html')">2023-3</button>           
+            <button id="q2023-4" class="qN" onclick="window.open('./2023/2023_1/2023-4.html')">2023-4</button>           
+            <button id="q2022-3" class="qN" onclick="window.open('./2022/2022_1/2022-3.html')">2022-3</button>           
+            <button id="q2019-5" class="qN" onclick="window.open('./2019/2019_1/2019-5.html')">2019-5</button>           
+            <button id="q2019-2" class="qN" onclick="window.open('./2019/2019_1/2019-2.html')">2019-2</button><br>           
+            <button class="sujetTheme">特定建築物の面積</button>
+            <button id="q2022-5" class="qN" onclick="window.open('./2022/2022_1/2022-5.html')">2022-5</button>           
+            <button id="q2021-4" class="qN" onclick="window.open('./2021/2021_1/2021-4.html')">2021-4</button>           
+            <button id="q2020-3" class="qN" onclick="window.open('./2020/2020_1/2020-3.html')">2020-3</button>           
+            <button id="q2020-4" class="qN" onclick="window.open('./2020/2020_1/2020-4.html')">2020-4</button>           
+            <button id="q2019-3" class="qN" onclick="window.open('./2019/2019_1/2019-3.html')">2019-3</button>           
+            <button id="q2019-6" class="qN" onclick="window.open('./2019/2019_1/2019-6.html')">2019-6</button>           
+            <button id="q2018-2" class="qN" onclick="window.open('./2018/2018_1/2018-2.html')">2018-2</button>           
+            <button id="q2018-3" class="qN" onclick="window.open('./2018/2018_1/2018-3.html')">2018-3</button><br>           
+            <button class="sujetTheme">特定建築物の届出</button>
+            <button id="q2023-5" class="qN" onclick="window.open('./2023/2023_1/2023-5.html')">2023-5</button>           
+            <button id="q2022-6" class="qN" onclick="window.open('./2022/2022_1/2022-6.html')">2022-6</button>           
+            <button id="q2021-5" class="qN" onclick="window.open('./2021/2021_1/2021-5.html')">2021-5</button>           
+            <button id="q2020-5" class="qN" onclick="window.open('./2020/2020_1/2020-5.html')">2020-5</button>           
+            <button id="q2019-7" class="qN" onclick="window.open('./2019/2019_1/2019-7.html')">2019-7</button>           
+            <button id="q2018-5" class="qN" onclick="window.open('./2018/2018_1/2018-5.html')">2018-5</button><br>           
+            <button class="sujetTheme">帳簿書類の備付け</button>
+            <button id="q2023-6" class="qN" onclick="window.open('./2023/2023_1/2023-6.html')">2023-6</button>           
+            <button id="q2021-6" class="qN" onclick="window.open('./2021/2021_1/2021-6.html')">2021-6</button>           
+            <button id="q2020-6" class="qN" onclick="window.open('./2020/2020_1/2020-6.html')">2020-6</button><br>           
+            <button class="sujetTheme">空気環境測定の方法等</button>
+            <button id="q2023-7" class="qN" onclick="window.open('./2023/2023_1/2023-7.html')">2023-7</button>           
+            <button id="q2022-7" class="qN" onclick="window.open('./2022/2022_1/2022-7.html')">2022-7</button>           
+            <button id="q2021-10" class="qN" onclick="window.open('./2021/2021_1/2021-10.html')">2021-10</button>           
+            <button id="q2020-7" class="qN" onclick="window.open('./2020/2020_1/2020-7.html')">2020-7</button>           
+            <button id="q2019-8" class="qN" onclick="window.open('./2019/2019_1/2019-8.html')">2019-8</button>           
+            <button id="q2018-7" class="qN" onclick="window.open('./2018/2018_1/2018-7.html')">2018-7</button><br>           
+            <button class="sujetTheme">空気環境測定の管理基準値</button>      
+            <button id="q2021-7" class="qN" onclick="window.open('./2021/2021_1/2021-7.html')">2021-7</button>           
+            <button id="q2019-10" class="qN" onclick="window.open('./2019/2019_1/2019-10.html')">2019-10</button>           
+            <button id="q2018-6" class="qN" onclick="window.open('./2018/2018_1/2018-6.html')">2018-6</button><br>           
+            <button class="sujetTheme">給排水設備の維持管理</button>      
+            <button id="q2022-9" class="qN" onclick="window.open('./2022/2022_1/2022-9.html')">2022-9</button>           
+            <button id="q2020-8" class="qN" onclick="window.open('./2020/2020_1/2020-8.html')">2020-8</button><br>           
+            <button class="sujetTheme">飲料水の管理基準</button>      
+            <button id="q2023-8" class="qN" onclick="window.open('./2023/2023_1/2023-8.html')">2023-8</button>           
+            <button id="q2021-9" class="qN" onclick="window.open('./2021/2021_1/2021-9.html')">2021-9</button>           
+            <button id="q2019-15" class="qN" onclick="window.open('./2019/2019_1/2019-15.html')">2019-15</button><br>           
+            <button class="sujetTheme">雑用水の管理基準</button>      
+            <button id="q2023-9" class="qN" onclick="window.open('./2023/2023_1/2023-9.html')">2023-9</button>           
+            <button id="q2022-8" class="qN" onclick="window.open('./2022/2022_1/2022-8.html')">2022-8</button><br>           
+            <button class="sujetTheme">建築物環境衛生管理技術者</button>      
+            <button id="q2022-10" class="qN" onclick="window.open('./2022/2022_1/2022-10.html')">2022-10</button>           
+            <button id="q2021-8" class="qN" onclick="window.open('./2021/2021_1/2021-8.html')">2021-8</button>           
+            <button id="q2019-9" class="qN" onclick="window.open('./2019/2019_1/2019-9.html')">2019-9</button><br>           
+            <button class="sujetTheme">ビル管理士免状</button>      
+            <button id="q2023-10" class="qN" onclick="window.open('./2023/2023_1/2023-10.html')">2023-10</button>           
+            <button id="q2020-9" class="qN" onclick="window.open('./2020/2020_1/2020-9.html')">2020-9</button><br>           
+            <button class="sujetTheme">事業の登録</button>      
+            <button id="q2023-12" class="qN" onclick="window.open('./2023/2023_1/2023-12.html')">2023-12</button>           
+            <button id="q2022-12" class="qN" onclick="window.open('./2022/2022_1/2022-12.html')">2022-12</button>           
+            <button id="q2021-11" class="qN" onclick="window.open('./2021/2021_1/2021-11.html')">2021-11</button>           
+            <button id="q2018-11" class="qN" onclick="window.open('./2018/2018_1/2018-11.html')">2018-11</button><br>           
+            <button class="sujetTheme">事業の登録要件</button>      
+            <button id="q2023-11" class="qN" onclick="window.open('./2023/2023_1/2023-11.html')">2023-11</button>           
+            <button id="q2022-11" class="qN" onclick="window.open('./2022/2022_1/2022-11.html')">2022-11</button>           
+            <button id="q2021-12" class="qN" onclick="window.open('./2021/2021_1/2021-12.html')">2021-12</button>           
+            <button id="q2020-10" class="qN" onclick="window.open('./2020/2020_1/2020-10.html')">2020-10</button>           
+            <button id="q2019-11" class="qN" onclick="window.open('./2019/2019_1/2019-11.html')">2019-11</button>           
+            <button id="q2019-12" class="qN" onclick="window.open('./2019/2019_1/2019-12.html')">2019-12</button>           
+            <button id="q2018-10" class="qN" onclick="window.open('./2018/2018_1/2018-10.html')">2018-10</button><br>           
+            <button class="sujetTheme">立入検査，罰則</button>      
+            <button id="q2023-13" class="qN" onclick="window.open('./2023/2023_1/2023-13.html')">2023-13</button>           
+            <button id="q2022-13" class="qN" onclick="window.open('./2022/2022_1/2022-13.html')">2022-13</button>           
+            <button id="q2021-13" class="qN" onclick="window.open('./2021/2021_1/2021-13.html')">2021-13</button>           
+            <button id="q2021-14" class="qN" onclick="window.open('./2021/2021_1/2021-14.html')">2021-14</button>           
+            <button id="q2019-14" class="qN" onclick="window.open('./2019/2019_1/2019-14.html')">2019-14</button>           
+            <button id="q2018-13" class="qN" onclick="window.open('./2018/2018_1/2018-13.html')">2018-13</button><br>           
+            
+            <script>
+              document.addEventListener("DOMContentLoaded", function() {
+                  var elements = document.querySelectorAll(".sujetTheme");
+                  elements.forEach(function(element) {
+                      element.addEventListener("click", function() {
+                          this.classList.add("click");
+                      });
+                  });
+              });
+      
+              document.addEventListener("DOMContentLoaded", function() {
+                  var qNelements = document.querySelectorAll(".qN");
+                  qNelements.forEach(function(element) {
+                      element.addEventListener("click",function() {
+                          if("q" + element.textContent === element.id) {
+                              this.classList.add("btnBc");
+                          }
+                      })
+                  })
+              });
+          
+              document.getElementById("btnReset").addEventListener("click",() => {
+                  var sTelements = document.querySelectorAll(".sujetTheme.click");
+                  console.log(sTelements);
+                  sTelements.forEach((element) => {
+                      element.classList.remove("click")
+                  });
+                  var qNClickselements = document.querySelectorAll(".btnBc");
+                  console.log(qNClickselements);
+                  qNClickselements.forEach((element) => {
+                      element.classList.remove("btnBc")
+                  });
+              });      
+            </script>
+            <style>
+              .qN{
+                  cursor: pointer;
+              }
+              .sujetTheme{
+                  background: #bbbbbb3b;
+                  font-size: 0.5em;
+                  padding: 2px;
+                  margin: 0.5em;
+                  box-sizing: border-box;
+                  text-align: center;
+                  text-decoration: none;
+                  border-width: 1px;
+                  border-radius: 0px;
+                  cursor: pointer;
+              }
+              .sujetTheme.click{
+                  background: rgb(181, 213, 240);
+              }
+              .btnBc{
+                  background-color: rgba(251, 255, 0, 0.63);
+              }
+              #btnReset{
+                  cursor: pointer; 
+                  font-size: 0.5em;
+                  padding: 2px;
+                  margin: 0.5em;
+                  box-sizing: border-box;
+                  text-align: center;
+                  text-decoration: none;
+                  border-width: 1px;
+                  border-radius: 5px;
+              }
+            </style>
           </div>
-
-
-
-
-
 
           <div class="tab-contents">
             <h2>索　引</h2>
