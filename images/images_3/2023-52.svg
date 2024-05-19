@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="102.35612mm"
-   height="71.157135mm"
-   viewBox="0 0 102.35612 71.157135"
+   width="160.00853mm"
+   height="71.209526mm"
+   viewBox="0 0 160.00854 71.209526"
    version="1.1"
    id="svg5"
    inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
@@ -25,20 +25,20 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1.5376122"
-     inkscape:cx="226.97531"
-     inkscape:cy="152.18402"
+     inkscape:zoom="1.087256"
+     inkscape:cx="275.4641"
+     inkscape:cy="167.39388"
      inkscape:window-width="1920"
-     inkscape:window-height="968"
+     inkscape:window-height="974"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
+     inkscape:current-layer="layer3">
     <inkscape:grid
        type="xygrid"
        id="grid2315"
-       originx="-1.212436"
-       originy="-3.787534"
+       originx="27.712207"
+       originy="-3.6372509"
        spacingy="1"
        spacingx="1"
        units="mm"
@@ -59,7 +59,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:none"
-     transform="translate(-1.2124359,-3.7875338)"
+     transform="translate(27.712206,-3.6372506)"
      sodipodi:insensitive="true">
     <image
        y="0.82703948"
@@ -76,7 +76,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     transform="translate(-1.2124359,-3.7875338)">
+     transform="translate(27.712206,-3.6372506)">
     <path
        id="rect2369"
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5"
@@ -111,7 +111,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layer 3"
-     transform="translate(-1.2124359,-3.7875338)">
+     transform="translate(27.712206,-3.6372506)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;word-spacing:0px;stroke-width:0.264583"
@@ -178,5 +178,13 @@
          style="stroke-width:0.264583"
          x="91.199303"
          y="74.50811">地表面</tspan></text>
+    <path
+       style="fill:#000000;stroke:#ffffff;stroke-width:0.001"
+       d="m -27.711709,33.943618 0.592177,5.662988"
+       id="path1" />
+    <path
+       style="fill:#000000;stroke:#ffffff;stroke-width:0.001"
+       d="m 132.29582,35.894152 -0.6446,6.261886"
+       id="path2" />
   </g>
 </svg>
