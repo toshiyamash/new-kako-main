@@ -30,7 +30,7 @@ button.downmrgn:hover{
 .tab-list{
 display: flex;
 /* justify-content: flex-end;  */
-padding-top: 30px;  
+padding-top: 20px;  
 position: fixed;
 right:0px;
 bottom: 5px;
