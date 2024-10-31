@@ -8469,7 +8469,7 @@ AAAAAEpBFA0AAAAAAAAAACjl/wHvQBuzDaSigAAAAABJRU5ErkJggg==
          id="tspan32658"
          style="stroke-width:0.264583"
          x="224.30769"
-         y="72">シリンダに対して上方向に偏心して取りつけられた回転子（ロータ）があり、その回転子に羽根（ブレード）が組み込まれています。</tspan></text>
+         y="72">シリンダに対して上方向に偏心して取りつけられた回転子（ロータ）があり、その回転子に羽根（ブレード）が組み込まれています．</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.5861px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
@@ -8480,7 +8480,7 @@ AAAAAEpBFA0AAAAAAAAAACjl/wHvQBuzDaSigAAAAABJRU5ErkJggg==
          id="tspan34950"
          style="stroke-width:0.264583"
          x="-270"
-         y="136.38461">スクロール圧縮機は、固定スクロール外側の吸込み口から冷媒を吸入します。</tspan><tspan
+         y="136.38461">スクロール圧縮機は、固定スクロール外側の吸込み口から冷媒を吸入します．</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
          x="-270"
@@ -8490,7 +8490,7 @@ AAAAAEpBFA0AAAAAAAAAACjl/wHvQBuzDaSigAAAAABJRU5ErkJggg==
          style="stroke-width:0.264583"
          x="-270"
          y="148.18027"
-         id="tspan34956">圧縮空間に封じ込められた冷媒は、旋回運動に伴う圧縮室の縮小によって、渦の中心に向かって圧縮されます。</tspan><tspan
+         id="tspan34956">圧縮空間に封じ込められた冷媒は、旋回運動に伴う圧縮室の縮小によって、渦の中心に向かって圧縮されます．</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
          x="-270"
@@ -8500,7 +8500,7 @@ AAAAAEpBFA0AAAAAAAAAACjl/wHvQBuzDaSigAAAAABJRU5ErkJggg==
          style="stroke-width:0.264583"
          x="-270"
          y="159.97592"
-         id="tspan34960">圧縮空間は中心部で最小となるため冷媒は最高に圧縮され、中心部にある吐出し口から外へ押し出されます。</tspan></text>
+         id="tspan34960">圧縮空間は中心部で最小となるため冷媒は最高に圧縮され、中心部にある吐出し口から外へ押し出されます．</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.5861px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
@@ -8511,7 +8511,7 @@ AAAAAEpBFA0AAAAAAAAAACjl/wHvQBuzDaSigAAAAABJRU5ErkJggg==
          id="tspan39274"
          style="stroke-width:0.264583"
          x="-306"
-         y="238.84616">スクリュー式圧縮機の構造は、オス・メス2つの歯車を持ったロータのねじが、平行にかみ合って密封線を作っています。</tspan><tspan
+         y="238.84616">スクリュー式圧縮機の構造は、オス・メス2つの歯車を持ったロータのねじが、平行にかみ合って密封線を作っています．</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
          x="-306"
@@ -8521,7 +8521,7 @@ AAAAAEpBFA0AAAAAAAAAACjl/wHvQBuzDaSigAAAAABJRU5ErkJggg==
          style="stroke-width:0.264583"
          x="-306"
          y="250.64182"
-         id="tspan39280">溝の中に吸入された冷媒ガスは、吐出口にでるまで圧縮が続けられます。</tspan><tspan
+         id="tspan39280">溝の中に吸入された冷媒ガスは、吐出口にでるまで圧縮が続けられます．</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
          x="-306"
@@ -8531,7 +8531,7 @@ AAAAAEpBFA0AAAAAAAAAACjl/wHvQBuzDaSigAAAAABJRU5ErkJggg==
          style="stroke-width:0.264583"
          x="-306"
          y="262.43747"
-         id="tspan39284">構造は簡単ですが、ロータの加工には極度の精密さを要求されます。</tspan></text>
+         id="tspan39284">構造は簡単ですが、ロータの加工には極度の精密さを要求されます．</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.5861px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
@@ -8542,7 +8542,7 @@ AAAAAEpBFA0AAAAAAAAAACjl/wHvQBuzDaSigAAAAABJRU5ErkJggg==
          id="tspan41750"
          style="stroke-width:0.264583"
          x="-308.07693"
-         y="308.07693">遠心式圧縮機の圧縮作用は、往復動式圧縮機のように容積圧縮方法ではなく、冷媒ガスを高速回転の羽根車（インペラ）に吸入させます。</tspan><tspan
+         y="308.07693">遠心式圧縮機の圧縮作用は、往復動式圧縮機のように容積圧縮方法ではなく、冷媒ガスを高速回転の羽根車（インペラ）に吸入させます．</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
          x="-308.07693"
@@ -8552,6 +8552,6 @@ AAAAAEpBFA0AAAAAAAAAACjl/wHvQBuzDaSigAAAAABJRU5ErkJggg==
          style="stroke-width:0.264583"
          x="-308.07693"
          y="319.87259"
-         id="tspan41756">ガスに速度を与えてディヒューザ部で、速度エネルギーを圧力エネルギーに変換させる圧縮方式を使用しています。</tspan></text>
+         id="tspan41756">ガスに速度を与えてディヒューザ部で、速度エネルギーを圧力エネルギーに変換させる圧縮方式を使用しています．</tspan></text>
   </g>
 </svg>
