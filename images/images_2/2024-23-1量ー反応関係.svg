@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="65.721939mm"
+   height="66.891167mm"
+   viewBox="0 0 65.721938 66.891166"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
+   sodipodi:docname="2024-23-1量ー反応関係.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.5376122"
+     inkscape:cx="48.776928"
+     inkscape:cy="220.7969"
+     inkscape:window-width="1920"
+     inkscape:window-height="973"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3">
+    <inkscape:grid
+       type="xygrid"
+       id="grid134"
+       originx="-61.612934"
+       originy="-94.98494"
+       spacingy="1"
+       spacingx="1"
+       units="mm"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-61.612937,-94.984934)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     transform="translate(-61.612937,-94.984934)">
+    <path
+       style="fill:none;fill-opacity:0.929412;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
+       d="M 68.485514,94.984934 V 153.49015 H 127.33488"
+       id="path249" />
+    <path
+       style="fill:none;fill-opacity:0.929412;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none;stroke-opacity:1"
+       d="M 68.485514,153.49015 C 89.365235,153.73203 98.92957,143.11718 98.770567,125.61413 98.631926,110.3525 105.84748,98.505649 121.48435,98.426417"
+       id="path1048"
+       sodipodi:nodetypes="csc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 3"
+     transform="translate(-61.612937,-94.984934)">
+    <g
+       id="g2"
+       transform="translate(6.8473418,-1.9828859)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;word-spacing:0px;stroke-width:0.264583"
+         x="80.964256"
+         y="161.47591"
+         id="text1310"><tspan
+           sodipodi:role="line"
+           id="tspan1308"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="80.964256"
+           y="161.47591">量</tspan></text>
+      <g
+         id="g1380"
+         transform="translate(0,1.2296894)">
+        <path
+           style="fill:none;fill-opacity:0.929412;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
+           d="m 102.72827,158.65237 h 7.39919"
+           id="path1312" />
+        <path
+           id="path1370"
+           style="fill:none;fill-opacity:0.929412;stroke:#000000;stroke-width:0.3;stroke-dasharray:none"
+           inkscape:transform-center-x="-0.37190228"
+           d="m 107.89604,157.64966 2.23142,1.00271 -2.23142,1.0027"
+           sodipodi:nodetypes="ccc"
+           inkscape:transform-center-y="-3.3577104e-06" />
+      </g>
+      <path
+         style="fill:#000000;stroke:#ffffff;stroke-width:0;stroke-dasharray:none"
+         d="m 93.170384,159.88605 5.039889,-0.008"
+         id="path1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#ffffff;stroke-width:0;stroke-dasharray:none"
+         x="83.678665"
+         y="161.49072"
+         id="text1"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           style="stroke-width:0"
+           x="83.678665"
+           y="161.49072">（暴露量）</tspan></text>
+    </g>
+    <g
+       id="g3"
+       transform="translate(0,-3.5255039)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;word-spacing:0px;stroke-width:0.264583"
+         x="61.507103"
+         y="120.46938"
+         id="text1254"><tspan
+           sodipodi:role="line"
+           id="tspan1252"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="61.507103"
+           y="120.46938">反</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="61.507103"
+           y="126.20235"
+           id="tspan1306">応</tspan></text>
+      <g
+         id="g1386"
+         transform="rotate(-90,61.453772,156.47813)">
+        <path
+           style="fill:none;fill-opacity:0.929412;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
+           d="m 102.72827,158.65237 h 7.39919"
+           id="path1382" />
+        <path
+           id="path1384"
+           style="fill:none;fill-opacity:0.929412;stroke:#000000;stroke-width:0.3;stroke-dasharray:none"
+           inkscape:transform-center-x="-0.37190228"
+           d="m 107.89604,157.64966 2.23142,1.00271 -2.23142,1.0027"
+           sodipodi:nodetypes="ccc"
+           inkscape:transform-center-y="-3.3577104e-06" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:tb-rl;fill:#000000;stroke:#ffffff;stroke-width:0;stroke-dasharray:none"
+         x="63.628002"
+         y="125.42055"
+         id="text2"><tspan
+           sodipodi:role="line"
+           id="tspan2"
+           style="writing-mode:tb-rl;stroke-width:0"
+           x="63.628002"
+           y="125.42055">（陽性者数）</tspan></text>
+    </g>
+    <path
+       style="fill:#000000;stroke:#ffffff;stroke-width:0;stroke-dasharray:none"
+       d="m 93.429852,161.786 5.634085,0.0901"
+       id="path2" />
+  </g>
+</svg>
