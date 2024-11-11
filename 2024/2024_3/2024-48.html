@@ -38,25 +38,26 @@
                     <img src="../../images/images_3/2022-46-1熱伝導と温度勾配.svg" alt="熱伝導と温度勾配">
                 </div>
                 <p>問題の図ではB部材の熱伝導率が最も大きく，温度勾配の最も大きいA部材が断熱材となる．
-
-                <p><span class="bold">-(2) </span>壁表面の(総合)熱伝達率＝放射熱伝達率＋対流熱伝達率である．
-                <p>壁表面とそれに接する空気間の放射による伝達熱流量 <img class="varSize15" src="../../eqf/q-r_Housha-Netu-Dentaturyo.svg" alt="数式">[W/m<sup>2</sup>]は壁と空気の温度差に比例し，その比例係数を「放射熱伝達率」という．すなわち，
+                <p><span class="bold">-(2) </span>壁表面における熱流<img class="varSize15" src="../../eqf/q.svg" alt="数式">[W/m<sup>2</sup>]は，対流による熱流<img class="varSize15" src="../../eqf/q-c_Tairyuu-Netu-Dentaturyou.svg" alt="数式">[W/m<sup>2</sup>]と放射による熱流<img class="varSize15" src="../../eqf/q-r_Housha-Netu-Dentaturyo.svg" alt="数式">[W/m<sup>2</sup>]を合わせたものになる．すなわち，
                 <div class="textCenter">
-                    <img style="height: 1.3rem" src="../../eqf/q-r_Housha=.svg" alt="数式">            
+                    <img style="height: 1.3rem" src="../../eqf/q=sougouNetuDentatuRyou.svg" alt="数式">            
                 </div>
-                <br>ただし，<img class="varSize14" src="../../eqf/alpha-r_Housha-Netu-Dentaturitu.svg" alt="数式">：放射熱伝達率［W/(m<sup>2</sup>･K)］，<img class="varSize18" src="../../eqf/theta-s_Kabe-Hyoumen-Ondo.svg" alt="数式">：壁表面温度［℃］，<img class="varSize18" src="../../eqf/thata-a_Kuuki-Ondo.svg" alt="数式">：空気温度［℃］．
-                <br>常温で室内の放射率が0.9程度とすれば放射熱伝達率は4.5W/(m<sup>2</sup>･K)程度となる．
+                <br>ただし，<img class="varSize15" src="../../eqf/alpha-c_Tairyuu-Netu-Dentaturitu.svg" alt="数式">：対流熱伝達率［W/(m<sup>2</sup>･K)］，<img class="varSize14" src="../../eqf/alpha-r_Housha-Netu-Dentaturitu.svg" alt="数式">：放射熱伝達率［W/(m<sup>2</sup>･K)］，<img class="varSize18" src="../../eqf/theta-s_Kabe-Hyoumen-Ondo.svg" alt="数式">：壁表面温度［℃］，<img class="varSize18" src="../../eqf/thata-a_Kuuki-Ondo.svg" alt="数式">：空気温度［℃］，<img class="varSize13" src="../../eqf/alpha-sougouNetuDentaturitu.svg" alt="数式">：（総合）熱伝達率［W/(m<sup>2</sup>･K)］．
                 <p>壁表面とそれに接する空気間の対流による伝達熱流 <img class="varSize15" src="../../eqf/q-c_Tairyuu-Netu-Dentaturyou.svg" alt="数式">［W/m<sup>2</sup>］は壁と空気の温度差に比例し，その比例係数を「対流熱伝達率」という．すなわち，
                 <div class="textCenter">
                     <img style="height: 1.3rem" src="../../eqf/q-c_Tairyuu=.svg" alt="数式">            
                 </div>
-                <br>ただし，<img class="varSize15" src="../../eqf/alpha-c_Tairyuu-Netu-Dentaturitu.svg" alt="数式">：対流熱伝達率［W/(m<sup>2</sup>･K)］．
                 <p>自然対流において，壁付近では抵抗によって空気の動きが制限され，その空気が一種の保温材のような働きをするために熱の移動が妨げられる．これを境界層という（<span class="bold">2024-48-2図</span>）．
                 <div class="imgcap">2024-48-2図<span class="space">境界層の温度勾配</span></div>
                 <div class="textCenter">
                     <img src="../../images/images_3/2021-49-2境界層.svg" alt="境界層">
                 </div>
                 <br>一般に気流の影響が大きい屋外側では境界層ができにくく，屋外側の対流熱伝達率は大きくなる．又送風機などによる強制対流でも境界層が出来にくく，自然対流に比べ対流熱伝達率の値は大きくなる．
+                <p>壁表面とそれに接する空気間の放射による伝達熱流量は壁と空気の温度差に比例し，その比例係数を「放射熱伝達率」という．すなわち，
+                <div class="textCenter">
+                    <img style="height: 1.3rem" src="../../eqf/q-r_Housha=.svg" alt="数式">            
+                </div>
+                <br>常温で室内の放射率が0.9程度とすれば放射熱伝達率は4.5W/(m<sup>2</sup>･K)程度となる．
                 <p>放射熱伝達率と対流熱伝達率の和を総合熱伝達率といい，熱伝達率と言えばこの総合熱伝達率を指す．室内側熱伝達率の常用値は9W/(m<sup>2</sup>･K)，屋外側23W/(m<sup>2</sup>･K)を用いる．値の違いは，前述のとおり，対流熱伝達率が異なることによる．
                 <br>問題に与えられている図も，確かに室内側の境界層の温度勾配が大きく描いてある．
                 <p><span class="bold">-(3) </span>主体構造の屋外側に断熱材の A 部材が配置されているので，外断熱構造である．
