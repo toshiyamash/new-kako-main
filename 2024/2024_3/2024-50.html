@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ビル管理士試験</title>
+    <link rel="stylesheet" href="../../style.css">
+</head>
+<body>
+    <div class="tab">
+        <!-- コンテンツを構成するブロック -->
+        <div class="tab-contents-wrap">
+            <div class="tab-contents is-contents-active">
+                <p>2024年</p>
+                <p><span class="bold">問題50</span><span class="space">熱放射に関する次の記述のうち，<span class="bold">最も不適当な</span>ものはどれか．</span>
+                <p><span class="bold">（1）</span>常温物体から射出される電磁波は，波長が10μm付近の赤外線が主体である．
+                <p><span class="bold">（2）</span>アスファルトは，新しい亜鉛鉄板より長波長放射率が大きい．
+                <p><span class="bold">（3）</span>放射熱伝達式の簡略化では，放射熱伝達率が用いられる．
+                <p><span class="bold">（4）</span>アスファルトは，光ったアルミ箔より日射吸収率が大きい．
+                <p><span class="bold">（5）</span>物体表面から放射される単位面積当たりの放射熱流は，絶対温度の二乗に比例する．
+            </div>
+
+            <div class="tab-contents">
+                <p>2024年</p>
+                <p class="bold">問題50<span class="space">正解（5）<span class="space">頻出度AAA</span></p>
+                <p>固体表面からの熱の放射は，固体表面の絶対温度の<span class="underln">4乗に比例する</span>．
+                <p>絶対温度<img class="varSize15" src="../../eqf/capT.svg" alt="数式">［K］の物体表面から射出される単位面積当たりの放射熱流<img class="varSize15" src="../../eqf/q.svg" alt="数式">［W/m<sup>2</sup>］は次式の通り<img class="varSize15" src="../../eqf/capT.svg" alt="数式">の4乗に比例する（シュテファン・ボルツマンの法則）．<img class="varSize12" src="../../eqf/gresigma.svg" alt="数式">（シグマ）はシュテファン・ボルツマン定数という定数である．
+                <div class="textCenter">
+                    <img  style="height: 1.5rem" src="../../eqf/q=t4.svg" alt="数式">            
+                </div>
+                <p><img class="varSize13" src="../../eqf/greepsilon.svg" alt="数式">（イプシロン）は放射率と呼ばれ物体表面の特性値であり，完全黒体という理想的な仮想物体で1.0，通常の物体では0.1～0.9の値をとる．
+                <p>すべての物体はその表面温度と表面特性に応じた大きさと波長の電磁波を射出すると同時に他の物体からの電磁波を吸収している．物体の表面間を電磁波によって伝わる熱の移動を「放射」という．
+                <p>常温物体からの放射は波長が10μm付近の赤外線が主体であり，長波長放射と呼ばれる．長波長放射・吸収では，放射エネルギーに関するキルホッフの法則により，同一温度の物体間では放射率と吸収率は等しくなるが，可視光の占める割合が多い太陽放射の吸収率は，吸収する物体表面の色が関係してくる．白っぽい物体は日射を反射してしまうからである（<span class="bold">2024-50-1表</span>参照）．                
+                <table>
+                    <caption class="bold">2024-50-1表<span class="space">長波長放射率と日射吸収率</span></caption>
+                    <tr>
+                        <td class="textCenter">建材の例</td>
+                        <td class="textCenter" width="30%">長波長放射率</td>
+                        <td class="textCenter" width="30%">日射吸収率</td>
+                    </tr>
+                    <tr>
+                        <td>白色プラスター</td>
+                        <td class="textCenter">0.9</td>
+                        <td class="textCenter">0.1</td>
+                    </tr>
+                    <tr>
+                        <td>白色ペイント</td>
+                        <td class="textCenter">0.9</td>
+                        <td class="textCenter">0.2</td>
+                    </tr>
+                    <tr>
+                        <td>アスファルト</td>
+                        <td class="textCenter">0.9</td>
+                        <td class="textCenter">0.9</td>
+                    </tr>
+                    <tr>
+                        <td>黒色ペイント</td>
+                        <td class="textCenter">0.9</td>
+                        <td class="textCenter">0.9</td>
+                    </tr>
+                    <tr>
+                        <td>光ったアルミ箔</td>
+                        <td class="textCenter">0.1未満</td>
+                        <td class="textCenter">0.1</td>
+                    </tr>
+                    <tr>
+                        <td>新しい亜鉛鉄板</td>
+                        <td class="textCenter">0.2</td>
+                        <td class="textCenter">0.7</td>
+                    </tr>
+                    <tr>
+                        <td>酸化した亜鉛鉄板</td>
+                        <td class="textCenter">0.3</td>
+                        <td class="textCenter">0.8</td>
+                    </tr>
+                    <tr>
+                        <td>松板</td>
+                        <td class="textCenter">0.6</td>
+                        <td class="textCenter">0.9</td>
+                    </tr>
+                </table><p> </p>
+                <p><span class="bold">-(3) </span>壁表面とそれに接する空気間の放射による伝達熱流量 <img class="varSize15" src="../../eqf/q-r_Housha-Netu-Dentaturyo.svg" alt="数式">[W/m<sup>2</sup>]は壁と空気の温度差に比例し，その比例係数を放射熱伝達率という．すなわち，熱伝達式は次式のとおり．
+                <div class="textCenter">
+                    <img style="height: 1.3rem" src="../../eqf/q-r_Housha=.svg" alt="数式">            
+                </div>
+                <p>ただし，<img class="varSize14" src="../../eqf/alpha-r_Housha-Netu-Dentaturitu.svg" alt="数式">：放射熱伝達率［W/(m<sup>2</sup>･K)］，<img class="varSize18" src="../../eqf/theta-s_Kabe-Hyoumen-Ondo.svg" alt="数式">：壁表面温度［℃］，<img class="varSize18" src="../../eqf/thata-a_Kuuki-Ondo.svg" alt="数式">：空気温度［℃］．               
+                <p>この式の放射熱伝達率<img class="varSize14" src="../../eqf/alpha-r_Housha-Netu-Dentaturitu.svg" alt="数式"> は，シュテファン・ボルツマンの法則による計算結果を近似・簡略化して得る．<br>室内の放射率が0.9程度で，常温とすれば<img class="varSize14" src="../../eqf/alpha-r_Housha-Netu-Dentaturitu.svg" alt="数式">=4.5W/(m<sup>2</sup>･K)程度となる．
+            </div>             
+        </div>
+        <!-- タブを構成するブロック -->
+        <div class="tab-list">
+          <button class="tab-list-item is-btn-active">問題</button>
+          <button class="tab-list-item">解答</button>
+        </div>   
+        <div class="inner">
+            <button type="button" onclick="location.href='2024-51.html'">次問へ</button>
+            <button type="button" onclick="location.href='2024-49.html'">前問へ</button> 
+            <button type="button" onclick="location.href='../../index.html'">問題選択へ</button>
+        </div>
+    </div>
+      <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>  -->
+      <!-- <script src="jQadd.js"></script>     -->
+      <script src="../../index.js"></script>
+</body>
+</html>
