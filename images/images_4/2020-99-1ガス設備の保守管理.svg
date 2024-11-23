@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="120.36942mm"
-   height="49.216759mm"
-   viewBox="0 0 120.36942 49.216759"
+   width="154.72855mm"
+   height="48.860699mm"
+   viewBox="0 0 154.72854 48.860699"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
    sodipodi:docname="2020-99-1ガス設備の保守管理.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,21 +24,27 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.74118968"
-     inkscape:cx="647.6075"
-     inkscape:cy="336.62098"
+     inkscape:zoom="1.0482005"
+     inkscape:cx="304.33109"
+     inkscape:cy="275.2336"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="973"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3"
-     inkscape:snap-global="false">
+     inkscape:snap-global="false"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid32769"
-       originx="-50.372838"
-       originy="-55.700829" />
+       originx="-31.626954"
+       originy="-55.695095"
+       spacingy="1"
+       spacingx="1"
+       units="mm"
+       visible="true" />
   </sodipodi:namedview>
   <defs
      id="defs2">
@@ -56,7 +62,7 @@
      id="layer1"
      sodipodi:insensitive="true"
      style="display:none"
-     transform="translate(-50.372834,-55.700825)">
+     transform="translate(-31.62695,-55.695092)">
     <image
        y="51.89225"
        x="47.052864"
@@ -71,7 +77,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     transform="translate(-50.372834,-55.700825)">
+     transform="translate(-31.62695,-55.695092)">
     <path
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
        d="M 61.577523,99.594952 V 60.328124 h 5.533054"
@@ -101,51 +107,55 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layer 3"
-     transform="translate(-50.372834,-55.700825)">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-       x="50.086205"
-       y="73.357567"
-       id="text3353"><tspan
-         sodipodi:role="line"
-         id="tspan3351"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="50.086205"
-         y="73.357567">保</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
-       x="50.020058"
-       y="79.373932"
-       id="text9511"><tspan
-         sodipodi:role="line"
-         id="tspan9509"
-         style="stroke-width:0.264583"
-         x="50.020058"
-         y="79.373932">守</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
-       x="49.97596"
-       y="85.544632"
-       id="text10349"><tspan
-         sodipodi:role="line"
-         id="tspan10347"
-         style="stroke-width:0.264583"
-         x="49.97596"
-         y="85.544632">管</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
-       x="50.086205"
-       y="91.384605"
-       id="text10815"><tspan
-         sodipodi:role="line"
-         id="tspan10813"
-         style="stroke-width:0.264583"
-         x="50.086205"
-         y="91.384605">理</tspan></text>
+     transform="translate(-31.62695,-55.695092)">
+    <g
+       id="g2"
+       transform="translate(-1.4563262,-0.66752391)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="50.068123"
+         y="73.357567"
+         id="text3353"><tspan
+           sodipodi:role="line"
+           id="tspan3351"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="50.068123"
+           y="73.357567">保</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="50.075531"
+         y="79.373932"
+         id="text9511"><tspan
+           sodipodi:role="line"
+           id="tspan9509"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="50.075531"
+           y="79.373932">守</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="50.090347"
+         y="85.544632"
+         id="text10349"><tspan
+           sodipodi:role="line"
+           id="tspan10347"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="50.090347"
+           y="85.544632">管</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="50.073063"
+         y="91.384605"
+         id="text10815"><tspan
+           sodipodi:role="line"
+           id="tspan10813"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="50.073063"
+           y="91.384605">理</tspan></text>
+    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
@@ -160,7 +170,7 @@
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="68.152512"
-         y="66.643059"
+         y="66.312653"
          id="tspan14182">が行う法定点検</tspan></text>
     <text
        xml:space="preserve"
@@ -176,7 +186,7 @@
          sodipodi:role="line"
          style="stroke-width:0.264583"
          x="68.404938"
-         y="85.574295"
+         y="85.243896"
          id="tspan17862">う法定点検</tspan></text>
     <text
        xml:space="preserve"
@@ -192,7 +202,7 @@
          sodipodi:role="line"
          style="stroke-width:0.264583"
          x="68.657349"
-         y="104.50555"
+         y="104.17515"
          id="tspan18362">が行う保守管理</tspan></text>
     <text
        xml:space="preserve"
@@ -208,7 +218,7 @@
          sodipodi:role="line"
          style="stroke-width:0.264583"
          x="120.29515"
-         y="65.633377"
+         y="65.302971"
          id="tspan4218">の漏えい検査　　　　　　</tspan></text>
     <text
        xml:space="preserve"
@@ -254,5 +264,13 @@
          style="stroke-width:0.264583"
          x="71.686348"
          y="124.94628">新建築物の環境衛生管理　H31.3.31第1版第1刷 上187 図3-5-3-(12)</tspan></text>
+    <path
+       style="fill:#000000;stroke-width:0"
+       d="m 31.62695,73.537615 0.757248,10.242598"
+       id="path1" />
+    <path
+       style="fill:#000000;stroke-width:0"
+       d="m 186.31009,73.117579 0.0454,12.975796"
+       id="path2" />
   </g>
 </svg>
