@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="135.86546mm"
-   height="86.605537mm"
-   viewBox="0 0 135.86546 86.605538"
+   width="176.92786mm"
+   height="86.600243mm"
+   viewBox="0 0 176.92785 86.600243"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
    sodipodi:docname="2022-111-3貯水槽の迂回壁.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,20 +25,26 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="1.0809568"
-     inkscape:cx="532.3987"
+     inkscape:cx="459.77786"
      inkscape:cy="280.76978"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="973"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3"
-     inkscape:snap-global="false">
+     inkscape:snap-global="false"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid879"
-       originx="5.8325616"
-       originy="-116.05771" />
+       originx="25.866224"
+       originy="-116.05771"
+       spacingy="1"
+       spacingx="1"
+       units="mm"
+       visible="true" />
   </sodipodi:namedview>
   <defs
      id="defs2">
@@ -56,7 +62,7 @@
      id="layer1"
      sodipodi:insensitive="true"
      style="display:none"
-     transform="translate(5.8325618,-116.05769)">
+     transform="translate(25.866226,-116.05769)">
     <image
        y="108.16542"
        x="-16.856142"
@@ -71,7 +77,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     transform="translate(5.8325618,-116.05769)">
+     transform="translate(25.866226,-116.05769)">
     <rect
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect903"
@@ -419,7 +425,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layer 3"
-     transform="translate(5.8325618,-116.05769)">
+     transform="translate(25.866226,-116.05769)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
@@ -531,5 +537,13 @@
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
        d="m 42.834361,175.00892 10.03547,-3.42675"
        id="path24190" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       d="m -25.866226,155.31614 1.727716,12.68107"
+       id="path1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       d="m 151.06163,153.28055 -2.42473,12.00987"
+       id="path2" />
   </g>
 </svg>
