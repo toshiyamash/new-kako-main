@@ -141,6 +141,11 @@ tr>*:empty{       /* tableの空白のセルに斜線↗（to left top）をひ�
 .textRight{
   text-align: right; 
 }
+
+.textTop{
+  vertical-align: top;
+}
+
 .space{
   padding-left: 1rem;         /* 1文字空白 */
 }
