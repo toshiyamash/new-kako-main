@@ -17,3 +17,25 @@ E&=E_0\times \left(\frac{b}{a}\right)^2 \notag\\[5pt]
 \end{align}
 
 2021-106　表内（td内）の数式svg（線膨張係数）の高さ（3rem以上にすると余白が大きくなるだけ）．・・・vscodeのプレビューだけの模様（B-altでChromeで見るとstyle="height: 2.2rem;"効いている）．
+
+20241206　2024問題・解説追加完了につき，index.html改修
+    個別選択  <button onclick="showPastQuestions('2024')" style="cursor: pointer;">2024年</button>　を1行加えるだけ．
+    問題選択
+            <p class="upmrgn">2023年（令和5年）</p>
+            <button class="downmrgn" type="button" onclick="location.href='./2023/2023_1/2023-1.html'">2023衛生行政概論</button>
+            <button class="downmrgn" type="button" onclick="location.href='./2023/2023_2/2023-21.html'">2023建築物の環境衛生</button>
+            <button class="downmrgn" type="button" onclick="location.href='./2023/2023_3/2023-46.html'">2023空気環境の調整</button>
+            <button class="downmrgn" type="button" onclick="location.href='./2023/2023_4/2023-91.html'">2023建築物の構造概論</button>
+            <button class="downmrgn" type="button" onclick="location.href='./2023/2023_5/2023-106.html'">2023給水及び排水の管理</button>
+            <button class="downmrgn" type="button" onclick="location.href='./2023/2023_6/2023-141.html'">2023清掃</button>
+            <button class="downmrgn" type="button" onclick="location.href='./2023/2023_7/2023-166.html'">2023ねずみ，昆虫等の防除</button>   
+    をコピー＆ペーストし，2023を2024へ置換，それだけ．
+
+    テーマ学習は，テーマの見直しもあるのでボチボチ．
+    索引は，う〜ん，設計の見直し，かな・・・
+
+
+
+
+
+
