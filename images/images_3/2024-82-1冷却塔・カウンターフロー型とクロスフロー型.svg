@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="1.0809568"
-     inkscape:cx="397.79572"
-     inkscape:cy="232.66424"
+     inkscape:cx="398.25828"
+     inkscape:cy="232.66425"
      inkscape:window-width="1920"
      inkscape:window-height="973"
      inkscape:window-x="0"
@@ -1555,7 +1555,7 @@
          id="tspan607"
          style="stroke-width:0.264583"
          x="-169.2695"
-         y="55.605537">丸型（カウンターフロー型）</tspan></text><text
+         y="55.605537">丸形（カウンターフロー型）</tspan></text><text
        xml:space="preserve"
        style="font-size:3.88056px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';word-spacing:0px;stroke-width:0.264583"
        x="-88.270889"
@@ -1565,4 +1565,4 @@
          id="tspan715"
          style="stroke-width:0.264583"
          x="-88.270889"
-         y="55.360767">角型（クロスフロー型）</tspan></text></g></svg>
+         y="55.360767">角形（クロスフロー型）</tspan></text></g></svg>
