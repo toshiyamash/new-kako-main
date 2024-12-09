@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="86.242287mm"
-   height="45.794628mm"
-   viewBox="0 0 86.242287 45.794628"
+   width="71.274513mm"
+   height="86.488258mm"
+   viewBox="0 0 71.274513 86.488258"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
    sodipodi:docname="2022-46-1熱伝導と温度勾配.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,12 +25,12 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="1.5287038"
-     inkscape:cx="196.57176"
-     inkscape:cy="187.0866"
+     inkscape:cx="166.48091"
+     inkscape:cy="214.23378"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="973"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3"
      inkscape:snap-global="false"
@@ -43,8 +43,12 @@
     <inkscape:grid
        type="xygrid"
        id="grid861"
-       originx="-66.770845"
-       originy="-92.446148" />
+       originx="-74.806747"
+       originy="-57.535359"
+       spacingy="1"
+       spacingx="1"
+       units="mm"
+       visible="true" />
   </sodipodi:namedview>
   <defs
      id="defs2" />
@@ -54,7 +58,7 @@
      id="layer1"
      sodipodi:insensitive="true"
      style="display:none"
-     transform="translate(-66.770849,-92.446154)">
+     transform="translate(-74.806756,-57.535359)">
     <image
        width="66.410416"
        height="79.375"
@@ -69,7 +73,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     transform="translate(-66.770849,-92.446154)">
+     transform="translate(-74.806756,-57.535359)">
     <path
        style="opacity:1;fill:#ececec;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
        d="M 82.211538,92.596154 V 118.03846"
@@ -95,26 +99,26 @@
        y="92.509613" />
     <path
        style="opacity:1;fill:#ececec;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 117.43015,92.596154 V 118.03846"
+       d="M 120.11081,92.596154 V 118.03846"
        id="path1695" />
     <path
        style="opacity:1;fill:#ececec;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 136.12246,92.596154 V 118.03846"
+       d="M 138.80312,92.596154 V 118.03846"
        id="path1697" />
     <path
        style="opacity:1;fill:#ececec;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 117.43015,92.596154 V 118.03846"
+       d="M 120.11081,92.596154 V 118.03846"
        id="path1699" />
     <path
        style="opacity:1;fill:#ececec;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 136.12246,92.596154 V 118.03846"
+       d="M 138.80312,92.596154 V 118.03846"
        id="path1701" />
     <rect
        style="opacity:0.356459;fill:#e6e6e6;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect1703"
        width="18.346155"
        height="25.572115"
-       x="117.68976"
+       x="120.37042"
        y="92.509613" />
     <path
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
@@ -122,7 +126,7 @@
        id="path1738" />
     <path
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 117.68976,109.81731 18.34616,5.10577"
+       d="m 120.37042,109.81731 18.34616,5.10577"
        id="path2169" />
     <path
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
@@ -175,15 +179,15 @@
        inkscape:transform-center-y="0.00072903414" />
     <path
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 117.47342,119.98558 v 1.73077"
+       d="m 120.15408,119.98558 v 1.73077"
        id="path86114" />
     <path
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 136.209,119.98558 v 1.73077"
+       d="m 138.88966,119.98558 v 1.73077"
        id="path86116" />
     <path
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 118.29553,120.89567 h 6.07933 m 3.82933,0 h 7.26923"
+       d="m 120.97619,120.89567 h 6.07933 m 3.82933,0 h 7.26923"
        id="path86118"
        sodipodi:nodetypes="cccc" />
     <path
@@ -201,7 +205,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 348.00727,463.3828 -1.97262,-1.15063 1.98279,-1.13302 z"
-       transform="matrix(0.32599571,0,0,0.2491385,5.2595228,5.7330214)"
+       transform="matrix(0.32599571,0,0,0.2491385,7.9401867,5.7330214)"
        inkscape:transform-center-x="0.10662468"
        inkscape:transform-center-y="0.00072903414" />
     <path
@@ -219,7 +223,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 348.00727,463.3828 -1.97262,-1.15063 1.98279,-1.13302 z"
-       transform="matrix(-0.32599571,0,0,0.2491385,248.46876,5.7330214)"
+       transform="matrix(-0.32599571,0,0,0.2491385,251.14942,5.7330214)"
        inkscape:transform-center-x="-0.10661981"
        inkscape:transform-center-y="0.00072903414" />
   </g>
@@ -227,7 +231,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layer 3"
-     transform="translate(-66.770849,-92.446154)">
+     transform="translate(-74.806756,-57.535359)">
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
@@ -445,95 +449,95 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-       x="81.405548"
-       y="131.28497"
+       x="81.966019"
+       y="134.47"
        id="text81751"><tspan
          sodipodi:role="line"
          id="tspan81749"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="81.405548"
-         y="131.28497">温度勾配:大</tspan></text>
+         x="81.966019"
+         y="134.47">温度勾配:大</tspan></text>
     <rect
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect83810"
        width="14.353209"
        height="4.5707603"
-       x="84.334747"
-       y="133.57002" />
+       x="82.359909"
+       y="139.35286" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-       x="85.956238"
-       y="136.93713"
+       x="84.764305"
+       y="142.73859"
        id="text85178"><tspan
          sodipodi:role="line"
          id="tspan85176"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="85.956238"
-         y="136.93713">断熱材</tspan></text>
+         x="84.764305"
+         y="142.73859">断熱材</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';stroke-width:0.264583"
-       x="125.39168"
+       x="128.07234"
        y="121.80289"
        id="text86126"><tspan
          sodipodi:role="line"
          id="tspan86124"
          style="stroke-width:0.264583"
-         x="125.39168"
+         x="128.07234"
          y="121.80289">δ</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-       x="117.68976"
-       y="131.40736"
+       x="120.26437"
+       y="134.48149"
        id="text86142"><tspan
          sodipodi:role="line"
          id="tspan86140"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="117.68976"
-         y="131.40736">温度勾配:小</tspan></text>
+         x="120.26437"
+         y="134.48149">温度勾配:小</tspan></text>
     <rect
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect86144"
        width="23.154461"
        height="4.51794"
-       x="115.18114"
-       y="133.59644" />
+       x="117.92195"
+       y="139.37927" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-       x="117.0507"
-       y="136.93713"
+       x="120.72315"
+       y="142.75008"
        id="text86148"><tspan
          sodipodi:role="line"
          id="tspan86146"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="117.0507"
-         y="136.93713">一般の建材</tspan></text>
+         x="120.72315"
+         y="142.75008">一般の建材</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';stroke-width:0.264583"
-       x="113.53591"
+       x="116.21658"
        y="110.68269"
        id="text91520"><tspan
          sodipodi:role="line"
          id="tspan91518"
          style="stroke-width:0.264583"
-         x="113.53591"
+         x="116.21658"
          y="110.68269">θ<tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.06375px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;baseline-shift:sub"
    id="tspan91516">1</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';stroke-width:0.264583"
-       x="137.07439"
+       x="139.75505"
        y="115.61539"
        id="text91526"><tspan
          sodipodi:role="line"
          id="tspan91524"
          style="stroke-width:0.264583"
-         x="137.07439"
+         x="139.75505"
          y="115.61539">θ<tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.06375px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;baseline-shift:sub"
    id="tspan91522">2　　</tspan></tspan></text>
@@ -608,34 +612,34 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-       x="79.581322"
-       y="126.6673"
+       x="80.141792"
+       y="128.15535"
        id="text102925"><tspan
          sodipodi:role="line"
          id="tspan102923"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="79.581322"
-         y="126.6673">熱伝導率 λ:小</tspan></text>
+         x="80.141792"
+         y="128.15535">熱伝導率 λ:小</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-       x="115.77514"
-       y="126.6673"
+       x="118.8964"
+       y="128.16684"
        id="text114243"><tspan
          sodipodi:role="line"
          id="tspan114241"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="115.77514"
-         y="126.6673">熱伝導率 λ<tspan
+         x="118.8964"
+         y="128.16684">熱伝導率 λ<tspan
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
    id="tspan114239">:</tspan>大</tspan></text>
     <path
        style="fill:none;stroke:#ffff00;stroke-width:0.0499999"
-       d="m 66.795844,108.36923 0.173077,8.65385"
+       d="m 74.831751,107.88313 0.173077,8.65385"
        id="path402" />
     <path
        style="fill:none;stroke:#ffff00;stroke-width:0.0499999"
-       d="m 152.98814,108.02308 -0.17307,9.34615"
+       d="m 146.05627,109.12307 -0.17307,9.34615"
        id="path404" />
   </g>
 </svg>
