@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="85.5mm"
-   height="61.955826mm"
-   viewBox="0 0 85.5 61.955826"
+   width="181.04005mm"
+   height="73.267685mm"
+   viewBox="0 0 181.04006 73.267685"
    version="1.1"
    id="svg1"
-   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
+   inkscape:version="1.4.1-rc (06eac75fbf, 2025-03-29)"
    sodipodi:docname="2024-49-1出隅，入隅.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.9023831"
-     inkscape:cx="138.24765"
-     inkscape:cy="106.44544"
+     inkscape:zoom="0.95119155"
+     inkscape:cx="436.29488"
+     inkscape:cy="35.74464"
      inkscape:window-width="1920"
      inkscape:window-height="973"
      inkscape:window-x="0"
@@ -36,8 +36,8 @@
     <inkscape:grid
        id="grid1"
        units="mm"
-       originx="-44.75"
-       originy="-64.749994"
+       originx="4.3164203"
+       originy="-59.193145"
        spacingx="0.99999998"
        spacingy="1"
        empcolor="#0099e5"
@@ -56,12 +56,12 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-44.749999,-64.749996)" />
+     transform="translate(4.316419,-59.19315)" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     transform="translate(-44.749999,-64.749996)">
+     transform="translate(4.316419,-59.19315)">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        d="M 44.999999,64.999996 V 119.99999 H 130 V 84.999996 H 90.000001 v -20 z"
@@ -107,7 +107,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layer 3"
-     transform="translate(-44.749999,-64.749996)">
+     transform="translate(4.316419,-59.19315)">
     <g
        id="g9"
        transform="translate(2.7419393,-34.5141)">
@@ -161,5 +161,21 @@
          style="stroke-width:0.2"
          x="75.920807"
          y="126.36716">（平面図）</tspan></text>
+    <path
+       style="fill:#000000;stroke:#ffffff;stroke-width:0.1"
+       d="m -4.0697503,91.648627 -0.196688,7.080795"
+       id="path3" />
+    <path
+       style="fill:#000000;stroke:#ffffff;stroke-width:0.1"
+       d="m 176.67363,92.204947 v 5.113909"
+       id="path4" />
+    <path
+       style="fill:#000000;stroke:#ffffff;stroke-width:0.1"
+       d="m 81.924171,132.41092 6.687418,-0.39337"
+       id="path5" />
+    <path
+       style="fill:#000000;stroke:#ffffff;stroke-width:0.1"
+       d="m 77.990396,60.422844 8.850993,-1.180133"
+       id="path6" />
   </g>
 </svg>

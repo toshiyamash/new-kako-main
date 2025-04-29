@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="214.4482mm"
-   height="70.634392mm"
-   viewBox="0 0 214.4482 70.634392"
+   width="144.99535mm"
+   height="99.85144mm"
+   viewBox="0 0 144.99535 99.851441"
    version="1.1"
    id="svg5"
-   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
+   inkscape:version="1.4.1-rc (06eac75fbf, 2025-03-29)"
    sodipodi:docname="2024-47-1問題添付図再掲.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="1.0809568"
-     inkscape:cx="358.94128"
-     inkscape:cy="275.21915"
+     inkscape:cx="303.43488"
+     inkscape:cy="275.68169"
      inkscape:window-width="1920"
      inkscape:window-height="973"
      inkscape:window-x="0"
@@ -45,7 +45,7 @@
     <inkscape:grid
        type="xygrid"
        id="grid843"
-       originx="-57.192185"
+       originx="-32.665426"
        originy="-57.728306"
        spacingy="1"
        spacingx="1"
@@ -68,7 +68,7 @@
      id="layer1"
      sodipodi:insensitive="true"
      style="display:none"
-     transform="translate(-57.192184,-57.728304)">
+     transform="translate(-32.665426,-57.728304)">
     <image
        y="55.857063"
        x="63.391582"
@@ -83,7 +83,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     transform="translate(-57.192184,-57.728304)">
+     transform="translate(-32.665426,-57.728304)">
     <path
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
        d="M 106.35577,57.89423 75.115385,71.999998 103.58654,86.105769 134.82692,71.999998 Z"
@@ -183,7 +183,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layer 3"
-     transform="translate(-57.192184,-57.728304)">
+     transform="translate(-32.665426,-57.728304)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
@@ -245,22 +245,30 @@
        x="156.23323"
        y="76.541"
        id="text1"
-       transform="translate(-1.319458,10.139695)"><tspan
+       transform="translate(-89.435838,68.639181)"><tspan
          x="156.23323"
          y="76.541"
-         id="tspan5">熱の通過する壁面積＝3m×3m×5面＝45m<tspan
+         id="tspan4">熱の通過する壁面積＝3m×3m×5面＝45m<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan2">2</tspan></tspan></text>
+   id="tspan1">2</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0"
-       x="154.6759"
-       y="98.707726"
+       x="67.538597"
+       y="157.20721"
        id="text3"><tspan
          sodipodi:role="line"
          id="tspan3"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0"
-         x="154.6759"
-         y="98.707726">内外温度差＝室温20℃ー外気温−4℃＝24℃</tspan></text>
+         x="67.538597"
+         y="157.20721">内外温度差＝室温20℃ー外気温−4℃＝24℃</tspan></text>
+    <path
+       style="fill:#000000;stroke:#ffffff;stroke-width:0.1;stroke-dasharray:none"
+       d="M 32.715412,96.156837 32.96018,106.43708"
+       id="path4" />
+    <path
+       style="fill:#000000;stroke:#ffffff;stroke-width:0.1;stroke-dasharray:none"
+       d="m 177.6179,94.198695 c -0.7343,1.223838 -0.24477,9.545935 -0.24477,9.545935"
+       id="path5" />
   </g>
 </svg>
