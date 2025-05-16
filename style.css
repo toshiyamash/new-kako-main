@@ -175,7 +175,7 @@ caption{
 /* 索引のdecoration */
 .fontColorId{
   text-decoration: none;
-  color: darkgreen;
+  color: rgb(199, 24, 243);
 }
 
 .link1 a {
