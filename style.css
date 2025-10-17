@@ -392,8 +392,8 @@ img.inq25 {            /* 問題選択肢内画像2022-100*/
 }
 
 .flex{             /*要素（表など）横並び*/
-  display: flex;
-  padding: 15px;
+    display: flex;
+    justify-content: center;
 }
 
 /* 画像キャプション */
