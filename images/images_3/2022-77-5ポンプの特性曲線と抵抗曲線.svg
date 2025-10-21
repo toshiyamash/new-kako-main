@@ -7,7 +7,7 @@
    viewBox="0 0 85.526925 46.190617"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   inkscape:version="1.4.2 (2aeb623e1d, 2025-05-12)"
    sodipodi:docname="2022-77-5ポンプの特性曲線と抵抗曲線.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,12 +25,12 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="3.0574074"
-     inkscape:cx="164.02786"
-     inkscape:cy="104.00969"
+     inkscape:cx="209.16414"
+     inkscape:cy="78.49788"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="973"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3"
      inkscape:snap-global="false"
@@ -40,7 +40,10 @@
        type="xygrid"
        id="grid879"
        originx="-69.3457"
-       originy="-154.53144" />
+       originy="-154.53144"
+       spacingy="1"
+       spacingx="1"
+       units="mm" />
   </sodipodi:namedview>
   <defs
      id="defs2">
@@ -1060,6 +1063,43 @@
              style="font-size:65%;baseline-shift:sub"
              id="tspan1213">f</tspan></tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.2"
+       x="78.691864"
+       y="159.72374"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.2"
+         x="78.691864"
+         y="159.72374">締切り揚程</tspan></text>
+    <circle
+       style="fill:#000000;stroke:#000000;stroke-width:0.2"
+       id="path1"
+       cx="96.994736"
+       cy="157.2574"
+       r="0.5625" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.2"
+       x="96.259163"
+       y="199.35837"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.2"
+         x="96.259163"
+         y="199.35837">0</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.2"
+       d="m 90.114934,158.85836 6.144232,-1.29807"
+       id="path2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2"
+       d="m 94.744742,157.30067 1.427886,0.21635 -0.995193,0.82211"
+       id="path3" />
   </g>
   <g
      inkscape:groupmode="layer"
