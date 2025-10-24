@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="74.709381mm"
+   width="46.017258mm"
    height="39.215889mm"
-   viewBox="0 0 74.709382 39.215888"
+   viewBox="0 0 46.017258 39.215888"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   inkscape:version="1.4.2 (2aeb623e1d, 2025-05-12)"
    sodipodi:docname="2020-61-5加湿.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,12 +26,12 @@
      showgrid="true"
      inkscape:snap-global="false"
      inkscape:zoom="1.0809568"
-     inkscape:cx="189.18425"
+     inkscape:cx="135.99063"
      inkscape:cy="28.678297"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="973"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3"
      inkscape:snap-grids="false"
@@ -45,8 +45,11 @@
     <inkscape:grid
        type="xygrid"
        id="grid892"
-       originx="-62.987302"
-       originy="-171.48216" />
+       originx="-76.844292"
+       originy="-171.48216"
+       spacingy="1"
+       spacingx="1"
+       units="mm" />
   </sodipodi:namedview>
   <defs
      id="defs2">
@@ -71,7 +74,7 @@
      id="layer1"
      sodipodi:insensitive="true"
      style="display:none"
-     transform="translate(-62.98729,-171.48218)">
+     transform="translate(-76.844281,-171.48218)">
     <image
        y="23.602516"
        x="40.193275"
@@ -95,7 +98,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     transform="translate(-62.98729,-171.48218)">
+     transform="translate(-76.844281,-171.48218)">
     <path
        id="path5752"
        style="opacity:1;stroke:#000000;stroke-width:0.278088;stroke-linecap:square"
@@ -655,7 +658,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layer 3"
-     transform="translate(-62.98729,-171.48218)">
+     transform="translate(-76.844281,-171.48218)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
