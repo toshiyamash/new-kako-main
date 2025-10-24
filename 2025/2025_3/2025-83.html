@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ビル管理士試験</title>
+    <link rel="stylesheet" href="../../style.css">
+</head>
+<body>
+    <div class="tab">
+        <!-- コンテンツを構成するブロック -->
+        <div class="tab-contents-wrap">
+            <div class="tab-contents is-contents-active">
+                <p>2025年</p>
+                <p><span class="bold">問題83</span>　遮音に関する次の記述のうち，<span class="bold">不適当な</span>ものはどれか．
+                <p><span class="bold">（1）</span>遮音とは，壁などで音を遮断して透過する音のエネルギーを小さくすることである．
+                <p><span class="bold">（2）</span>複数の断面仕様の異なる部材で構成される壁の透過性能は，総合透過損失で評価する．
+                <p><span class="bold">（3）</span>複層壁の場合，共鳴によって音が透過することがある．
+                <p><span class="bold">（4）</span>コインシデンス効果が生じると，壁体の透過損失は減少する．
+                <p><span class="bold">（5）</span>床衝撃音に対する遮音等級のLr値は，値が大きい方が，遮音性能が高いことを表す．
+            </div>
+
+            <div class="tab-contents">
+                <p>2025年</p>
+                <p class="bold">問題83　正解（5）　頻出度AAA</span>
+                <p>床の遮音性能は，重量床衝撃音，軽量床衝撃音とも，Lr値で評価する．Lr値は，JISで定められた方法で一定の床に衝撃を与え，下階で騒音を測定するので（<span class="bold">2025-83-1図</span>参照），その値が小さいほうが遮音性能が高い（一方壁の遮音性能を示すDr値は，音源室と受音室の差を図るので，大きい方が遮音性能が高い）．
+                <div class="imgcap">2025-83-1図<span class="space">床衝撃音発生装置</span></div>
+                <div class="textCenter">
+                    <img src="../../images/images_3/2021-87-1床衝撃音発生装置.svg" alt="床衝撃音発生装置">
+                </div>
+                <p class="imgcr">出典<span class="space"></span>一般財団法人 日本建築総合試験所 わかりやすい試験シリーズ 音―3 建物の床衝撃音遮断性能試験<br>
+                https://www.hisaka.co.jp/phe/workbook/first_period02.htmlを基に作成
+                <p><span class="bold">-(1)</span>壁などで音を遮断して，透過する音のエネルギーを小さくすることは「遮音」である．その実体は「吸収」と「反射」である（<span class="bold">2025-83-2図</span>参照）．
+                <div class="imgcap">2025-83-2図<span class="space">音の反射，吸収，透過</span></div>
+                <div class="textCenter">
+                    <img src="../../images/images_3/2022-83-1音の反射，吸収，透過.svg" alt="音の反射，吸収，透過">
+                </div>
+                <p>上図で，<img class="varSize17" src="../../eqf/Ii=Ir+Ia+It.svg" alt="数式">
+                <p>ただし，<img class="varSize17" src="../../eqf/Ii.svg" alt="数式">：入射音の強さ，<img class="varSize17" src="../../eqf/Ir.svg" alt="数式">：反射音の強さ，<img class="varSize17" src="../../eqf/Ia.svg" alt="数式">：吸収の強さ，<img class="varSize17" src="../../eqf/It.svg" alt="数式">：透過音の強さ（単位は全て［W/m<sup>2</sup>]）．
+                <p>壁の遮音性能は次式の透過損失値<img class="varSize15" src="../../eqf/TL.svg" alt="数式">［dB］で表される．
+                <div class="textCenter">
+                    <img  style="height: 3rem" src="../../eqf/TL_Touka-Sonsituti=.svg" alt="数式">            
+                </div>
+                <p><span class="bold">-(2)</span>隔壁が複数の材料や断面仕様の異なる部位で構成される場合は，透過損失（<img class="varSize15" src="../../eqf/TL.svg" alt="数式">）は，各構成部材による部位の平均値を用いるようにする．透過損失の最も大きい構成材の値を用いると，隔壁の遮音性能を過大に見積もることになる．
+                <p><span class="bold">-(3) </span>二重壁や複層ガラスなど空気層をもつ二重壁構造では，板状の壁材に対して空気層がばねとして働くことで特定の周波数で共鳴が生じ，その周辺の周波数で音波が透過しやすくなり遮音性能が大きく低下する現象が生じる。この現象を共鳴透過現象といい低音域で発生することが多い．
+                <p><span class="bold">-(4) </span>ある屈曲振動数をもった壁に，一定の振動数の音波が，一定の角度で壁面に入射すると，音圧の疎密に対応して壁面に屈曲波が生じ，その振動により音を放射し，あたかも音が透過するようにみえる現象が生じる．この現象はコインシデンス（振動数の一致）効果といわれ，壁面の透過損失を著しく低下させることになる．
+                <br>壁材料の屈曲振動数は一般的に大きいので，コインシデンス効果は高音域で発生する．                               
+            </div>             
+        </div>
+        <!-- タブを構成するブロック -->
+        <div class="tab-list">
+          <button class="tab-list-item is-btn-active">問題</button>
+          <button class="tab-list-item">解答</button>
+        </div>   
+        <div class="inner">
+            <button type="button" onclick="location.href='2025-84.html'">次問へ</button>
+            <button type="button" onclick="location.href='2025-82.html'">前問へ</button>
+            <button type="button" onclick="location.href='../../index.html'">問題選択へ</button>
+        </div>
+    </div>
+      <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>  -->
+      <!-- <script src="jQadd.js"></script>     -->
+      <script src="../../index.js"></script>
+</body>
+</html>
