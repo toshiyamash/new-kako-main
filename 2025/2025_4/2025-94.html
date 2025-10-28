@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ビル管理士試験</title>
+    <link rel="stylesheet" href="../../style.css">
+</head>
+<body>
+    <div class="tab">
+        <!-- コンテンツを構成するブロック -->
+        <div class="tab-contents-wrap">
+            <div class="tab-contents is-contents-active">
+                <p>2025年</p>
+                <p><span class="bold">問題94</span>　建築物の荷重又は構造力学に関する次の記述のうち，<span class="bold">最も不適当な</span>ものはどれか．</p>
+                <p><span class="bold">（1）</span>店舗の売場の床の構造計算をする場合の積載荷重は，教室より大きく設定されている．
+                <p><span class="bold">（2）</span>等分布荷重が作用する片持ち梁はりのせん断力は，その固定端が最も大きい．
+                <p><span class="bold">（3）</span>荷重には，集中荷重，曲げモーメント荷重，等分布荷重等がある．
+                <p><span class="bold">（4）</span>固定荷重には，家具の重量が含まれる．
+                <p><span class="bold">（5）</span>一般区域における積雪荷重は，積雪量1cmごと1m<sup>2</sup>につき20N以上として計算される．
+            </div>
+
+            <div class="tab-contents">
+                <p>2025年</p>
+                <p class="bold">問題94　正解（4）　頻出度AAA</span>
+                <p>建築基準法の定める固定荷重には家具の重量は含まれない．
+                <p>荷重について<span class="bold">2025-94-1表</span>，<span class="bold">2025-94-2表</span>にまとめた．
+                <table>
+                    <tbody>
+                        <caption class="bold">2025-94-1表<span class="space">建築基準法の定める荷重（施行令第83条～第88条）</span></caption>
+                        <tr>
+                            <td class="textCenter" colspan="2">分類・名称</td>
+                            <td class="textCenter" width="45%">要因等</td>
+                            <td class="textCenter">備考</td>
+                        </tr>
+                        <tr>
+                            <td class="textCenter tdVertical" rowspan="3">垂直荷重</td>
+                            <td nowrap>固定荷重</td>
+                            <td>固定荷重とは建物の自重のことであり，建築基準法により建物の部位により単位荷重が定められている．</td>
+                            <td>（例）瓦ぶきの屋根640N/m<sup>2</sup>など．</td>
+                        </tr>
+                        <tr>
+                            <td>積載荷重</td>
+                            <td>積載荷重には家具，物品の重量並びに利用する人間の重量が含まれる．固定荷重と同じように建物の部位等により計算用の単位荷重が定められている．</td>
+                            <td>単位荷重の数値は，床の構造計算用＞大ばり，柱，基礎の構造計算用＞地震力の計算用，の順に定められている．又，地震力を計算する場合の積載荷重は，教室＞事務室．</td>
+                        </tr>
+                        <tr>
+                            <td>積雪荷重</td>
+                            <td>積雪荷重は，右欄の通り地域によって，又屋根の勾配によって影響を受ける（60度を超える場合は0）．</td>
+                            <td>原則として積雪量1cmごとに20N/m<sup>2</sup>×屋根の水平投影面積×その地方における垂直積雪量で計算する．</td>
+                        </tr>
+                        <tr>
+                            <td class="textCenter tdVertical" rowspan="2">水平荷重</td>
+                            <td>風圧力</td>
+                            <td>風圧力は時間とともに変化する動的な荷重であるが，構造計算では特殊な場合を除き，静的荷重として扱い，次式により計算する．<br>風圧力＝速度圧×風力係数</td>
+                            <td>風圧力は低層より高層の方が大きい．<br>風力係数は建物の形状によって異なる．</td>
+                        </tr>
+                        <tr>
+                            <td>地震力</td>
+                            <td>地震力は建築物の地上部分の場合，各部分の支えている質量に作用する地震力として次式で計算する．<br>地震力＝｛固定荷重＋積載荷重（＋積雪荷重）｝×その部分の地震層せん断力係数</td>
+                            <td>地震力は地盤の種類によって異なる．</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <p> </p>    
+                <table>
+                    <caption class="bold"> 2025-94-2表<span class="space">荷重の分類</span></caption>
+                    <tr>
+                        <td height="30" width="300" class="textCenter">作用方向による分類</td>
+                        <td height="30" width="300" class="textCenter">原因による分類</td>
+                        <td height="30" width="300" class="textCenter">作用時間による分類</td>
+                    </tr>
+                    <tr>
+                        <td rowspan="4" height="120" width="300">鉛直荷重<br>（重量による力）</td>
+                        <td height="30" width="300">固定荷重</td>
+                        <td rowspan="3" height="90" width="300">常時荷重（長期）</td>
+                    </tr>    
+                    <tr>
+                        <td height="30" width="300">積載荷重</td>
+                    </tr>    
+                    <tr>
+                        <td rowspan="2" height="60" width="300">積雪荷重</td>
+                    </tr>    
+                    <tr>
+                        <td rowspan="3" height="90" width="300">非常時荷重（短期）</td>
+                    </tr>    
+                    <tr>
+                        <td rowspan="3" height="90" width="300">水平荷重<br>（風・地震等の作用による力</td>
+                        <td height="30" width="300">風圧力</td>
+                    </tr>    
+                    <tr>
+                        <td height="30" width="300">地震力</td>
+                    </tr>    
+                    <tr>
+                        <td height="30" width="300">土圧・水圧</td>
+                        <td height="30" width="300">常時荷重</td>
+                    </tr>    
+                    <tr>
+                        <td height="100" width="300">その他</td>
+                        <td colspan="2" height="100" width="600">地下外壁，盛土，切土による斜面を支える擁壁，水槽の壁，床等にかかる水圧や土圧，エレベータ等搬送設備の荷重，動力装置等の振動・衝撃による荷重，大きな温度変化による温度荷重等がある．作用時間による分類（常時，非常時）は状況による．
+                        </td>
+                    </tr>        
+                </table>
+                <p><span class="bold">-(1)</span>床の構造計算をする場合の取りうる積載荷重値<span class="bold">2025-94-3表</span>参照．                
+                <table>
+                    <caption class="bold">2025-94-3表<span class="space">積載荷重で取りうる値（建築基準法施行令第85条）</span></caption>
+                    <tbody>
+                        <tr>
+                            <td  style="border-right: none;" class="tdVertical textCenter" rowspan="3">室の種類</td>
+                            <td class="textCenter" colspan="2" rowspan="2">構造計算の対象</td>
+                            <td class="textCenter">（い）</td>
+                            <td class="textCenter">（ろ）</td>
+                            <td class="textCenter">（は）</td>
+                        </tr>
+                        <tr>
+                            <td>床の構造計算をする場合</td>
+                            <td>大ばり、柱又は基礎の構造計算をする場合</td>
+                            <td>地震力を計算する場合</td>
+                        </tr>
+                        <tr>
+                            <td style="border-left: none;"colspan="2">&nbsp;</td>
+                            <td class="textCenter">N/m<sup>2</sup></td>
+                            <td class="textCenter">N/m<sup>2</sup></td>
+                            <td class="textCenter">N/m<sup>2</sup></td>
+                        </tr>
+                        <tr>
+                            <td class="textCenter">（一）</td>
+                            <td colspan="2">住宅の居室、住宅以外の建築物における寝室又は病室</td>
+                            <td class="textCenter">1,800</td>
+                            <td class="textCenter">1,300</td>
+                            <td class="textCenter">600</td>
+                        </tr>
+                        <tr>
+                            <td class="textCenter">（二）</td>
+                            <td colspan="2">事務室</td>
+                            <td class="textCenter">2,900</td>
+                            <td class="textCenter">1,800</td>
+                            <td class="textCenter">800</td>
+                        </tr>
+                        <tr>
+                            <td class="textCenter">（三）</td>
+                            <td colspan="2">教室</td>
+                            <td class="textCenter">2,300</td>
+                            <td class="textCenter">2,100</td>
+                            <td class="textCenter">1,100</td>
+                        </tr>
+                        <tr>
+                            <td class="textCenter">（四）</td>
+                            <td colspan="2">百貨店又は店舗の売場</td>
+                            <td class="textCenter">2,900</td>
+                            <td class="textCenter">2,400</td>
+                            <td class="textCenter">1,300</td>
+                        </tr>
+                        <tr>
+                            <td class="textCenter" rowspan="2">（五）</td>
+                            <td rowspan="2">劇場、映画館、演芸場、観覧場、公会堂、集会場その他これらに類する用途に供する建築物の客席又は集会室</td>
+                            <td nowrap>固定席の場合</td>
+                            <td class="textCenter">2,900</td>
+                            <td class="textCenter">2,600</td>
+                            <td class="textCenter">1,600</td>
+                        </tr>
+                        <tr>
+                            <td>その他の場合</td>
+                            <td class="textCenter">3,500</td>
+                            <td class="textCenter">3,200</td>
+                            <td class="textCenter">2,100</td>
+                        </tr>
+                        <tr>
+                            <td class="textCenter">（六）</td>
+                            <td colspan="2">自動車車庫及び自動車通路</td>
+                            <td class="textCenter">5,400</td>
+                            <td class="textCenter">3,900</td>
+                            <td class="textCenter">2,000</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <br>
+                <p><span class="bold">-(2) </span>，<span class="bold">-(3)</span>等分布荷重が作用する片持ち梁はりのせん断力は，その固定端が最も大きいことは，応力図をみればよくわかる．
+                <p>ビル管理士試験合格に必要な構造力学の基礎的な内容を以下にまとめた．
+                <p>建築物やその部材には自重や風圧力，地震力などの荷重が働き，それらを支える支持力（反力）があって建築物は移動したり回転せずに安定して存在することができる．この荷重と反力を合わせて外力と言うのに対して，部材の内部にはこれらの外力によってストレス（応力）が発生している．部材はこれらの応力に打ち克つだけの強さを必要とする．部材が応力に負けると，つぶれる，引きちぎれる，あるいは折れることによって建築物は崩壊してしまう．
+                <p>建築物の部材が応力に対して必要とされる強さ（許容応力度）を求めることが構造力学の目的である．
+                <p>1．応力
+                <p>応力が発生するには，二つの外力（普通は荷重と反力）が必要で，せん断力と曲げモーメントでは，その外力は作用線のずれた偶力が必要である．
+                <p>応力の分析には部材に仮想的な断面を考えてそこに働く応力を検討する．
+                <p>応力には軸方向力，せん断力，曲げモーメントの3つがある（<span class="bold">2025-94-4表</span>）．                
+                <table>
+                    <tbody>
+                        <caption class="bold">2025-94-4表<span class="space">三つの応力</span></caption>
+                        <tr>
+                            <td nowrap>軸方向力</td>
+                            <td width="30%">
+                                <div class="textCenter">
+                                <img  style="width: 80%; margin: 10%;" src="../../images/images_4/2021-95-2軸方向力.svg" alt="軸方向力">
+                                </div>
+                            </td>
+                            <td>構造力学では細長い部材を「はり」というが，はりの軸方向（長手方向）に働く力のことである．<br>
+                            張応力と圧縮力がある．</td>
+                        </tr>
+                        <tr>
+                            <td>せん断力</td>
+                            <td>
+                                <div class="textCenter">
+                                <img  style="width: 80%; margin: 10%;" src="../../images/images_4/2021-95-3せん断力.svg" alt="せん断力">
+                                </div>
+                            </td>
+                            <td>軸方向と直角方向からの力のかけ方を「せん断」と呼び，その時に部材内部に発生する力を「せん断力」という．はりの面に沿って滑りを生じさせようとする応力である．</td>
+                        </tr>
+                        <tr>
+                            <td>曲げモーメント</td>
+                            <td>
+                                <div class="textCenter">
+                                <img  style="width: 80%; margin: 10%;" src="../../images/images_4/2021-95-4曲げモーメント.svg" alt="曲げモーメント">
+                                </div>
+                            </td>
+                            <td>はりを折り曲げ（湾曲させ）ようとするモーメント（力×距離）のことである．</td>
+                        </tr>
+                    </tbody>
+                </table>            
+                <p>2．支点・節点，はりの支持形式
+                <p>1）支点
+                <p>荷重に対して，建築物に働く支える力を反力と呼び，反力が生じる点を支点と呼んでいる．
+                <p>支点には，固定端，回転端（ピン），移動端（ローラ）の3種類がある（<span class="bold">2025-94-5表</span>）．                
+                <table>
+                    <tbody>
+                        <caption class="bold">2025-94-5表<span class="space">支点</span></caption>
+                        <tr>
+                            <td width="33%">ローラ（移動端）</td>
+                            <td width="33%">ピン（回転端，ヒンジ端）</td>
+                            <td width="33%">固定端</td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div class="textCenter">
+                                    <img  style="width: 80%; margin: 10%;" src="../../images/images_4/2021-95-5ローラ（移動端）.svg" alt="ローラ（移動端）">
+                                </div>
+                            </td>
+                            <td>
+                                <div class="textCenter">
+                                    <img  style="width: 80%; margin: 10%;" src="../../images/images_4/2021-95-6ピン（回転端，ヒンジ端）.svg" alt="ピン（回転端，ヒンジ端）">
+                                </div>
+                            </td>
+                            <td>
+                                <div class="textCenter">
+                                    <img  style="width: 80%; margin: 10%;" src="../../images/images_4/2021-95-7固定端.svg" alt="固定端">
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="textCenter">反力数1</td>
+                            <td class="textCenter">反力数2</td>
+                            <td class="textCenter">反力数3</td>
+                        </tr>
+                    </tbody>
+                </table>        
+                <p>固定端は移動も回転しない．反力として垂直，水平，曲げモーメントが生じる．
+                <p>回転端には垂直，水平反力が生じる（回転してしまうため曲げモーメントは生じない）．
+                <p>移動端には垂直反力のみ生じる．（横に移動してしまうので水平反力は生じない．また，回転してしまうため曲げモーメントは生じない）．
+                <p>2）節点（接点）
+                <p>部材同士の接合点を節点といい，節点を剛接合した構造をラーメン構造，ピン接合した構造をトラスという（<span class="bold">2025-94-6表</span>）．                
+                <table>
+                    <tbody>
+                        <caption class="bold">2025-95-6表<span class="space">節点</span></caption>
+                        <tr>
+                            <td class="textCenter" width="50%">剛接合</td>
+                            <td class="textCenter">ピン接合</td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div class="textCenter">
+                                    <img  style="width: 80%; margin: 10%;" src="../../images/images_4/2021-95-8剛接合.svg" alt="剛接合">
+                                </div>
+                            </td>
+                            <td>
+                                <div class="textCenter">
+                                    <img  style="width: 80%; margin: 10%;" src="../../images/images_4/2021-95-9ピン接合.svg" alt="ピン接合">
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>軸方向力，曲げモーメント，せん断力，全ての応力を伝える．</td>
+                            <td>軸方向力，せん断力は伝えるが曲げモーメントは伝えない（回転してしまうから）．</td>
+                        </tr>
+                    </tbody>
+                </table>        
+                <p>鉄骨構造では，H形鋼（<span class="bold">2025-94-1図</span>参照）のウェブのみ接合する場合はピン接合，フランジも接合する場合は，剛接合となる．
+                <div class="imgcap">2025-94-1図<span class="space">H形鋼</span></div>
+                <div class="textCenter">
+                    <img src="../../images/images_4/2023-95-1H形鋼.svg" alt="H形鋼">
+                </div><p>　</p>
+                <p>3）支点によるはりの支持形式には次のような基本形式がある（<span class="bold">2025-94-7表</span>）．                    
+                <table>
+                    <caption class="bold">2025-94-7表<span class="space">はりの支持形式</span></caption>
+                    <tr>
+                        <td>
+                            <div class="textCenter">
+                                <img  style="width: 80%;" src="../../images/images_4/2021-95-10片持ちばり.svg" alt="片持ちばり">
+                            </div>
+                            <p class="textCenter">片持ちばり> 
+                        </td>
+                        <td>
+                            <div class="textCenter">
+                                <img  style="width: 80%;" src="../../images/images_4/2021-95-11単純ばり.svg" alt="単純ばり">
+                            </div>
+                            <p class="textCenter">単純ばり 
+                        </td>
+                        <td>
+                            <div class="textCenter">
+                                <img  style="width: 80%;" src="../../images/images_4/2021-95-12連続ばり.svg" alt="連続ばり">
+                            </div>
+                            <p class="textCenter">連続ばり 
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div class="textCenter">
+                                <img  style="width: 80%;" src="../../images/images_4/2021-95-13固定ばり.svg" alt="固定ばり">
+                            </div>
+                            <p class="textCenter">固定ばり
+                        </td>
+                        <td>
+                            <div class="textCenter">
+                                <img  style="width: 80%;" src="../../images/images_4/2021-95-14 3ピン支持.svg" alt="3ピン支持">
+                            </div>
+                            <p class="textCenter">3ピン支持
+                        </td>
+                        <td>
+                            <div class="textCenter">
+                                <img  style="width: 80%;" src="../../images/images_4/2021-95-15 2ヒンジアーチ.svg" alt="2ヒンジアーチ">
+                            </div>
+                            <p class="textCenter">2ヒンジアーチ> 
+                        </td>
+                    </tr>
+                </table>            
+                <p>4）応力図
+                <p>3つの応力のかかり具合を表した図を軸方向力図（N図），せん断力（Q図），曲げモーメント図（M図）といい，部材内部でどこに最大の応力が発生しているのかを知るのに用いられる．
+                <p>出題の多い片持ばり（片持支持ばり）と単純ばりに集中荷重，等分布荷重がかかった場合の，それぞれのQ図，M図を以下に示す（<span class="bold">2025-94-8表</span>）．
+                <div class="imgcap">2025-94-8表<span class="space">集中荷重，等分布荷重の応力図</span></div>
+                <div class="textCenter">
+                    <img style="width: 90%;" src="../../images/images_4/2021-95-16集中荷重，等分布荷重の応力図.svg" alt="集中荷重，等分布荷重の応力図">
+                </div>
+                <p>せん断力は，仮想断面の左側の外力（荷重・反力）の合計がせん断力となり，その合計が上向きなら梁の上側に，下向きなら下側に描く．
+                <p>曲げモーメントは，梁全長にわたって荷重と仮想断面からの距離を掛け合わせたモーメントの合計を，引張力が働く側に描く．
+                <p>片持ばりでは，集中荷重のとき，せん断力が一様になるが，他は，せん断力，曲げモーメントともにはりの根元で最大になる．
+                <p>単純ばりでは，せん断力は，はりの中央で0になり，曲げモーメントは最大になる．
+                <p>等分布荷重では，片持ばり，単純ばりともに，曲げモーメントは2次曲線になる．
+                <p>受験対策的には，この図をこのまま覚えてしまうのがよい．                                
+            </div>             
+        </div>
+        <!-- タブを構成するブロック -->
+        <div class="tab-list">
+          <button class="tab-list-item is-btn-active">問題</button>
+          <button class="tab-list-item">解答</button>
+        </div>   
+        <div class="inner">
+            <button type="button" onclick="location.href='2025-95.html'">次問へ</button>
+            <button type="button" onclick="location.href='2025-93.html'">前問へ</button>
+            <button type="button" onclick="location.href='../../index.html'">問題選択へ</button>
+        </div>
+    </div>
+      <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>  -->
+      <!-- <script src="jQadd.js"></script>     -->
+      <script src="../../index.js"></script>
+</body>
+</html>
