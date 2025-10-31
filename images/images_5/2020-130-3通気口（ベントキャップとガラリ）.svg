@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="238.2345mm"
-   height="156.13506mm"
-   viewBox="0 0 238.2345 156.13505"
+   width="243.54276mm"
+   height="158.9995mm"
+   viewBox="0 0 243.54276 158.99949"
    version="1.1"
    id="svg5"
-   inkscape:version="1.3.1 (6036e22fae, 2023-11-19, custom)"
+   inkscape:version="1.4.2 (2aeb623e1d, 2025-05-12)"
    sodipodi:docname="2020-130-3通気口（ベントキャップとガラリ）.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,15 +24,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.45718618"
-     inkscape:cx="-114.83287"
-     inkscape:cy="142.17403"
+     inkscape:zoom="0.6465589"
+     inkscape:cx="436.15516"
+     inkscape:cy="303.1433"
      inkscape:window-width="1920"
-     inkscape:window-height="968"
+     inkscape:window-height="973"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="svg5"
      inkscape:snap-global="false"
      inkscape:snap-to-guides="false"
      inkscape:snap-grids="false"
@@ -43,8 +43,8 @@
     <inkscape:grid
        type="xygrid"
        id="grid861"
-       originx="-300.41066"
-       originy="-206.88767"
+       originx="-298.77357"
+       originy="-204.02324"
        spacingy="1"
        spacingx="1"
        units="mm"
@@ -99,7 +99,8 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(-300.41065,-206.88774)">
+     transform="translate(-298.77354,-204.02332)"
+     sodipodi:insensitive="true">
     <image
        y="48.885647"
        x="55.780865"
@@ -160,9 +161,10 @@
      id="layer2"
      inkscape:label="Layer 2"
      style="display:inline;opacity:1"
-     transform="translate(-300.41065,-206.88774)">
+     transform="translate(-298.77354,-204.02332)"
+     sodipodi:insensitive="true">
     <path
-       style="opacity:1;fill:none;fill-opacity:0.929412;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:none;fill-opacity:0.929412;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-opacity:1"
        d="m 85.405348,85.762318 v 26.783992 m 0,1.98778 v 42.087 c 0,0 -0.803185,3.65896 4.19441,3.65896 h 37.456792"
        id="path896"
        sodipodi:nodetypes="ccccsc" />
@@ -1464,15 +1466,22 @@
        d="m 134.2851,406.64921 -12.07192,-2.04609"
        id="path3457" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 134.13165,407.10958 -25.26919,2.09724"
        id="path3492" />
+    <rect
+       style="opacity:0.775024;fill:#000000;stroke-width:0.2"
+       id="rect1"
+       width="84.493294"
+       height="66.55294"
+       x="300.98938"
+       y="207.46646" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layer 3"
-     transform="translate(-300.41065,-206.88774)"
+     transform="translate(-298.77354,-204.02332)"
      style="display:inline">
     <text
        xml:space="preserve"
@@ -2257,4 +2266,13 @@
          x="475.67792"
          y="362.2608">ガラリ</tspan></text>
   </g>
+  <path
+     id="path2"
+     style="opacity:1;fill:#ffffcc;fill-opacity:0.811765;stroke-width:0.2"
+     d="M 1.2278321,0 0,148.13669 H 101.89559 V 0 Z M 31.510221,2.4551473 44.195752,6.1381266 61.792094,6.9566813 C 72.441621,11.578694 80.333256,20.612886 85.526562,33.964852 102.66758,50.079804 104.53953,86.268151 91.255928,107.21516 87.32697,118.60308 82.882931,129.70083 70.385884,136.2692 l -17.596342,3.68298 C 40.515307,145.62844 28.384601,148.00293 17.187581,128.90324 7.5885229,108.08711 3.5818684,87.753537 2.8649414,72.021961 2.0392155,35.000775 12.430231,5.6049097 31.510221,2.4551473 Z" />
+  <path
+     id="path3"
+     style="opacity:1;fill:#ffffcc;fill-opacity:0.811765;stroke-width:0.2"
+     d="m 139.37289,0.5493204 c -3.18296,5.4978514 0,142.6548496 0,142.6548496 H 243.54276 V 1.1280965 Z m 43.69346,3.7620443 c 15.74984,1.2396178 25.4811,9.5009543 30.38264,18.2293783 13.30077,4.73487 23.91628,20.801862 25.46356,47.166114 0.54024,25.521658 -10.69666,46.210833 -24.88479,50.059473 -3.52057,7.00885 -10.08171,13.34201 -20.54448,18.80815 l -11.86387,0.86817 c -30.81646,-8.70231 -34.1137,-44.353953 -36.74867,-69.735793 1.3971,-36.46216 13.57128,-60.4527077 38.19561,-65.3954923 z"
+     sodipodi:nodetypes="ccccccccccccc" />
 </svg>
