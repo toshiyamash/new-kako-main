@@ -30,6 +30,7 @@ E&=E_0\times \left(\frac{b}{a}\right)^2 \notag\\[5pt]
             <button class="downmrgn" type="button" onclick="location.href='./2023/2023_6/2023-141.html'">2023清掃</button>
             <button class="downmrgn" type="button" onclick="location.href='./2023/2023_7/2023-166.html'">2023ねずみ，昆虫等の防除</button>   
     をコピー＆ペーストし，2023を2024へ置換，それだけ．
+★置換で選択範囲を絞るには，ctrl+h，範囲選択して，置換のポップアップの右上の三本線をクリック（置換は最初は全行が対象になっている）．（20251105）
 
     テーマ学習は，テーマの見直しもあるのでボチボチ．
     索引は，う〜ん，設計の見直し，かな・・・
