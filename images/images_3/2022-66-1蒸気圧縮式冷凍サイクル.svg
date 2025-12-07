@@ -7,7 +7,7 @@
    viewBox="0 0 82.957329 41.065552"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.4.2 (2aeb623e1d, 2025-05-12)"
    sodipodi:docname="2022-66-1蒸気圧縮式冷凍サイクル.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,27 +24,32 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1.4275405"
-     inkscape:cx="-54.639431"
-     inkscape:cy="55.690189"
+     inkscape:zoom="11.420324"
+     inkscape:cx="133.18361"
+     inkscape:cy="140.27623"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="973"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      inkscape:snap-global="false"
      inkscape:snap-grids="false"
      inkscape:snap-to-guides="false"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
      inkscape:snap-midpoints="true"
-     inkscape:snap-smooth-nodes="true">
+     inkscape:snap-smooth-nodes="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid919"
        originx="-75.286849"
-       originy="-85.141402" />
+       originy="-85.141402"
+       spacingy="1"
+       spacingx="1"
+       units="mm" />
   </sodipodi:namedview>
   <defs
      id="defs2">
@@ -106,12 +111,12 @@
        sodipodi:nodetypes="cccccccccccccccsccccccccccccccccccc" />
     <path
        style="opacity:1;fill:#666666;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 113.36189,121.63426 -21.206799,0.0463 c -0.505853,-0.0163 -0.74971,-0.38467 -0.929926,-0.88945 l 0.04264,-5.41332 -2.264103,-0.0306 -0.03649,0.74286 1.45375,0.01 -0.0306,4.81345 c -0.143129,1.09224 0.610166,1.80838 1.703496,1.61387 l 21.263842,0.0298"
+       d="m 112.71319,121.63426 -20.558099,0.0463 c -0.505853,-0.0163 -0.74971,-0.38467 -0.929926,-0.88945 l 0.04264,-5.41332 -2.264103,-0.0306 -0.03649,0.74286 1.45375,0.01 -0.0306,4.81345 c -0.143129,1.09224 0.610166,1.80838 1.703496,1.61387 l 20.615142,0.0298"
        id="path13146"
        sodipodi:nodetypes="cccccccccc" />
     <path
        style="opacity:1;fill:#b3b3b3;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 118.5059,121.72486 22.55179,-0.0518 c 0.46661,-0.11626 0.93557,-0.22958 0.95192,-0.90866 l 0.0433,-5.36538 2.29327,-3e-5 0.0433,0.60577 h -1.47115 v 4.88942 c 0.28783,1.02977 -0.0164,1.6366 -1.34135,1.51442 -7.50548,0.4698 -15.75984,-0.16538 -23.08488,-0.0347"
+       d="m 119.38627,121.72486 21.67142,-0.0518 c 0.46661,-0.11626 0.93557,-0.22958 0.95192,-0.90866 l 0.0433,-5.36538 2.29327,-3e-5 0.0433,0.60577 h -1.47115 v 4.88942 c 0.28783,1.02977 -0.0164,1.6366 -1.34135,1.51442 -7.50548,0.4698 -14.87947,-0.16538 -22.20451,-0.0347"
        id="path13423"
        sodipodi:nodetypes="cccccccccc" />
     <path
@@ -475,22 +480,22 @@
        sodipodi:nodetypes="cc" />
     <path
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 90.302881,120.63461 c -0.04996,1.40992 0.526925,1.97462 1.607401,1.99402 h 21.306898"
+       d="m 90.302881,120.63461 c -0.04996,1.40992 0.526925,1.97462 1.607401,1.99402 h 20.704538"
        id="path4646"
        sodipodi:nodetypes="ccc" />
     <path
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 91.384614,120.59135 c -0.02873,0.75973 0.331516,0.93957 0.89282,0.93583 h 20.933196"
+       d="m 91.384614,120.59135 c -0.02873,0.75973 0.331516,0.93957 0.89282,0.93583 l 20.469836,0"
        id="path4648"
        sodipodi:nodetypes="ccc" />
     <path
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 142.99964,120.63461 c 0.0912,1.49802 -0.51429,1.86405 -1.34032,1.87164 h -23.00816"
+       d="m 142.99964,120.63461 c 0.0912,1.49802 -0.51429,1.86405 -1.34032,1.87164 H 119.4852"
        id="path4650"
        sodipodi:nodetypes="ccc" />
     <path
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 141.91791,120.59135 c 0.12711,0.72922 -0.24753,0.9567 -0.80932,0.99702 h -22.45743"
+       d="m 141.91791,120.59135 c 0.12711,0.72922 -0.24753,0.9567 -0.80932,0.99702 h -21.7624"
        id="path4652"
        sodipodi:nodetypes="ccc" />
     <path
@@ -536,20 +541,20 @@
     <g
        id="g1285"
        transform="matrix(0.81997973,0,0,0.81997973,20.087314,5.9370446)"
-       style="stroke-width:0.3658627;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1;fill:#ffffcd;fill-opacity:1">
+       style="stroke-width:0.3658627;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1;fill:none;fill-opacity:1">
       <circle
-         style="fill:#ffffcd;stroke:#000000;stroke-width:0.3658627;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+         style="fill:none;stroke:#000000;stroke-width:0.3658627;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
          id="path1039"
          cx="183.03099"
          cy="17.583805"
          r="4.0775256"
          transform="rotate(45)" />
       <path
-         style="fill:#ffffcd;stroke:#000000;stroke-width:0.3658627;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+         style="fill:none;stroke:#000000;stroke-width:0.3658627;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
          d="m 119.87207,138.97283 -5.76649,5.76649"
          id="path1198" />
       <path
-         style="fill:#ffffcd;stroke:#000000;stroke-width:0.3658627;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+         style="fill:none;stroke:#000000;stroke-width:0.3658627;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
          d="m 114.10558,138.97284 5.76649,5.76649"
          id="path1200" />
     </g>
@@ -1003,7 +1008,7 @@
          id="tspan60986"
          style="stroke-width:0.264583"
          x="122.6038"
-         y="94.820724">低圧低温</tspan></text>
+         y="94.820724">低温低圧</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"

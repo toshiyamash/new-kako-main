@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="3.0574074"
-     inkscape:cx="209.16414"
-     inkscape:cy="78.49788"
+     inkscape:zoom="1.5287037"
+     inkscape:cx="-56.910963"
+     inkscape:cy="68.685645"
      inkscape:window-width="1920"
      inkscape:window-height="973"
      inkscape:window-x="0"
@@ -907,14 +907,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-       x="127.13145"
-       y="166.02426"
+       x="129.33435"
+       y="167.37048"
        id="text86323"><tspan
          sodipodi:role="line"
          id="tspan86321"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="127.13145"
-         y="166.02426">運転点   </tspan></text>
+         x="129.33435"
+         y="167.37048">運転点   </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
@@ -930,7 +930,7 @@
    id="tspan100719">Q</tspan></tspan></text>
     <path
        style="opacity:1;fill:#000000;stroke:#000000;stroke-width:0.2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       d="m 126.55539,164.87083 -4.23244,0.12493"
+       d="m 128.63592,166.09467 -6.16153,-0.9042"
        id="path106185"
        sodipodi:nodetypes="cc" />
     <text
@@ -1100,6 +1100,11 @@
        style="fill:none;stroke:#000000;stroke-width:0.2"
        d="m 94.744742,157.30067 1.427886,0.21635 -0.995193,0.82211"
        id="path3" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2"
+       d="m 123.67469,164.8057 -1.4087,0.31818 1.13752,0.78432"
+       id="path4"
+       sodipodi:nodetypes="ccc" />
   </g>
   <g
      inkscape:groupmode="layer"
