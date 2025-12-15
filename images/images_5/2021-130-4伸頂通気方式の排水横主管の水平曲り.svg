@@ -7,7 +7,7 @@
    viewBox="0 0 121.72937 89.058563"
    version="1.1"
    id="svg5"
-   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
+   inkscape:version="1.4.2 (2aeb623e1d, 2025-05-12)"
    sodipodi:docname="2021-130-4伸頂通気方式の排水横主管の水平曲り.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,11 +24,11 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.74118968"
-     inkscape:cx="642.88537"
-     inkscape:cy="366.97759"
+     inkscape:zoom="2.096401"
+     inkscape:cx="314.34826"
+     inkscape:cy="296.22195"
      inkscape:window-width="1920"
-     inkscape:window-height="968"
+     inkscape:window-height="973"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -3754,7 +3754,7 @@
          id="tspan4148"
          style="stroke-width:0.264583"
          x="-124.16891"
-         y="152.03777">立ち上げ個所</tspan></text>
+         y="152.03777">立ち上げ箇所</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        d="m -123.15505,139.93269 -5.53305,-4.64063"
@@ -4027,7 +4027,7 @@
          id="tspan2"
          style="stroke-width:0.264583"
          x="32.053104"
-         y="408.87073">ベント</tspan></text>
+         y="408.87073">ベンド</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;stroke-dashoffset:0"
        d="m 47.274521,404.46921 10.890893,5.51423"
