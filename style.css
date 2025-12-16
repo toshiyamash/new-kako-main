@@ -118,6 +118,7 @@ display: block;
 
 table {
   width: 100%;
+  table-layout: fixed;
   border-collapse:  collapse;     /* セルの線を重ねる */
 }
 th,td {
@@ -389,6 +390,17 @@ img.inq25 {            /* 問題選択肢内画像2022-100*/
   width: auto;
   vertical-align: middle;
   height: 40px;
+}
+.varSize45{
+  padding: 0px 3px;
+  width: auto;
+  vertical-align: middle;
+  height: 45px;
+}.varSize50{
+  padding: 0px 3px;
+  width: auto;
+  vertical-align: middle;
+  height: 50px;
 }
 
 .flex{             /*要素（表など）横並び*/
