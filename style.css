@@ -128,6 +128,11 @@ th,td {
   border: solid 1px;              /* 枠線指定 */
   padding: 5px;                   /* セル内余白 */
 }
+td.divider {
+  width: 1px;          /* 幅を1pxに固定 */
+  padding: 0;          /* 余白を完全に排除 */
+  background-color: #ccc; /* 線の色（グレーなど） */
+}
 .tdVertical{                   /* 表内縦書き */   
   /* vertical-align:middle; */
   writing-mode: vertical-lr;  
