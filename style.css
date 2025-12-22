@@ -121,6 +121,9 @@ table {
   table-layout: fixed;
   border-collapse:  collapse;     /* セルの線を重ねる */
 }
+table.auto-layout {
+  table-layout: auto;
+}
 th,td {
   border: solid 1px;              /* 枠線指定 */
   padding: 5px;                   /* セル内余白 */
