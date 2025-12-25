@@ -457,7 +457,21 @@ img.inq25 {            /* 問題選択肢内画像2022-100*/
     }  
 }
 
-
+/* YouTub埋め込みスマホ対応 */
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9のアスペクト比 */
+  height: 0;
+  overflow: hidden;
+}
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
 
 
 
