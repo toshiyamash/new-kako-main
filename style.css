@@ -144,7 +144,7 @@ tr>*:empty{       /* tableの空白のセルに斜線↗（to left top）をひ�
 .bold{
   font-weight: bold;           /* 太字 */
 }
-.textCenter{
+.textcenter{
   text-align: center;
 }
 .textRight{
