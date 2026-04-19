@@ -7,7 +7,7 @@
    viewBox="0 0 221.06826 97.504417"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.4.3 (fcd0343856, 2026-01-01)"
    sodipodi:docname="2018-92-1方位別垂直壁面と水平面の受ける日射の強さ（東京）.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,15 +24,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.74118968"
-     inkscape:cx="594.98939"
-     inkscape:cy="406.77846"
+     inkscape:zoom="2.9647587"
+     inkscape:cx="698.20184"
+     inkscape:cy="315.70866"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="973"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer6"
      inkscape:snap-global="false"
      inkscape:snap-others="false"
      inkscape:snap-grids="false"
@@ -45,12 +45,17 @@
      inkscape:snap-object-midpoints="false"
      inkscape:snap-center="true"
      inkscape:snap-smooth-nodes="false"
-     showguides="false">
+     showguides="false"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid843"
        originx="893.57277"
-       originy="1.5569975" />
+       originy="1.5569975"
+       spacingy="1"
+       spacingx="1"
+       units="mm" />
   </sodipodi:namedview>
   <defs
      id="defs2">
@@ -83,8 +88,7 @@
      id="layer2"
      inkscape:label="Layer 2"
      style="display:inline"
-     transform="translate(893.57273,1.5569975)"
-     sodipodi:insensitive="true">
+     transform="translate(893.57273,1.5569975)">
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect900"
@@ -1540,12 +1544,14 @@
        id="path7421" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m -838.01541,28.872628 v 54.97356"
-       id="path7423" />
+       d="M -838.01541,33.426175 V 64.30418 m 0,5.265324 v 14.276684"
+       id="path7423"
+       sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m -826.23536,28.872628 v 54.97356"
-       id="path7425" />
+       d="m -826.23536,28.872628 v 34.003667 m 0,6.06851 v 14.901383"
+       id="path7425"
+       sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        d="m -814.45531,28.872628 v 54.97356"
@@ -1556,16 +1562,18 @@
        id="path7429" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m -872.99858,51.540298 h 70.32331"
-       id="path7431" />
+       d="m -872.99858,51.540298 h 47.42885 m 5.71154,0 h 17.18292"
+       id="path7431"
+       sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        d="m -872.99858,62.070948 h 70.32331"
        id="path7433" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m -872.99858,72.958568 h 70.32331"
-       id="path7435" />
+       d="m -872.99858,72.958568 h 15.65842 m 4.9976,0 h 27.84375 m 5.08684,0 h 16.7367"
+       id="path7435"
+       sodipodi:nodetypes="cccccc" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect7589"
@@ -1579,24 +1587,28 @@
        id="path7591" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m -723.0707,29.037371 v 54.97357"
-       id="path7593" />
+       d="m -723.0707,29.037371 v 12.331412 m 0,5.086839 v 29.271635 m 0,6.425481 v 1.858203"
+       id="path7593"
+       sodipodi:nodetypes="cccccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m -711.29065,29.037371 v 54.97357"
-       id="path7595" />
+       d="m -711.29065,29.037371 v 7.512302 m 0,4.551382 v 42.909886"
+       id="path7595"
+       sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m -699.5106,29.037371 v 54.97357"
-       id="path7597" />
+       d="m -699.5106,29.037371 v 11.61747 m 0,4.729868 v 30.610276"
+       id="path7597"
+       sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        d="m -687.73055,29.037371 v 54.97357"
        id="path7599" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m -746.27382,40.281971 h 70.32331"
-       id="path7601" />
+       d="m -746.27382,40.281971 h 30.56197 m 5.97926,0 33.78208,0"
+       id="path7601"
+       sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        d="m -746.27382,51.705051 h 70.32331"
@@ -10071,8 +10083,7 @@
      id="layer4"
      inkscape:label="Layer 4"
      style="display:inline"
-     transform="translate(893.57273,1.5569975)"
-     sodipodi:insensitive="true">
+     transform="translate(893.57273,1.5569975)">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 42.403824,71.648456 c 0,0 2.180322,-20.604827 8.043471,-30.550863 6.007906,-10.191597 11.918302,1.643904 11.918302,1.643904 0,0 8.938726,19.007636 11.61007,26.507947"
@@ -11395,31 +11406,33 @@
        id="path7738" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       d="m -730.3375,82.989801 c 0,0 2.01933,-16.28087 3.66004,-21.45541 1.64071,-5.17455 5.04833,-3.15521 6.81525,0.37862 1.76692,3.53383 6.18421,19.05746 8.32975,21.07679"
-       id="path7740" />
+       d="m -730.3375,82.989801 c 0,0 2.01933,-16.280869 3.66004,-21.45541 1.12177,-3.537886 3.06949,-3.712931 4.75408,-2.340301 m 2.06117,2.718921 c 1.76692,3.53383 6.18421,19.05746 8.32975,21.07679"
+       id="path7740"
+       sodipodi:nodetypes="csccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       d="m -730.2113,80.844261 c 0,0 2.14555,-27.51342 6.05801,-33.95005 3.91245,-6.43662 8.07733,-0.50483 8.07733,-0.50483 0,0 6.52918,10.45334 11.26438,25.10099 1.39507,4.31543 3.7801,8.27307 5.52133,12.00427"
+       d="m -730.2113,80.844261 c 0,0 2.14555,-27.51342 6.05801,-33.95005 3.91245,-6.43662 8.07733,-0.50483 8.07733,-0.50483 0,0 6.52916,10.453345 11.26438,25.10099 0.54739,1.69325 1.24718,3.331417 2.00069,4.922434 m 2.82511,5.640322 c 0.24008,0.484384 0.47306,0.964797 0.69553,1.441514"
        id="path7742"
-       sodipodi:nodetypes="cscsc" />
+       sodipodi:nodetypes="cscsccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
        d="m -693.70552,83.620851 c 0,0 -2.14554,-3.029 -3.28142,-3.15521 -1.13587,-0.12621 -2.01933,2.65037 -3.53383,3.66004"
        id="path7744" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       d="m -693.95794,82.989801 c 0,0 -2.01933,-16.28087 -3.66004,-21.45541 -1.64071,-5.17455 -5.04833,-3.15521 -6.81525,0.37862 -1.76692,3.53383 -6.18421,19.05746 -8.32975,21.07679"
-       id="path7746" />
+       d="m -693.95794,82.989801 c 0,0 -2.01933,-16.280869 -3.66004,-21.45541 -0.68655,-2.165263 -1.68247,-3.070905 -2.73811,-3.133044 m -4.07714,3.511664 c -1.76692,3.53383 -6.18421,19.05746 -8.32975,21.07679"
+       id="path7746"
+       sodipodi:nodetypes="csccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       d="m -694.08414,80.844261 c 0,0 -2.14555,-27.51342 -6.05801,-33.95005 -3.91245,-6.43662 -8.07733,-0.50483 -8.07733,-0.50483 0,0 -6.52918,10.45334 -11.26438,25.10099 -1.39507,4.31543 -3.7801,8.27307 -5.52133,12.00427"
+       d="m -694.08414,80.844261 c 0,0 -2.14555,-27.51342 -6.05801,-33.95005 -3.91245,-6.43662 -8.07733,-0.50483 -8.07733,-0.50483 0,0 -6.52916,10.453345 -11.26438,25.10099 -0.5927,1.833436 -1.3641,3.602291 -2.18889,5.316636 m -2.68848,5.35033 c -0.22189,0.449099 -0.43745,0.894794 -0.64396,1.337304"
        id="path7748"
-       sodipodi:nodetypes="cscsc" />
+       sodipodi:nodetypes="cscsccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       d="m -729.70646,77.941471 c 0,0 5.42696,-28.27067 13.6305,-34.45488 8.20354,-6.18421 13.12566,7.44629 13.12566,7.44629 0,0 7.4463,16.02846 7.95114,21.20301"
+       d="m -729.70646,77.941471 c 0,0 5.42696,-28.27067 13.6305,-34.45488 8.20354,-6.18421 13.12566,7.44629 13.12566,7.44629 0,0 0.18251,0.392867 0.49233,1.075444 m 1.88316,4.252316 c 2.22657,5.151162 5.25979,12.637676 5.57565,15.87525"
        id="path7750"
-       sodipodi:nodetypes="cscc" />
+       sodipodi:nodetypes="cscccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.1, 2.1;stroke-dashoffset:0"
        d="m -730.2113,82.863601 c 0,0 4.39728,-5.60521 6.18421,-10.85392 1.68383,-4.94588 6.54438,-12.19296 8.20355,-13.37809 1.76691,-1.26208 5.57714,-1.91963 7.95112,0.25242 1.64383,1.504 5.80558,6.31042 8.70837,13.6305 1.39959,3.52938 2.77659,8.07734 5.55318,11.10634"
@@ -15074,70 +15087,6 @@
          y="619.35748">［kWh/m<tspan
    style="font-size:65%;baseline-shift:super"
    id="tspan12246">3</tspan>･d］</tspan></text>
-    <rect
-       style="display:inline;fill:#ffffcd;fill-opacity:1;stroke:none;stroke-width:0.20381;stroke-linejoin:round"
-       id="rect7439"
-       width="4.2836533"
-       height="4.0159254"
-       x="-840.15912"
-       y="65.093605"
-       transform="translate(1.2499999e-6)" />
-    <rect
-       style="display:inline;fill:#ffffcd;fill-opacity:1;stroke:none;stroke-width:0.311602;stroke-linejoin:round"
-       id="rect7441"
-       width="8.8350353"
-       height="4.5513825"
-       x="-842.81738"
-       y="29.39694"
-       transform="translate(1.2499999e-6)" />
-    <rect
-       style="display:inline;fill:#ffffcd;fill-opacity:1;stroke:none;stroke-width:0.311562;stroke-linejoin:round"
-       id="rect7443"
-       width="4.8191104"
-       height="4.3314462"
-       x="-824.4726"
-       y="47.418728"
-       transform="translate(1.2499999e-6)" />
-    <rect
-       style="display:inline;fill:#ffffcd;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-linejoin:round"
-       id="rect7445"
-       width="3.3912261"
-       height="4.1944108"
-       x="-856.33032"
-       y="46.90308"
-       transform="translate(1.2499999e-6)" />
-    <rect
-       style="display:inline;fill:#ffffcd;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-linejoin:round"
-       id="rect7447"
-       width="7.1394229"
-       height="4.1944108"
-       x="-857.04468"
-       y="65.27549"
-       transform="translate(1.2499999e-6)" />
-    <rect
-       style="display:inline;fill:#ffffcd;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-linejoin:round"
-       id="rect7449"
-       width="8.2995787"
-       height="4.4621391"
-       x="-828.05273"
-       y="64.720238"
-       transform="translate(1.2499999e-6)" />
-    <rect
-       style="display:inline;fill:#ffffcd;fill-opacity:1;stroke:none;stroke-width:0.20381;stroke-linejoin:round"
-       id="rect7451"
-       width="4.2836533"
-       height="4.0159254"
-       x="-857.20447"
-       y="72.233025"
-       transform="translate(1.2499999e-6)" />
-    <rect
-       style="display:inline;fill:#ffffcd;fill-opacity:1;stroke:none;stroke-width:0.20381;stroke-linejoin:round"
-       id="rect7453"
-       width="4.2836533"
-       height="4.0159254"
-       x="-824.00616"
-       y="72.233025"
-       transform="translate(1.2499999e-6)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-width:0.264583"
@@ -15150,13 +15099,6 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="-842.83539"
          y="33.235523">水平</tspan></text>
-    <rect
-       style="display:inline;fill:#ffffcd;fill-opacity:1;stroke:none;stroke-width:0.316369;stroke-linejoin:round"
-       id="rect7511"
-       width="8.1382627"
-       height="4.2836537"
-       x="-835.45239"
-       y="55.046909" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
@@ -15228,13 +15170,6 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="-827.95441"
          y="68.518333">NW</tspan></text>
-    <rect
-       style="display:inline;fill:#ffffcd;fill-opacity:1;stroke:none;stroke-width:0.256867;stroke-linejoin:round"
-       id="rect7539"
-       width="6.5147238"
-       height="4.1944113"
-       x="-847.90607"
-       y="55.042423" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
@@ -15270,13 +15205,6 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="-823.33612"
          y="75.993187">N</tspan></text>
-    <rect
-       style="display:inline;fill:#ffffcd;fill-opacity:1;stroke:none;stroke-width:0.311602;stroke-linejoin:round"
-       id="rect7661"
-       width="8.8350353"
-       height="4.5513825"
-       x="-710.60327"
-       y="52.389011" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
@@ -15288,13 +15216,6 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="-710.62134"
          y="56.406086">水平</tspan></text>
-    <rect
-       style="display:inline;fill:#ffffcd;fill-opacity:1;stroke:none;stroke-width:0.316369;stroke-linejoin:round"
-       id="rect7669"
-       width="8.1382627"
-       height="4.2836537"
-       x="-702.28314"
-       y="40.802887" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
@@ -15306,13 +15227,6 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="-701.85016"
          y="44.713608">SW</tspan></text>
-    <rect
-       style="display:inline;fill:#ffffcd;fill-opacity:1;stroke:none;stroke-width:0.20381;stroke-linejoin:round"
-       id="rect7677"
-       width="4.2836533"
-       height="4.0159254"
-       x="-714.64679"
-       y="37.02636" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
@@ -15324,13 +15238,6 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="-713.97675"
          y="40.786522">S</tspan></text>
-    <rect
-       style="display:inline;fill:#ffffcd;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-linejoin:round"
-       id="rect7685"
-       width="3.3912261"
-       height="4.1944108"
-       x="-721.91205"
-       y="55.795231" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
@@ -15342,13 +15249,6 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="-721.78577"
          y="59.883213">E</tspan></text>
-    <rect
-       style="display:inline;fill:#ffffcd;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-linejoin:round"
-       id="rect7693"
-       width="7.1394229"
-       height="4.1944108"
-       x="-725.99036"
-       y="77.509216" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
@@ -15360,13 +15260,6 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="-725.43188"
          y="81.112686">NE</tspan></text>
-    <rect
-       style="display:inline;fill:#ffffcd;fill-opacity:1;stroke:none;stroke-width:0.311562;stroke-linejoin:round"
-       id="rect7701"
-       width="4.8191104"
-       height="4.3314462"
-       x="-705.65936"
-       y="56.837364" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
@@ -15378,13 +15271,6 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="-705.50555"
          y="60.764229">W</tspan></text>
-    <rect
-       style="display:inline;fill:#ffffcd;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-linejoin:round"
-       id="rect7710"
-       width="8.2995787"
-       height="4.4621391"
-       x="-706.57159"
-       y="77.110794" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
@@ -15396,13 +15282,6 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="-706.47327"
          y="80.90889">NW</tspan></text>
-    <rect
-       style="display:inline;fill:#ffffcd;fill-opacity:1;stroke:none;stroke-width:0.256867;stroke-linejoin:round"
-       id="rect7718"
-       width="6.5147238"
-       height="4.1944113"
-       x="-728.46857"
-       y="41.414127" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
