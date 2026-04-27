@@ -7,7 +7,7 @@
    viewBox="0 0 119.70683 60.300694"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.4.3 (fcd0343856, 2026-01-01)"
    sodipodi:docname="2018-72問題添付図1.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,11 +26,11 @@
      showgrid="true"
      inkscape:zoom="1.4823793"
      inkscape:cx="159.20352"
-     inkscape:cy="37.43981"
+     inkscape:cy="37.102515"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="973"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3"
      inkscape:snap-global="false"
@@ -42,12 +42,17 @@
      inkscape:snap-bbox="true"
      inkscape:object-paths="false"
      inkscape:snap-smooth-nodes="false"
-     inkscape:snap-object-midpoints="true">
+     inkscape:snap-object-midpoints="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid861"
        originx="-58.786332"
-       originy="-69.984078" />
+       originy="-69.984078"
+       spacingy="1"
+       spacingx="1"
+       units="mm" />
   </sodipodi:namedview>
   <defs
      id="defs2">
@@ -269,11 +274,11 @@
          x="131.767"
          y="80.943214">’</tspan></text>
     <path
-       style="fill:#ffffcd;stroke:#ffff00;stroke-width:0.3"
+       style="fill:#ffffcd;stroke:#ffff00;stroke-width:0;stroke-dasharray:none"
        d="m 58.936336,91.223858 v 9.638222"
        id="path985" />
     <path
-       style="fill:#ffffcd;stroke:#ffff00;stroke-width:0.3"
+       style="fill:#ffffcd;stroke:#ffff00;stroke-width:0;stroke-dasharray:none"
        d="m 178.34319,90.33143 -0.17849,9.102764"
        id="path987" />
   </g>
